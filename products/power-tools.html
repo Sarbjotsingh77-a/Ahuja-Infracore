@@ -7,6 +7,77 @@
   <meta name="description" content="Rugged power tools from Ahuja Infracore — drills, cutters, grinders and rebar tools built for daily construction site use.">
   <link rel="stylesheet" href="../css/style.css">
   <link rel="stylesheet" href="../css/home.css">
+
+  <style>
+    /* Base background formatting for all sections */
+    .bg-section {
+      position: relative !important;
+      background-position: center center !important;
+      background-repeat: no-repeat !important;
+      background-size: cover !important;
+      isolation: isolate;
+    }
+
+    /* Neutralize default pseudo-element overlays from style.css */
+    .bg-section::before,
+    .bg-section::after {
+      display: none !important;
+    }
+
+    /* Make hero fill the viewport on desktop */
+    .page-hero#hero-section {
+      min-height: 100vh;
+    }
+
+    /* 1. DESKTOP BACKGROUND IMAGES (Default) */
+    #hero-section {
+      background-image: linear-gradient(rgba(23,19,15,0.45), rgba(23,19,15,0.45)), url('../assets/products/powertools-h.png') !important;
+    }
+    #overview-section {
+      background-image: url('../assets/powertools-overview-desktop.png') !important;
+      background-color: transparent !important;
+    }
+    #brands-section {
+      background-image: url('../assets/products/brand-bg.png') !important;
+      background-color: transparent !important;
+    }
+    #specs-section {
+      background-image: url('../assets/powertools-specs-desktop.png') !important;
+      background-color: transparent !important;
+      padding: 70px 0 100px;
+    }
+    #cta-section {
+      background-image: linear-gradient(rgba(23,19,15,0.65), rgba(23,19,15,0.65)), url('../assets/powertools-cta-desktop.png') !important;
+    }
+    #footer-section {
+      background-image: linear-gradient(rgba(23,19,15,0.88), rgba(23,19,15,0.88)), url('../assets/footer-bg-desktop.png') !important;
+    }
+
+    /* 2. MOBILE BACKGROUND IMAGES (Screens <= 768px) */
+    @media (max-width: 768px) {
+      .page-hero#hero-section {
+        min-height: auto;
+      }
+      #hero-section {
+        background-image: linear-gradient(rgba(23,19,15,0.45), rgba(23,19,15,0.45)), url('../assets/products/powertools-hv.png') !important;
+      }
+      #overview-section {
+        background-image: url('../assets/powertools-overview-mobile.png') !important;
+      }
+      #brands-section {
+        background-image: url('../assets/products/brand-v.png') !important;
+      }
+      #specs-section {
+        background-image: url('../assets/powertools-specs-mobile.png') !important;
+      }
+      #cta-section {
+        background-image: linear-gradient(rgba(23,19,15,0.65), rgba(23,19,15,0.65)), url('../assets/powertools-cta-mobile.png') !important;
+      }
+      #footer-section {
+        background-image: linear-gradient(rgba(23,19,15,0.88), rgba(23,19,15,0.88)), url('../assets/footer-bg-mobile.png') !important;
+      }
+    }
+  </style>
 </head>
 <body>
   <svg style="display:none" aria-hidden="true">
@@ -72,7 +143,8 @@
     </a>
   </div>
 
-  <section class="page-hero">
+  <!-- Hero Section -->
+  <section class="page-hero bg-section" id="hero-section">
     <div class="wrap">
       <p class="breadcrumb"><a href="../index.html">Home</a> &gt; <a href="../products.html">Products</a> &gt; Power Tools</p>
       <span class="eyebrow">Site Equipment</span>
@@ -84,10 +156,10 @@
     </div>
   </section>
 
-  <section>
+  <!-- Overview Section -->
+  <section class="bg-section" id="overview-section">
     <div class="wrap">
-    <div class="cat-details">
-
+      <div class="cat-details">
         <div class="cat-detail">
           <div class="cat-detail-media"><img src="https://images.unsplash.com/photo-1572981779307-38b8cabb2407?auto=format&fit=crop&w=900&q=80" alt="Power tools laid out on a construction site"></div>
           <div class="cat-detail-copy">
@@ -95,18 +167,19 @@
             <h3>Site-Ready Equipment</h3>
             <p>We supply a full range of power tools from trusted manufacturers — sized and rated for continuous use in heavy construction environments, with genuine spares and service backup.</p>
             <ul class="feature-list">
-<li><svg><use href="#icon-check"/></svg><span>Heavy-duty motors for daily use</span></li>
-<li><svg><use href="#icon-check"/></svg><span>Cordless & corded options</span></li>
-<li><svg><use href="#icon-check"/></svg><span>Rebar cutting & bending tools</span></li>
-<li><svg><use href="#icon-check"/></svg><span>Genuine spares & service support</span></li>
+              <li><svg><use href="#icon-check"/></svg><span>Heavy-duty motors for daily use</span></li>
+              <li><svg><use href="#icon-check"/></svg><span>Cordless & corded options</span></li>
+              <li><svg><use href="#icon-check"/></svg><span>Rebar cutting & bending tools</span></li>
+              <li><svg><use href="#icon-check"/></svg><span>Genuine spares & service support</span></li>
             </ul>
           </div>
         </div>
-    </div>
+      </div>
     </div>
   </section>
 
-  <section class="brands">
+  <!-- Brands Section -->
+  <section class="brands bg-section" id="brands-section">
     <div class="wrap">
       <div class="section-head">
         <div>
@@ -116,42 +189,44 @@
       </div>
       <div class="brand-collage">
         <a href="#" class="brand-tile" tabindex="0">
-          <img src="../assets/logos/steelcore.svg" alt="SteelCore" />
+          <img src="../assets/logos/Bosch.jpg" alt="SteelCore" />
         </a>
         <a href="#" class="brand-tile" tabindex="0">
-          <img src="../assets/logos/buildmax.svg" alt="BuildMax" />
+          <img src="../assets/logos/dewalt.png" alt="BuildMax" />
         </a>
         <a href="#" class="brand-tile" tabindex="0">
-          <img src="../assets/logos/formtech.svg" alt="FormTech" />
+          <img src="../assets/logos/freemans.png" alt="FormTech" />
         </a>
         <a href="#" class="brand-tile" tabindex="0">
-          <img src="../assets/logos/apexalloy.svg" alt="Apex Alloy" />
+          <img src="../assets/logos/taparia.png" alt="Apex Alloy" />
         </a>
         <a href="#" class="brand-tile" tabindex="0">
-          <img src="../assets/logos/grandstone.svg" alt="Grandstone" />
+          <img src="../assets/logos/mangalam.jpg" alt="Grandstone" />
         </a>
-        <a href="#" class="brand-tile" tabindex="0">
+        <!-- <a href="#" class="brand-tile" tabindex="0">
           <img src="../assets/logos/ironpeak.svg" alt="IronPeak" />
-        </a>
+        </a> -->
       </div>
     </div>
   </section>
 
-  <section style="background: var(--light-cream); padding: 70px 0 100px;">
+  <!-- Specs Section -->
+  <section class="bg-section" id="specs-section">
     <div class="wrap">
       <div class="section-head">
         <div><span class="eyebrow">Specifications</span><h2>Technical Overview</h2></div>
       </div>
       <dl class="spec-grid">
-<div><dt>Tool Types</dt><dd>Drills, Grinders, Cutters, Benders</dd></div>
-<div><dt>Power Source</dt><dd>Electric / Battery</dd></div>
-<div><dt>Warranty</dt><dd>Manufacturer-backed</dd></div>
-<div><dt>Service</dt><dd>Pan-India support</dd></div>
+        <div><dt>Tool Types</dt><dd>Drills, Grinders, Cutters, Benders</dd></div>
+        <div><dt>Power Source</dt><dd>Electric / Battery</dd></div>
+        <div><dt>Warranty</dt><dd>Manufacturer-backed</dd></div>
+        <div><dt>Service</dt><dd>Pan-India support</dd></div>
       </dl>
     </div>
   </section>
 
-  <section class="cta-band">
+  <!-- CTA Section -->
+  <section class="cta-band bg-section" id="cta-section">
     <div class="wrap">
       <h2>Equip Your Site Today</h2>
       <p>Reach out for tool availability, rental terms, and bulk equipment quotes.</p>
@@ -161,7 +236,8 @@
     </div>
   </section>
 
-  <footer class="site-footer">
+  <!-- Footer Section -->
+  <footer class="site-footer bg-section" id="footer-section">
     <div class="wrap">
       <div class="footer-grid">
         <div class="footer-brand">

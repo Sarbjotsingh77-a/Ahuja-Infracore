@@ -7,6 +7,77 @@
   <meta name="description" content="High-tensile threaded tie rods from Ahuja Infracore engineered for secure, precision formwork alignment.">
   <link rel="stylesheet" href="../css/style.css">
   <link rel="stylesheet" href="../css/home.css">
+
+  <style>
+    /* Base background formatting for all sections */
+    .bg-section {
+      position: relative !important;
+      background-position: center center !important;
+      background-repeat: no-repeat !important;
+      background-size: cover !important;
+      isolation: isolate;
+    }
+
+    /* Neutralize default pseudo-element overlays from style.css */
+    .bg-section::before,
+    .bg-section::after {
+      display: none !important;
+    }
+
+    /* Make hero fill the viewport on desktop */
+    .page-hero#hero-section {
+      min-height: 100vh;
+    }
+
+    /* 1. DESKTOP BACKGROUND IMAGES (Default) */
+    #hero-section {
+      background-image: linear-gradient(rgba(23,19,15,0.45), rgba(23,19,15,0.45)), url('../assets/products/tierods-h.png') !important;
+    }
+    #overview-section {
+      background-image: url('../assets/tierods-overview-desktop.png') !important;
+      background-color: transparent !important;
+    }
+    #brands-section {
+      background-image: url('../assets/products/brand-bg.png') !important;
+      background-color: transparent !important;
+    }
+    #specs-section {
+      background-image: url('../assets/tierods-specs-desktop.png') !important;
+      background-color: transparent !important;
+      padding: 70px 0 100px;
+    }
+    #cta-section {
+      background-image: linear-gradient(rgba(23,19,15,0.65), rgba(23,19,15,0.65)), url('../assets/tierods-cta-desktop.png') !important;
+    }
+    #footer-section {
+      background-image: linear-gradient(rgba(23,19,15,0.88), rgba(23,19,15,0.88)), url('../assets/footer-bg-desktop.png') !important;
+    }
+
+    /* 2. MOBILE BACKGROUND IMAGES (Screens <= 768px) */
+    @media (max-width: 768px) {
+      .page-hero#hero-section {
+        min-height: auto;
+      }
+      #hero-section {
+        background-image: linear-gradient(rgba(23,19,15,0.45), rgba(23,19,15,0.45)), url('../assets/products/tierods-hv.png') !important;
+      }
+      #overview-section {
+        background-image: url('../assets/tierods-overview-mobile.png') !important;
+      }
+      #brands-section {
+        background-image: url('../assets/products/brand-v.png') !important;
+      }
+      #specs-section {
+        background-image: url('../assets/tierods-specs-mobile.png') !important;
+      }
+      #cta-section {
+        background-image: linear-gradient(rgba(23,19,15,0.65), rgba(23,19,15,0.65)), url('../assets/tierods-cta-mobile.png') !important;
+      }
+      #footer-section {
+        background-image: linear-gradient(rgba(23,19,15,0.88), rgba(23,19,15,0.88)), url('../assets/footer-bg-mobile.png') !important;
+      }
+    }
+  </style>
 </head>
 <body>
   <svg style="display:none" aria-hidden="true">
@@ -72,7 +143,8 @@
     </a>
   </div>
 
-  <section class="page-hero">
+  <!-- Hero Section -->
+  <section class="page-hero bg-section" id="hero-section">
     <div class="wrap">
       <p class="breadcrumb"><a href="../index.html">Home</a> &gt; <a href="../products.html">Products</a> &gt; Tie Rods</p>
       <span class="eyebrow">Construction Hardware</span>
@@ -84,29 +156,30 @@
     </div>
   </section>
 
-  <section>
+  <!-- Overview Section -->
+  <section class="bg-section" id="overview-section">
     <div class="wrap">
-    <div class="cat-details">
-
+      <div class="cat-details">
         <div class="cat-detail">
-          <div class="cat-detail-media"><img src="../assets/construction.png" alt="Tie rods and threaded hardware"></div>
+          <div class="cat-detail-media"><img src="../assets/tierods.jpg" alt="Tie rods and threaded hardware"></div>
           <div class="cat-detail-copy">
             <span class="eyebrow">Overview</span>
             <h3>Precision Under Pressure</h3>
             <p>Manufactured from high-tensile steel, our tie rods keep shuttering panels locked in place during concrete pours, preventing bulging and ensuring dimensionally accurate walls and columns.</p>
             <ul class="feature-list">
-<li><svg><use href="#icon-check"/></svg><span>High-tensile steel construction</span></li>
-<li><svg><use href="#icon-check"/></svg><span>Threaded for wing nut & waterstop use</span></li>
-<li><svg><use href="#icon-check"/></svg><span>Reusable across multiple pours</span></li>
-<li><svg><use href="#icon-check"/></svg><span>Corrosion-resistant coating</span></li>
+              <li><svg><use href="#icon-check"/></svg><span>High-tensile steel construction</span></li>
+              <li><svg><use href="#icon-check"/></svg><span>Threaded for wing nut & waterstop use</span></li>
+              <li><svg><use href="#icon-check"/></svg><span>Reusable across multiple pours</span></li>
+              <li><svg><use href="#icon-check"/></svg><span>Corrosion-resistant coating</span></li>
             </ul>
           </div>
         </div>
-    </div>
+      </div>
     </div>
   </section>
 
-  <section class="brands">
+  <!-- Brands Section -->
+  <section class="brands bg-section" id="brands-section">
     <div class="wrap">
       <div class="section-head">
         <div>
@@ -116,12 +189,12 @@
       </div>
       <div class="brand-collage">
         <a href="#" class="brand-tile" tabindex="0">
-          <img src="../assets/logos/steelcore.svg" alt="SteelCore" />
+          <img src="../assets/logos/fischer.png" alt="SteelCore" />
         </a>
         <a href="#" class="brand-tile" tabindex="0">
-          <img src="../assets/logos/buildmax.svg" alt="BuildMax" />
+          <img src="../assets/logos/taparia.png" alt="BuildMax" />
         </a>
-        <a href="#" class="brand-tile" tabindex="0">
+        <!-- <a href="#" class="brand-tile" tabindex="0">
           <img src="../assets/logos/formtech.svg" alt="FormTech" />
         </a>
         <a href="#" class="brand-tile" tabindex="0">
@@ -132,26 +205,28 @@
         </a>
         <a href="#" class="brand-tile" tabindex="0">
           <img src="../assets/logos/ironpeak.svg" alt="IronPeak" />
-        </a>
+        </a> -->
       </div>
     </div>
   </section>
 
-  <section style="background: var(--light-cream); padding: 70px 0 100px;">
+  <!-- Specs Section -->
+  <section class="bg-section" id="specs-section">
     <div class="wrap">
       <div class="section-head">
         <div><span class="eyebrow">Specifications</span><h2>Technical Overview</h2></div>
       </div>
       <dl class="spec-grid">
-<div><dt>Material</dt><dd>High-Tensile Steel</dd></div>
-<div><dt>Diameter Range</dt><dd>15mm – 26mm</dd></div>
-<div><dt>Thread Type</dt><dd>Continuous / Taper</dd></div>
-<div><dt>Length Options</dt><dd>Custom, up to 6m</dd></div>
+        <div><dt>Material</dt><dd>High-Tensile Steel</dd></div>
+        <div><dt>Diameter Range</dt><dd>15mm – 26mm</dd></div>
+        <div><dt>Thread Type</dt><dd>Continuous / Taper</dd></div>
+        <div><dt>Length Options</dt><dd>Custom, up to 6m</dd></div>
       </dl>
     </div>
   </section>
 
-  <section class="cta-band">
+  <!-- CTA Section -->
+  <section class="cta-band bg-section" id="cta-section">
     <div class="wrap">
       <h2>Need Tie Rods for Your Formwork?</h2>
       <p>Get sizing guidance and bulk quotes tailored to your shuttering system.</p>
@@ -161,7 +236,8 @@
     </div>
   </section>
 
-  <footer class="site-footer">
+  <!-- Footer Section -->
+  <footer class="site-footer bg-section" id="footer-section">
     <div class="wrap">
       <div class="footer-grid">
         <div class="footer-brand">
