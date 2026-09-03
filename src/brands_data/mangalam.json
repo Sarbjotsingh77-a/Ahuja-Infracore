@@ -1,0 +1,49 @@
+{
+  "brand": "Mangalam",
+  "products": [
+    {
+      "id": "mild-steel-electrode-range",
+      "name": "Mild Steel Electrode range"
+    },
+    {
+      "id": "s-s-electrodes-range-e-g-e316l",
+      "name": "S.S. Electrodes range (e.g. E316L)"
+    },
+    {
+      "id": "mangan-hard-facing-electrodes-range-h-f-electrodes-250r-350r-650r",
+      "name": "\"Mangan\" Hard Facing Electrodes range (H.F. Electrodes 250R / 350R / 650R)"
+    },
+    {
+      "id": "mig-wire-range-double-deoxidized-copper-coated-carbon-steel",
+      "name": "MIG Wire range (Double Deoxidized Copper Coated Carbon Steel)"
+    },
+    {
+      "id": "cut-off-wheel-range-m1-m2-m6-m7-m9-m10-m11",
+      "name": "Cut Off Wheel range (M1, M2, M6, M7, M9, M10, M11)"
+    },
+    {
+      "id": "wa-wheel-m27",
+      "name": "WA Wheel (M27)"
+    },
+    {
+      "id": "gc-wheel-m12",
+      "name": "GC Wheel (M12)"
+    },
+    {
+      "id": "dc-wheel-m6-m7-m10-range",
+      "name": "DC Wheel (M6/M7/M10) range"
+    },
+    {
+      "id": "flap-disc-m16-range",
+      "name": "Flap Disc (M16) range"
+    },
+    {
+      "id": "non-woven-wheel-m20-range",
+      "name": "Non Woven Wheel (M20) range"
+    },
+    {
+      "id": "felt-wheel-m24-range",
+      "name": "Felt Wheel (M24) range"
+    }
+  ]
+}

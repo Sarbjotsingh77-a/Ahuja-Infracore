@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
   if (window.gsap && window.ScrollTrigger) gsap.registerPlugin(ScrollTrigger);
 
   /* ---------- Navbar scroll state ---------- */
+    /* ---------- Navbar scroll state ---------- */
   const navbar = document.querySelector('.navbar');
   if (navbar) {
     const onScroll = () => {
@@ -72,3 +73,36 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 });
+
+
+  /* ---------- Slow, eased mouse-wheel scroll (desktop only) ---------- */
+  (() => {
+    const isTouch = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
+    const isDesktop = window.matchMedia('(min-width: 1024px)').matches;
+    if (reduceMotion || isTouch || !isDesktop) return;
+
+    let targetY = window.scrollY;
+    let currentY = window.scrollY;
+    let ticking = false;
+    const ease = 0.04; // lower = slower scroll, higher = snappier
+
+    const maxScroll = () => document.documentElement.scrollHeight - window.innerHeight;
+    const clamp = () => { targetY = Math.min(Math.max(targetY, 0), maxScroll()); };
+
+    const raf = () => {
+      currentY += (targetY - currentY) * ease;
+      if (Math.abs(targetY - currentY) < 0.5) currentY = targetY;
+      window.scrollTo(0, currentY);
+      if (currentY !== targetY) requestAnimationFrame(raf);
+      else ticking = false;
+    };
+
+    window.addEventListener('wheel', (e) => {
+      e.preventDefault();
+      targetY += e.deltaY;
+      clamp();
+      if (!ticking) { ticking = true; requestAnimationFrame(raf); }
+    }, { passive: false });
+
+    window.addEventListener('resize', () => { currentY = window.scrollY; targetY = window.scrollY; clamp(); });
+  })();

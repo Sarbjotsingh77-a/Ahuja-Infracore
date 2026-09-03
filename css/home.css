@@ -3,6 +3,7 @@
   background: var(--dark);
   position: relative;
   width: 100%;
+  height: 100vh;
   overflow: hidden;
 }
 .hero-bg {
@@ -145,7 +146,7 @@
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  padding: 90px 0 0 !important;
+  padding: 30px 0 !important;
   --section-bg-desktop:url("");
   --section-bg-mobile:url("");
 }
@@ -160,13 +161,15 @@
 .categories .section-head h2 {
   color: var(--cream);
 }
+
 .cat-row {
   display: flex;
-  height: 60vh;
+  flex: 1;
   gap: 2px;
   width: 100%;
   margin-top: 32px;
 }
+
 .cat-card {
   position: relative;
   flex: 1;
@@ -244,6 +247,7 @@
   display: grid;
   grid-template-columns: 1.1fr 1fr;
   background: var(--light-cream);
+  padding: 0;              /* was: padding: 40px 0; */
   --section-bg-desktop:url("");
   --section-bg-mobile:url("");
 }
@@ -303,52 +307,79 @@
   object-fit: cover;
 }
 
-/* ---------- Brand Logos Collage ---------- */
+/* ---------- Brand Logos Grid Fix (Unified & Strict Alignment) ---------- */
 .brands {
   background: var(--light-cream);
   display: flex;
   align-items: center;
+  padding: 40px 0;
   --section-bg-desktop:url("");
   --section-bg-mobile:url("");
 }
 .brands .wrap {
   width: 100%;
 }
-.brand-collage {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  gap: 24px;
+
+.brand-collage,
+.brands-grid,
+.partners-grid,
+.brand-cards-container {
+  display: grid !important;
+  grid-template-columns: repeat(5, 1fr) !important;
+  gap: 20px !important;
+  width: 100% !important;
+  margin: 0 auto !important;
+  align-items: stretch !important;
 }
-.brand-tile {
-  background: var(--white);
-  border: 1px solid var(--beige);
-  border-radius: 6px;
-  height: 140px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 24px;
-  overflow: hidden;
-  transition: transform 0.4s var(--ease), box-shadow 0.4s var(--ease), border-color 0.4s var(--ease);
+
+.brand-tile,
+.brand-title,
+.brand-card,
+.partner-card {
+  background: var(--white, #ffffff) !important;
+  border: 1px solid var(--beige, #e5e0d8) !important;
+  border-radius: 6px !important;
+  height: 140px !important;
+  width: 100% !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 20px !important;
+  box-sizing: border-box !important;
+  overflow: hidden !important;
+  margin: 0 !important;
+  transform: none !important;
+  transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease !important;
 }
-.brand-tile:nth-child(odd) { transform: rotate(-2deg); }
-.brand-tile:nth-child(even) { transform: rotate(2deg); }
-.brand-tile:nth-child(3n) { transform: rotate(-1.5deg) translateY(10px); }
-.brand-tile img {
-  max-width: 100%;
-  max-height: 56px;
-  transition: transform 0.4s var(--ease);
+
+.brand-tile img,
+.brand-title img,
+.brand-card img,
+.partner-card img {
+  max-width: 80% !important;
+  max-height: 70% !important;
+  width: auto !important;
+  height: auto !important;
+  object-fit: contain !important;
+  display: block !important;
+  margin: 0 auto !important;
+  transition: transform 0.3s ease !important;
 }
+
 .brand-tile:hover,
-.brand-tile:focus-visible {
-  transform: rotate(0deg) translateY(-6px) scale(1.04);
-  border-color: var(--gold);
-  box-shadow: 0 20px 40px rgba(23,19,15,0.1);
-  z-index: 2;
+.brand-title:hover,
+.brand-card:hover,
+.partner-card:hover {
+  transform: translateY(-4px) !important;
+  border-color: var(--gold, #b8874a) !important;
+  box-shadow: 0 8px 20px rgba(23,19,15,0.08) !important;
 }
+
 .brand-tile:hover img,
-.brand-tile:focus-visible img {
-  transform: scale(1.18);
+.brand-title:hover img,
+.brand-card:hover img,
+.partner-card:hover img {
+  transform: scale(1.08) !important;
 }
 
 /* ---------- Featured Products ---------- */
@@ -356,11 +387,15 @@
   background: var(--light-cream);
   display: flex;
   align-items: center;
+  padding: 0 0 40px;
   --section-bg-desktop:url("");
   --section-bg-mobile:url("");
 }
 .featured-products .wrap {
   width: 100%;
+}
+.featured-products .section-head {
+  margin-bottom: 24px;
 }
 .fp-grid {
   display: grid;
@@ -436,6 +471,7 @@
   color: var(--cream);
   display: flex;
   align-items: center;
+  padding: 0 0 40px;
   --section-bg-desktop:url("");
   --section-bg-mobile:url("");
 }
@@ -443,7 +479,7 @@
   width: 100%;
 }
 .sectors .section-head {
-  margin-bottom: 40px;
+  margin-bottom: 24px;
 }
 .sectors-grid {
   display: grid;
@@ -519,6 +555,7 @@
   background: var(--light-cream);
   display: flex;
   align-items: center;
+  padding: 40px 0;
   --section-bg-desktop:url("");
   --section-bg-mobile:url("");
 }
@@ -582,6 +619,7 @@
 .commitment {
   display: flex;
   align-items: center;
+  padding: 40px 0;
   --section-bg-desktop:url("");
   --section-bg-mobile:url("");
 }
@@ -611,6 +649,8 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
+  transform: none !important;
+  will-change: auto;
 }
 .commitment-copy h2 {
   font-size: clamp(1.8rem, 3.4vw, 2.6rem);
@@ -673,15 +713,12 @@
     padding-left: 0;
     margin-bottom: 14px;
   }
-  .brand-collage {
-    grid-template-columns: repeat(3, 1fr);
-  }
   .fp-grid {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
-@media (max-width: 1023px) {
+@media (max-width: 1024px) {
   .hero-content {
     padding: 0 48px;
   }
@@ -689,26 +726,32 @@
     flex-direction: column;
     height: auto;
   }
-  .cat-card {
+    .cat-card {
+    flex: 0 0 100px;
     height: 100px;
   }
   .cat-card.active {
+    flex: 0 0 200px;
     height: 200px;
   }
   .story {
     grid-template-columns: 1fr;
+    padding-top: 0 !important;
   }
   .story-media {
     height: 350px;
   }
   .story-content {
-    padding: 0 48px;
+    padding: 24px 48px 0;
   }
   .thumb-rail {
     right: 12px;
   }
-  .brand-collage {
-    grid-template-columns: repeat(3, 1fr);
+  .brand-collage,
+  .brands-grid,
+  .partners-grid,
+  .brand-cards-container {
+    grid-template-columns: repeat(3, 1fr) !important;
   }
   .sectors-grid {
     grid-template-columns: repeat(2, 1fr);
@@ -750,13 +793,20 @@
     grid-template-columns: repeat(2, 1fr);
   }
   .story-content, .commitment-copy {
-    padding: 0 20px 30px;
+    padding: 20px 20px 30px;
   }
-  .brand-collage {
-    grid-template-columns: repeat(2, 1fr);
+  .brand-collage,
+  .brands-grid,
+  .partners-grid,
+  .brand-cards-container {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 12px !important;
   }
-  .brand-tile {
-    transform: none !important;
+  .brand-tile,
+  .brand-title,
+  .brand-card,
+  .partner-card {
+    height: 110px !important;
   }
   .sectors-grid {
     grid-template-columns: 1fr;
@@ -766,5 +816,16 @@
   }
   .why-grid {
     grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 1023px) {
+  .hero {
+    height: 100svh;
+    height: 100dvh;
+    min-height: 560px;
+  }
+  .hero-main {
+    min-height: 100%;
   }
 }

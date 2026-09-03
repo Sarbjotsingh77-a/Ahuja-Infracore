@@ -1,0 +1,310 @@
+{
+  "brand": "Bosch Professional",
+  "products": [
+    {
+      "id": "gbm-series-drills",
+      "name": "GBM Series (Drills)",
+      "image" :"assets/brands/product_images/Bosch/gbm-series-drills.png"
+    },
+    {
+      "id": "gsb-series-impact-drills",
+      "name": "GSB Series (Impact Drills)",
+      "image" :"assets/brands/product_images/Bosch/gsb-series-impact-drills.png"
+    },
+    {
+      "id": "gdr-series-cordless-impact-drivers",
+      "name": "GDR Series (Cordless Impact Drivers)",
+      "image" :"assets/brands/product_images/Bosch/gdr-series-cordless-impact-drivers.png"
+    },
+    {
+      "id": "gdr-series-impact-drivers",
+      "name": "GDR Series (Impact Drivers)",
+      "image" :"assets/brands/product_images/Bosch/gdr-series-impact-drivers.png"
+    },
+    {
+      "id": "gds-series-impact-wrenches",
+      "name": "GDS Series (Impact Wrenches)",
+      "image" :"assets/brands/product_images/Bosch/gds-series-impact-wrenches.png"
+    },
+    {
+      "id": "gbh-series-rotary-hammers",
+      "name": "GBH Series (Rotary Hammers)",
+      "image" :"assets/brands/product_images/Bosch/gbh-series-rotary-hammers.png"
+    },
+    {
+      "id": "gsh-series-demolition-hammers",
+      "name": "GSH Series (Demolition Hammers)",
+      "image" :"assets/brands/product_images/Bosch/gsh-series-demolition-hammers.png"
+    },
+    {
+      "id": "gws-series-angle-grinders",
+      "name": "GWS Series (Angle Grinders)",
+      "image" :"assets/brands/product_images/Bosch/gws-series-angle-grinders.png"
+    },
+    {
+      "id": "gco-series-metal-cut-off-saws",
+      "name": "GCO Series (Metal Cut-off Saws)",
+      "image" :"assets/brands/product_images/Bosch/gco-series-metal-cut-off-saws.png"
+    },
+    {
+      "id": "gws-series-angle-straight-grinders",
+      "name": "GWS Series (Angle/Straight Grinders)",
+      "image" :"assets/brands/product_images/Bosch/gws-series-angle-straight-grinders.png"
+    },
+    {
+      "id": "gks-series-circular-saws",
+      "name": "GKS Series (Circular Saws)",
+      "image" :"assets/brands/product_images/Bosch/gks-series-circular-saws.png"
+    },
+    {
+      "id": "gcm-series-miter-saws",
+      "name": "GCM Series (Miter Saws)",
+      "image" :"assets/brands/product_images/Bosch/gcm-series-miter-saws.png"
+    },
+    {
+      "id": "gsa-series-reciprocating-saws",
+      "name": "GSA Series (Reciprocating Saws)",
+      "image" :"assets/brands/product_images/Bosch/gsa-series-reciprocating-saws.png"
+    },
+    {
+      "id": "gkt-series-track-saws",
+      "name": "GKT Series (Track Saws)",
+      "image" :"assets/brands/product_images/Bosch/gkt-series-track-saws.png"
+    },
+    {
+      "id": "gst-series-jigsaws",
+      "name": "GST Series (Jigsaws)",
+      "image" :"assets/brands/product_images/Bosch/gst-series-jigsaws.png"
+    },
+    {
+      "id": "professional-12v-18v-system",
+      "name": "Professional 12V & 18V System",
+      "image" :"assets/brands/product_images/Bosch/professional-12v-18v-system.png"
+    },
+    {
+      "id": "biturbo-tools",
+      "name": "BITURBO Tools",
+      "image" :"assets/brands/product_images/Bosch/biturbo-tools.png"
+    },
+    {
+      "id": "procore18v-gba-battery-series",
+      "name": "ProCORE18V & GBA Battery Series",
+      "image" :"assets/brands/product_images/Bosch/procore18v-gba-battery-series.png"
+    },
+    {
+      "id": "gal-charger-series",
+      "name": "GAL Charger Series",
+      "image" :"assets/brands/product_images/Bosch/gal-charger-series.png"
+    },
+    {
+      "id": "gex-series-random-orbit-sanders",
+      "name": "GEX Series (Random Orbit Sanders)",
+      "image" :"assets/brands/product_images/Bosch/gex-series-random-orbit-sanders.png"
+    },
+    {
+      "id": "gho-series-planers",
+      "name": "GHO Series (Planers)",
+      "image" :"assets/brands/product_images/Bosch/gho-series-planers.png"
+    },
+    {
+      "id": "gkf-pof-series-routers",
+      "name": "GKF / POF Series (Routers)",
+      "image" :"assets/brands/product_images/Bosch/gkf-pof-series-routers.png"
+    },
+    {
+      "id": "ghg-series-heat-guns",
+      "name": "GHG Series (Heat Guns)",
+      "image" :"assets/brands/product_images/Bosch/ghg-series-heat-guns.png"
+    },
+    {
+      "id": "gkp-series-glue-guns",
+      "name": "GKP Series (Glue Guns)",
+      "image" :"assets/brands/product_images/Bosch/gkp-series-glue-guns.png"
+    },
+    {
+      "id": "ghp-series-high-pressure-washers-e-g-fontus-aqt-range",
+      "name": "GHP Series (High-Pressure Washers, e.g. Fontus/AQT range)",
+      "image" :"assets/brands/product_images/Bosch/ghp-series-high-pressure-washers-e-g-fontus-aqt-range.png"
+    },
+    {
+      "id": "gas-series-dust-extractors-vacuum-cleaners",
+      "name": "GAS Series (Dust Extractors / Vacuum Cleaners)",
+      "image" :"assets/brands/product_images/Bosch/gas-series-dust-extractors-vacuum-cleaners.png"
+    },
+    {
+      "id": "gta-series-workbenches-benchtop-stands",
+      "name": "GTA Series (Workbenches / Benchtop Stands)",
+      "image" :"assets/brands/product_images/Bosch/gta-series-workbenches-benchtop-stands.png"
+    },
+    {
+      "id": "pliers-vde-pliers-range",
+      "name": "Pliers & VDE Pliers range",
+      "image" :"assets/brands/product_images/Bosch/pliers-vde-pliers-range.png"
+    },
+    {
+      "id": "screwdrivers-vde-screwdrivers-range",
+      "name": "Screwdrivers & VDE Screwdrivers range",
+      "image" :"assets/brands/product_images/Bosch/screwdrivers-vde-screwdrivers-range.png"
+    },
+    {
+      "id": "screwdriver-bits",
+      "name": "Screwdriver Bits",
+      "image" :"assets/brands/product_images/Bosch/screwdriver-bits.png"
+    },
+    {
+      "id": "nutsetters-sockets-pro-expert-accessories",
+      "name": "Nutsetters & Sockets (PRO/EXPERT Accessories)",
+      "image" :"assets/brands/product_images/Bosch/nutsetters-sockets-pro-expert-accessories.png"
+    },
+    {
+      "id": "hammers-range-hand-tools",
+      "name": "Hammers range (Hand Tools)",
+      "image" :"assets/brands/product_images/Bosch/hammers-range-hand-tools.png"
+    },
+    {
+      "id": "vde-wrenches-range",
+      "name": "VDE Wrenches range",
+      "image" :"assets/brands/product_images/Bosch/vde-wrenches-range.png"
+    },
+    {
+      "id": "ratchets-range-hand-tools",
+      "name": "Ratchets range (Hand Tools)",
+      "image" :"assets/brands/product_images/Bosch/ratchets-range-hand-tools.png"
+    },
+    {
+      "id": "knives-vde-knives-range",
+      "name": "Knives & VDE Knives range",
+      "image" :"assets/brands/product_images/Bosch/knives-vde-knives-range.png"
+    },
+    {
+      "id": "chisels-pro-expert-accessories",
+      "name": "Chisels (PRO/EXPERT Accessories)",
+      "image" :"assets/brands/product_images/Bosch/chisels-pro-expert-accessories.png"
+    },
+    {
+      "id": "vde-mixed-sets-range",
+      "name": "VDE Mixed Sets range",
+      "image" :"assets/brands/product_images/Bosch/vde-mixed-sets-range.png"
+    },
+    {
+      "id": "levels-range-hand-tools",
+      "name": "Levels range (Hand Tools)",
+      "image" :"assets/brands/product_images/Bosch/levels-range-hand-tools.png"
+    },
+    {
+      "id": "gll-series-line-lasers",
+      "name": "GLL Series (Line Lasers)",
+      "image" :"assets/brands/product_images/Bosch/gll-series-line-lasers.png"
+    },
+    {
+      "id": "grl-series-rotation-lasers",
+      "name": "GRL Series (Rotation Lasers)",
+      "image" :"assets/brands/product_images/Bosch/grl-series-rotation-lasers.png"
+    },
+    {
+      "id": "gcl-series-combi-lasers",
+      "name": "GCL Series (Combi Lasers)",
+      "image" :"assets/brands/product_images/Bosch/gcl-series-combi-lasers.png"
+    },
+    {
+      "id": "glm-series-laser-measures",
+      "name": "GLM Series (Laser Measures)",
+      "image" :"assets/brands/product_images/Bosch/glm-series-laser-measures.png"
+    },
+    {
+      "id": "measuring-wheels-range",
+      "name": "Measuring Wheels range",
+      "image" :"assets/brands/product_images/Bosch/measuring-wheels-range.png"
+    },
+    {
+      "id": "gms-series-detectors-wall-scanners",
+      "name": "GMS Series (Detectors / Wall Scanners)",
+      "image" :"assets/brands/product_images/Bosch/gms-series-detectors-wall-scanners.png"
+    },
+    {
+      "id": "gtc-series-thermal-cameras",
+      "name": "GTC Series (Thermal Cameras)",
+      "image" :"assets/brands/product_images/Bosch/gtc-series-thermal-cameras.png"
+    },
+    {
+      "id": "gis-series-infrared-thermometers-moisture-detectors",
+      "name": "GIS Series (Infrared Thermometers / Moisture Detectors)",
+      "image" :"assets/brands/product_images/Bosch/gis-series-infrared-thermometers-moisture-detectors.png"
+    },
+    {
+      "id": "gic-series-inspection-cameras",
+      "name": "GIC Series (Inspection Cameras)",
+      "image" :"assets/brands/product_images/Bosch/gic-series-inspection-cameras.png"
+    },
+    {
+      "id": "electrical-testers-range",
+      "name": "Electrical Testers range",
+      "image" :"assets/brands/product_images/Bosch/electrical-testers-range.png"
+    },
+    {
+      "id": "angle-measurers-inclinometers-range",
+      "name": "Angle Measurers & Inclinometers range",
+      "image" :"assets/brands/product_images/Bosch/angle-measurers-inclinometers-range.png"
+    },
+    {
+      "id": "tripods-range-measuring-tools-accessories",
+      "name": "Tripods range (Measuring Tools Accessories)",
+      "image" :"assets/brands/product_images/Bosch/tripods-range-measuring-tools-accessories.png"
+    },
+    {
+      "id": "cutting-discs",
+      "name": "Cutting Discs",
+      "image" :"assets/brands/product_images/Bosch/cutting-discs.png"
+    },
+    {
+      "id": "grinding-discs-wire-brushes-pro-expert-accessories",
+      "name": "Grinding Discs & Wire Brushes (PRO/EXPERT Accessories)",
+      "image" :"assets/brands/product_images/Bosch/grinding-discs-wire-brushes-pro-expert-accessories.png"
+    },
+    {
+      "id": "sanding-discs",
+      "name": "Sanding Discs",
+      "image" :"assets/brands/product_images/Bosch/sanding-discs.png"
+    },
+    {
+      "id": "sanding-belts-sandpaper-pro-expert-accessories",
+      "name": "Sanding Belts & Sandpaper (PRO/EXPERT Accessories)",
+      "image" :"assets/brands/product_images/Bosch/sanding-belts-sandpaper-pro-expert-accessories.png"
+    },
+    {
+      "id": "diamond-drilling",
+      "name": "Diamond Drilling",
+      "image" :"assets/brands/product_images/Bosch/diamond-drilling.png"
+    },
+    {
+      "id": "cutting-grinding-accessories",
+      "name": "Cutting & Grinding (Accessories)",
+      "image" :"assets/brands/product_images/Bosch/cutting-grinding-accessories.png"
+    },
+    {
+      "id": "saw-blades-hole-saws-accessories",
+      "name": "Saw Blades & Hole Saws (Accessories)",
+      "image" :"assets/brands/product_images/Bosch/saw-blades-hole-saws-accessories.png"
+    },
+    {
+      "id": "drill-bits-pro-expert-accessories",
+      "name": "Drill Bits (PRO/EXPERT Accessories)",
+      "image" :"assets/brands/product_images/Bosch/drill-bits-pro-expert-accessories.png"
+    },
+    {
+      "id": "cutting-grinding-core-bits-accessories",
+      "name": "Cutting & Grinding — Core Bits (Accessories)",
+      "image" :"assets/brands/product_images/Bosch/cutting-grinding-core-bits-accessories.png"
+    },
+    {
+      "id": "diamond-technology-range",
+      "name": "Diamond Technology range",
+      "image" :"assets/brands/product_images/Bosch/diamond-technology-range.png"
+    },
+    {
+      "id": "helmets-range-hand-tools-ppe-accessories",
+      "name": "Helmets range (Hand Tools/PPE accessories)",
+      "image" :"assets/brands/product_images/Bosch/helmets-range-hand-tools-ppe-accessories.png"
+    }
+  ]
+}

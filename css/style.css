@@ -30,24 +30,31 @@
 html,body{margin:0;padding:0;width:100%;overflow-x:hidden;}
 @media (min-width: 1024px) {
   html {
-    scroll-snap-type: y mandatory;
     scroll-behavior: smooth;
+    scroll-padding-top: var(--nav-h);
   }
-  .vh-section {
-    scroll-snap-align: start;
-    scroll-snap-stop: always;
-    height: 100vh !important;
+   .vh-section {
+    scroll-margin-top: var(--nav-h);
     width: 100vw;
     overflow: hidden;
     position: relative;
+  } 
+  /* Brand collage can have many logos — let it grow naturally instead of
+     being clipped to a single viewport height like the other sections. */
+  .brands.vh-section{
+    height:auto !important;
+    min-height: auto;
+    overflow:visible;
+    padding: 20px 0 40px;
   }
 }
 @media (max-width: 1023px) {
   .vh-section {
-    min-height: 100vh;
+    min-height: auto;
     width: 100vw;
     position: relative;
-    padding: 80px 0;
+    padding: 40px 0;
+    scroll-margin-top: var(--nav-h);
   }
 }
 
@@ -234,9 +241,9 @@ h1,h2,h3,h4{
 .btn-primary{background:var(--brown);color:var(--white);}
 .btn-primary::before{background:var(--dark);}
 .btn-primary:hover{color:var(--white);}
-.btn-dark{border-color:var(--gold);color:var(--cream);}
-.btn-dark::before{background:var(--gold);}
-.btn-dark:hover{color:var(--dark);}
+.btn-dark{border-color:var(--brown);color:var(--brown);}
+.btn-dark::before{background:var(--brown);}
+.btn-dark:hover{color:var(--white);}
 
 .hero{
   --section-bg-desktop:url("");
@@ -294,21 +301,28 @@ h1,h2,h3,h4{
   position:fixed;top:0;left:0;width:100%;z-index:1000;
   height:var(--nav-h);
   display:flex;align-items:center;
-  background:transparent;
-  transition:background .4s var(--ease), box-shadow .4s var(--ease), border-color .4s var(--ease);
-  border-bottom:1px solid transparent;
+  background:rgba(40,32,24,0);
+  backdrop-filter:blur(0px);
+  transition:background .4s var(--ease), box-shadow .4s var(--ease), border-color .4s var(--ease), backdrop-filter .4s var(--ease);
+  border-bottom:1px solid rgba(217,200,181,0);
 }
 .navbar.scrolled{
-  background:rgba(244,234,223,.96);
+  background:rgba(40,32,24,.85);
   backdrop-filter:blur(10px);
-  box-shadow:0 8px 24px rgba(23,19,15,.08);
-  border-bottom:1px solid var(--beige);
+  box-shadow:0 8px 24px rgba(23,19,15,.18);
+  border-bottom:1px solid rgba(217,200,181,.2);
 }
-.navbar .wrap{display:flex;align-items:center;justify-content:space-between;width:100%;}
+
+.navbar .wrap{display:grid;grid-template-columns:auto 1fr auto;align-items:center;justify-items:center;width:100%;gap:24px;}
+.navbar .wrap .logo{justify-self:start;}
+.navbar .wrap .menu-toggle{justify-self:end;}
 .logo{display:flex;align-items:center;gap:10px;}
-.logo-mark{width:80px;height:80px;object-fit:contain;display:block;}
-.logo-text{font-family:var(--font-display);font-size:1.05rem;font-weight:700;line-height:1.05;letter-spacing:.02em;}
-.logo-text span{display:block;font-size:.6rem;font-weight:400;letter-spacing:.28em;color:var(--accent);}
+.logo-mark{width:90px;height:90px;object-fit:contain;display:block;}
+@media (max-width: 480px) {
+  .logo-mark{width:50px;height:50px;}
+}
+.logo-text{font-family:var(--font-display);font-size:1.05rem;font-weight:700;line-height:1.05;letter-spacing:.02em;color:var(--cream);}
+.logo-text span{display:block;font-size:.6rem;font-weight:400;letter-spacing:.28em;color:var(--gold);}
 
 .nav-links{display:flex;align-items:center;gap:34px;}
 .nav-links a{
@@ -316,13 +330,14 @@ h1,h2,h3,h4{
   font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;
   position:relative;padding:6px 0;
   display:flex;align-items:center;gap:5px;
+  color:var(--cream);
 }
 .nav-links a::after{
   content:'';position:absolute;left:0;bottom:0;height:1px;width:0;
-  background:var(--brown);transition:width .3s var(--ease);
+  background:var(--gold);transition:width .3s var(--ease);
 }
 .nav-links a:hover::after,.nav-links a.active::after{width:100%;}
-.nav-links a.active{color:var(--brown);}
+.nav-links a:hover,.nav-links a.active{color:var(--gold);}
 .has-dropdown{position:relative;}
 .dropdown{
   position:absolute;top:calc(100% + 14px);left:50%;transform:translateX(-50%) translateY(-8px);
@@ -331,7 +346,7 @@ h1,h2,h3,h4{
   box-shadow:0 16px 32px rgba(23,19,15,.12);
 }
 .has-dropdown:hover .dropdown{opacity:1;visibility:visible;transform:translateX(-50%) translateY(0);}
-.dropdown a{padding:10px 20px;display:block;font-size:.75rem;}
+.dropdown a{padding:10px 20px;display:block;font-size:.75rem;color:var(--dark);}
 .dropdown a:hover{background:var(--light-cream);color:var(--brown);}
 .dropdown a::after{display:none;}
 
@@ -347,7 +362,7 @@ h1,h2,h3,h4{
   width:42px;
   height:42px;
 }
-.menu-toggle span{width:24px;height:2px;background:var(--dark);transition:transform .3s var(--ease),opacity .3s var(--ease);}
+.menu-toggle span{width:24px;height:2px;background:var(--cream);transition:transform .3s var(--ease),opacity .3s var(--ease);}
 
 .mobile-panel{
   position:fixed;inset:0;background:var(--dark);z-index:1200;
@@ -442,8 +457,8 @@ h1,h2,h3,h4{
 @media (max-width:1023px){
   .cat-detail{flex-direction:column !important;gap:30px;}
   .cat-detail-media{width:100%;height:300px;}
+  .cat-details{padding:50px 0;}
 }
-
 /* ---------- Feature / spec list (product detail pages) ---------- */
 .feature-list{display:flex;flex-direction:column;gap:0;margin-bottom:26px;}
 .feature-list li{
@@ -488,7 +503,14 @@ h1,h2,h3,h4{
 @media (max-width:1023px){
   .footer-grid{grid-template-columns:1fr 1fr;}
   .stub-grid{grid-template-columns:1fr 1fr;}
-  .menu-toggle{display:flex;}
+  .navbar .wrap{position:relative;}
+  .menu-toggle{
+    display:flex;
+    position:absolute;
+    right:24px;
+    top:50%;
+    transform:translateY(-50%);
+  }
   .nav-links{display:none;}
   .nav-actions{gap:12px;}
   .nav-actions .btn-primary{
@@ -499,7 +521,7 @@ h1,h2,h3,h4{
   .nav-actions .btn-primary svg{width:12px;height:12px;}
 }
 @media (max-width:767px){
-  .wrap{padding:0 24px;}
+  .wrap{padding:25px 24px;}
   .footer-grid{grid-template-columns:1fr;gap:36px;}
   .footer-stats .wrap{justify-content:flex-start;}
   .stub-grid{grid-template-columns:1fr;}

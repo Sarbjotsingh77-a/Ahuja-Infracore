@@ -1,0 +1,75 @@
+{
+  "category_id": "construction-shuttering-scaffolding",
+  "category_name": "Construction, Shuttering & Scaffolding",
+  "category_icon": "🏗️",
+  "description": "Mechanical and chemical fixing systems, specialty fixings, structural steel and stainless wires, and in-house shuttering accessories for formwork, scaffolding, and structural fastening.",
+  "subcategories": [
+    {
+      "id": "shuttering-accessories-in-house-range",
+      "name": "Shuttering Accessories (In-House Range)",
+      "image":"assets/products_new/Subparts/construction, shuttering & scaffolding/shuttering-accessories-in-house-range.png",
+      "products": [
+        {
+          "id": "rapid-clamp",
+          "name": "Rapid Clamp (235gm / 260gm / 290gm / 350gm / 450gm)",
+          "company": "Ahuja Infracore"
+        },
+        {
+          "id": "ghughu-machine",
+          "name": "Ghughu Machine (1.25 kg / 2.50 kg)",
+          "company": "Ahuja Infracore"
+        },
+        {
+          "id": "ghughu-bolt",
+          "name": "Ghughu Bolt (Forging/Casting 160-170gm, Mild Steel 170-180gm)",
+          "company": "Ahuja Infracore"
+        },
+        {
+          "id": "anchor-nut",
+          "name": "Anchor Nut (350gm 2-Leg / 400gm 3-Leg / 450gm 3-Leg / 250gm 3-Leg)",
+          "company": "Ahuja Infracore"
+        },
+        {
+          "id": "tie-rod",
+          "name": "Tie Rod (1 mtr / 1.2 mtr / 1.5 mtr / 2 mtr / 3 mtr)",
+          "company": "Ahuja Infracore"
+        },
+        {
+          "id": "thread-rod",
+          "name": "Thread Rod (6mm / 8mm / 10mm / 12mm / 16mm / 20mm x 2mtr)",
+          "company": "Ahuja Infracore"
+        },
+        {
+          "id": "ms-shikanja",
+          "name": "MS Shikanja (2 FT 1.25gm / 2.5 FT 1.45gm / 3 FT 1.60gm / 4 FT 2kg)",
+          "company": "Ahuja Infracore"
+        },
+        {
+          "id": "wing-nut",
+          "name": "Wing Nut (170-180gm)",
+          "company": "Ahuja Infracore"
+        },
+        {
+          "id": "water-stopper",
+          "name": "Water Stopper (360gm / 450gm)",
+          "company": "Ahuja Infracore"
+        },
+        {
+          "id": "column-clamp-65x10",
+          "name": "Column Clamp (65x10) - 800mm (10 Hole) / 1000mm (12 Hole) / 1200mm (14 Hole) / 1500mm (20 Hole)",
+          "company": "Ahuja Infracore"
+        },
+        {
+          "id": "column-clamp-lock",
+          "name": "Column Clamp Lock (550-600gm)",
+          "company": "Ahuja Infracore"
+        },
+        {
+          "id": "coupler-clamp",
+          "name": "Coupler Clamp (Sheet Metal Swivel 650gm / Fixed 550gm; Forging Swivel 980gm / Fixed 850gm)",
+          "company": "Ahuja Infracore"
+        }
+      ]
+    }
+  ]
+}

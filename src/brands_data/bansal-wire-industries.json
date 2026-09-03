@@ -1,0 +1,86 @@
+{
+  "brand": "Bansal Wire Industries",
+  "products": [
+    {
+      "id": "stainless-steel-wires-bars-range",
+      "name": "Stainless Steel Wires & Bars range",
+      "image" :"assets/brands/product_images/Bansal Wire Industries/stainless-steel-wires-bars-range.png"
+
+    },
+    {
+      "id": "electro-galvanized-wire-range",
+      "name": "Electro Galvanized Wire range",
+      "image" :"assets/brands/product_images/Bansal Wire Industries/electro-galvanized-wire-range.png"
+    },
+    {
+      "id": "hot-dip-galvanized-wire-range",
+      "name": "Hot Dip Galvanized Wire range",
+      "image" :"assets/brands/product_images/Bansal Wire Industries/hot-dip-galvanized-wire-range.png"
+    },
+    {
+      "id": "low-carbon-steel-wire-range-galvanized-un-galvanized",
+      "name": "Low Carbon Steel Wire range (Galvanized & Un-Galvanized)",
+      "image" :"assets/brands/product_images/Bansal Wire Industries/low-carbon-steel-wire-range-galvanized-un-galvanized.png"
+    },
+    {
+      "id": "high-carbon-steel-wire-range-incl-spring-steel-wire-ball-bearing-wire",
+      "name": "High Carbon Steel Wire range (incl. Spring Steel Wire, Ball Bearing Wire)",
+      "image" :"assets/brands/product_images/Bansal Wire Industries/high-carbon-steel-wire-range-incl-spring-steel-wire-ball-bearing-wire.png"
+    },
+    {
+      "id": "stainless-steel-wire-range-soft-1-4-hard-1-2-hard-full-hard-finishes",
+      "name": "Stainless Steel Wire range (Soft, 1/4 Hard, 1/2 Hard, Full Hard finishes)",
+      "image" :"assets/brands/product_images/Bansal Wire Industries/stainless-steel-wire-range-soft-1-4-hard-1-2-hard-full-hard-finishes.png"
+    },
+    {
+      "id": "stainless-steel-bright-bar-range",
+      "name": "Stainless Steel Bright Bar range",
+      "image" :"assets/brands/product_images/Bansal Wire Industries/stainless-steel-bright-bar-range.png"
+    },
+    {
+      "id": "aluminium-alloy-wire-range",
+      "name": "Aluminium Alloy Wire range",
+      "image" :"assets/brands/product_images/Bansal Wire Industries/aluminium-alloy-wire-range.png"
+    },
+    {
+      "id": "aluminium-alloy-wire-mesh-range",
+      "name": "Aluminium Alloy Wire Mesh range",
+      "image" :"assets/brands/product_images/Bansal Wire Industries/aluminium-alloy-wire-mesh-range.png"
+    },
+    {
+      "id": "profile-shaped-wire-range-flat-half-round-rectangular-trapezoidal-triangular-squ",
+      "name": "Profile / Shaped Wire range (Flat, Half Round, Rectangular, Trapezoidal, Triangular, Square, 'D' Shaped)",
+      "image" :"assets/brands/product_images/Bansal Wire Industries/profile-shaped-wire-range-flat-half-round-rectangular-trapezoidal-triangular-squ.png"
+    },
+    {
+      "id": "cable-armouring-wire-strip-range-round-and-formed-sections",
+      "name": "Cable Armouring Wire & Strip range (round and formed sections)",
+      "image" :"assets/brands/product_images/Bansal Wire Industries/cable-armouring-wire-strip-range-round-and-formed-sections.png"
+    },
+    {
+      "id": "wire-rope-range",
+      "name": "Wire Rope range",
+      "image" :"assets/brands/product_images/Bansal Wire Industries/wire-rope-range.png"
+    },
+    {
+      "id": "tyre-bead-wire-range",
+      "name": "Tyre Bead Wire range",
+      "image" :"assets/brands/product_images/Bansal Wire Industries/tyre-bead-wire-range.png"
+    },
+    {
+      "id": "barbed-wire-range",
+      "name": "Barbed Wire range",
+      "image" :"assets/brands/product_images/Bansal Wire Industries/barbed-wire-range.png"
+    },
+    {
+      "id": "stainless-steel-scrubber-range",
+      "name": "Stainless Steel Scrubber range",
+      "image" :"assets/brands/product_images/Bansal Wire Industries/stainless-steel-scrubber-range.png"
+    },
+    {
+      "id": "wire-based-building-material-range",
+      "name": "Wire-based Building Material range",
+      "image" :"assets/brands/product_images/Bansal Wire Industries/wire-based-building-material-range.png"
+    }
+  ]
+}

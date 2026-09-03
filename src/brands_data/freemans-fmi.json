@@ -1,0 +1,215 @@
+{
+  "brand": "Freemans (FMI)",
+  "products": [
+    {
+      "id": "fcp-combination-pliers",
+      "name": "FCP (Combination Pliers)",
+      "image" :"assets/brands/product_images/Freemans FMI/fcp-combination-pliers.png"
+    },
+    {
+      "id": "flp-long-nose-pliers",
+      "name": "FLP (Long Nose Pliers)",
+      "image" :"assets/brands/product_images/Freemans FMI/flp-long-nose-pliers.png"
+    },
+    {
+      "id": "fsp-side-cutting-pliers",
+      "name": "FSP (Side Cutting Pliers)",
+      "image" :"assets/brands/product_images/Freemans FMI/fsp-side-cutting-pliers.png"
+    },
+    {
+      "id": "fcb-fcs-circlip-pliers",
+      "name": "FCB/FCS (Circlip Pliers)",
+      "image" :"assets/brands/product_images/Freemans FMI/fcb-fcs-circlip-pliers.png"
+    },
+    {
+      "id": "wbj-water-pump-pliers",
+      "name": "WBJ (Water Pump Pliers)",
+      "image" :"assets/brands/product_images/Freemans FMI/wbj-water-pump-pliers.png"
+    },
+    {
+      "id": "hsd-hexagonal-screwdrivers",
+      "name": "HSD (Hexagonal Screwdrivers)",
+      "image" :"assets/brands/product_images/Freemans FMI/hsd-hexagonal-screwdrivers.png"
+    },
+    {
+      "id": "top-tog-two-in-one-screwdrivers",
+      "name": "TOP/TOG (Two-in-One Screwdrivers)",
+      "image" :"assets/brands/product_images/Freemans FMI/top-tog-two-in-one-screwdrivers.png"
+    },
+    {
+      "id": "ssd-striking-screwdriver",
+      "name": "SSD (Striking Screwdriver)",
+      "image" :"assets/brands/product_images/Freemans FMI/ssd-striking-screwdriver.png"
+    },
+    {
+      "id": "ch-claw-hammers",
+      "name": "CH (Claw Hammers)",
+      "image" :"assets/brands/product_images/Freemans FMI/ch-claw-hammers.png"
+    },
+    {
+      "id": "bp-ball-pein-hammers",
+      "name": "BP (Ball Pein Hammers)",
+      "image" :"assets/brands/product_images/Freemans FMI/bp-ball-pein-hammers.png"
+    },
+    {
+      "id": "cp-cross-pein-hammers",
+      "name": "CP (Cross Pein Hammers)",
+      "image" :"assets/brands/product_images/Freemans FMI/cp-cross-pein-hammers.png"
+    },
+    {
+      "id": "sh-sledge-hammers",
+      "name": "SH (Sledge Hammers)",
+      "image" :"assets/brands/product_images/Freemans FMI/sh-sledge-hammers.png"
+    },
+    {
+      "id": "sfh-soft-face-hammers",
+      "name": "SFH (Soft Face Hammers)",
+      "image" :"assets/brands/product_images/Freemans FMI/sfh-soft-face-hammers.png"
+    },
+    {
+      "id": "ds-double-open-end-spanners",
+      "name": "DS (Double Open End Spanners)",
+      "image" :"assets/brands/product_images/Freemans FMI/ds-double-open-end-spanners.png"
+    },
+    {
+      "id": "combination-spanner-range",
+      "name": "Combination Spanner range",
+      "image" :"assets/brands/product_images/Freemans FMI/combination-spanner-range.png"
+    },
+    {
+      "id": "aw-caw-adjustable-wrenches",
+      "name": "AW / CAW (Adjustable Wrenches)",
+      "image" :"assets/brands/product_images/Freemans FMI/aw-caw-adjustable-wrenches.png"
+    },
+    {
+      "id": "spw-stillson-type-pipe-wrench",
+      "name": "SPW (Stillson-Type Pipe Wrench)",
+      "image" :"assets/brands/product_images/Freemans FMI/spw-stillson-type-pipe-wrench.png"
+    },
+    {
+      "id": "sockets-allen-keys-range",
+      "name": "Sockets & Allen Keys range",
+      "image" :"assets/brands/product_images/Freemans FMI/sockets-allen-keys-range.png"
+    },
+    {
+      "id": "drive-t-handle-ratchet-handle",
+      "name": "½\" Drive T-Handle / Ratchet Handle",
+      "image" :"assets/brands/product_images/Freemans FMI/drive-t-handle-ratchet-handle.png"
+    },
+    {
+      "id": "fbc-bolt-cutters",
+      "name": "FBC (Bolt Cutters)",
+      "image" :"assets/brands/product_images/Freemans FMI/fbc-bolt-cutters.png"
+    },
+    {
+      "id": "ws-wire-stripper-cutter",
+      "name": "WS (Wire Stripper & Cutter)",
+      "image" :"assets/brands/product_images/Freemans FMI/ws-wire-stripper-cutter.png"
+    },
+    {
+      "id": "utility-knives-cutters-range",
+      "name": "Utility Knives & Cutters range",
+      "image" :"assets/brands/product_images/Freemans FMI/utility-knives-cutters-range.png"
+    },
+    {
+      "id": "diy-tool-kit-range",
+      "name": "DIY Tool Kit range",
+      "image" :"assets/brands/product_images/Freemans FMI/diy-tool-kit-range.png"
+    },
+    {
+      "id": "lubricant-solutions-range-grease-guns-oil-cans",
+      "name": "Lubricant Solutions range (Grease Guns, Oil Cans)",
+      "image" :"assets/brands/product_images/Freemans FMI/lubricant-solutions-range-grease-guns-oil-cans.png"
+    },
+    {
+      "id": "steel-fibreglass-measuring-tape-range",
+      "name": "Steel & Fibreglass Measuring Tape range",
+      "image" :"assets/brands/product_images/Freemans FMI/steel-fibreglass-measuring-tape-range.png"
+    },
+    {
+      "id": "box-section-spirit-level-range-lifetime-warranty-line",
+      "name": "Box Section Spirit Level range (Lifetime Warranty line)",
+      "image" :"assets/brands/product_images/Freemans FMI/box-section-spirit-level-range-lifetime-warranty-line.png"
+    },
+    {
+      "id": "digital-spirit-level-range",
+      "name": "Digital Spirit Level range",
+      "image" :"assets/brands/product_images/Freemans FMI/digital-spirit-level-range.png"
+    },
+    {
+      "id": "laser-distance-meter-range-pro-l-series",
+      "name": "Laser Distance Meter range (Pro-L series)",
+      "image" :"assets/brands/product_images/Freemans FMI/laser-distance-meter-range-pro-l-series.png"
+    },
+    {
+      "id": "digital-measuring-wheel-range",
+      "name": "Digital Measuring Wheel range",
+      "image" :"assets/brands/product_images/Freemans FMI/digital-measuring-wheel-range.png"
+    },
+    {
+      "id": "vernier",
+      "name": "Vernier",
+      "image" :"assets/brands/product_images/Freemans FMI/vernier.png"
+    },
+    {
+      "id": "digital-dial-caliper-range",
+      "name": "Digital & Dial Caliper range",
+      "image" :"assets/brands/product_images/Freemans FMI/digital-dial-caliper-range.png"
+    },
+    {
+      "id": "micrometer-range",
+      "name": "Micrometer range",
+      "image" :"assets/brands/product_images/Freemans FMI/micrometer-range.png"
+    },
+    {
+      "id": "dial-indicator-magnetic-stand-range",
+      "name": "Dial Indicator & Magnetic Stand range",
+      "image" :"assets/brands/product_images/Freemans FMI/dial-indicator-magnetic-stand-range.png"
+    },
+    {
+      "id": "digital-protractor-range",
+      "name": "Digital Protractor range",
+      "image" :"assets/brands/product_images/Freemans FMI/digital-protractor-range.png"
+    },
+    {
+      "id": "cr-cg-co-power-cut-off-wheels-range",
+      "name": "CR / CG / CO Power Cut Off Wheels range",
+      "image" :"assets/brands/product_images/Freemans FMI/cr-cg-co-power-cut-off-wheels-range.png"
+    },
+    {
+      "id": "fgd-power-flexible-grinding-wheels",
+      "name": "FGD (Power Flexible Grinding Wheels)",
+      "image" :"assets/brands/product_images/Freemans FMI/fgd-power-flexible-grinding-wheels.png"
+    },
+    {
+      "id": "gwg-grinding-wheels-green",
+      "name": "GWG (Grinding Wheels Green)",
+      "image" :"assets/brands/product_images/Freemans FMI/gwg-grinding-wheels-green.png"
+    },
+    {
+      "id": "fdp-fd-flap-discs-range",
+      "name": "FDP / FD (Flap Discs) range",
+      "image" :"assets/brands/product_images/Freemans FMI/fdp-fd-flap-discs-range.png"
+    },
+    {
+      "id": "mc110-mcp110-mce110-diamond-saw-blade",
+      "name": "MC110 / MCP110 / MCE110 (Diamond Saw Blade)",
+      "image" :"assets/brands/product_images/Freemans FMI/mc110-mcp110-mce110-diamond-saw-blade.png"
+    },
+    {
+      "id": "tmt-mt-mr-turbo-diamond-wheel-blade-marble-cutting-blades-range",
+      "name": "TMT / MT / MR (Turbo Diamond Wheel Blade) — Marble Cutting Blades range",
+      "image" :"assets/brands/product_images/Freemans FMI/tmt-mt-mr-turbo-diamond-wheel-blade-marble-cutting-blades-range.png"
+    },
+    {
+      "id": "tct-saw-blade-range",
+      "name": "TCT Saw Blade range",
+      "image" :"assets/brands/product_images/Freemans FMI/tct-saw-blade-range.png"
+    },
+    {
+      "id": "wcb-wire-cup-brush",
+      "name": "WCB (Wire Cup Brush)",
+      "image" :"assets/brands/product_images/Freemans FMI/wcb-wire-cup-brush.png"
+    }
+  ]
+}

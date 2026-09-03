@@ -1,0 +1,707 @@
+{
+  "category_id": "welding-cutting-industrial-consumables",
+  "category_name": "Welding, Cutting & Industrial Consumables",
+  "category_icon": "🔥",
+  "description": "Welding electrodes, wires, brazing alloys, welding machines and site equipment, plus cutting, grinding, sanding, and drilling consumables for fabrication and metalworking.",
+  "subcategories": [
+    {
+      "id": "steel-alloy-electrodes",
+      "name": "Steel & Alloy Electrodes",
+      "groups": [
+        {
+          "id": "mild-carbon-steel-electrodes",
+          "name": "Mild / Carbon Steel Electrodes",
+          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/mild-carbon-steel-electrodes.png",
+          "products": [
+            {
+              "id": "mild-steel-electrode-range",
+              "name": "Mild Steel Electrode range",
+              "company": "Mangalam"
+            },
+            {
+              "id": "super-optimal-series-e-g-super-optimal-7016",
+              "name": "SUPER OPTIMAL Series (e.g. SUPER OPTIMAL 7016)",
+              "company": "Superon Technik"
+            }
+          ]
+        },
+        {
+          "id": "stainless-steel-electrodes",
+          "name": "Stainless Steel Electrodes",
+          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/stainless-steel-electrodes.png",
+          "products": [
+            {
+              "id": "s-s-electrodes-range-e-g-e316l",
+              "name": "S.S. Electrodes range (e.g. E316L)",
+              "company": "Mangalam"
+            },
+            {
+              "id": "stainless-steel-stick-electrode-range",
+              "name": "Stainless Steel Stick Electrode range",
+              "company": "Superon Technik"
+            }
+          ]
+        },
+        {
+          "id": "hardfacing-electrodes",
+          "name": "Hardfacing Electrodes",
+          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/hardfacing-electrodes.png",
+          "products": [
+            {
+              "id": "mangan-hard-facing-electrodes-range-h-f-electrodes-250r-350r-650r",
+              "name": "\"Mangan\" Hard Facing Electrodes range (H.F. Electrodes 250R / 350R / 650R)",
+              "company": "Mangalam"
+            },
+            {
+              "id": "hard-facing-tubular-electrodes-range",
+              "name": "Hard Facing Tubular Electrodes range",
+              "company": "Superon Technik"
+            }
+          ]
+        },
+        {
+          "id": "low-alloy-steel-cast-iron-inconel-electrodes",
+          "name": "Low Alloy Steel / Cast Iron / Inconel Electrodes",
+          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/low-alloy-steel-cast-iron-inconel-electrodes.png",
+          "products": [
+            {
+              "id": "cast-iron-welding-electrodes",
+              "name": "Cast Iron Welding Electrodes",
+              "company": "Superon Technik"
+            },
+            {
+              "id": "nickel-alloy-cast-iron-electrode-range",
+              "name": "Nickel Alloy / Cast Iron Electrode range",
+              "company": "Superon Technik"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "welding-wires-brazing-alloys",
+      "name": "Welding Wires & Brazing Alloys",
+      "groups": [
+        {
+          "id": "mig-flux-cored-wires",
+          "name": "MIG / Flux-Cored Wires",
+          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/mig-flux-cored-wires.png",
+          "products": [
+            {
+              "id": "mig-wire-range-double-deoxidized-copper-coated-carbon-steel",
+              "name": "MIG Wire range (Double Deoxidized Copper Coated Carbon Steel)",
+              "company": "Mangalam"
+            },
+            {
+              "id": "welding-filler-wire-supermig-range",
+              "name": "Welding Filler Wire / SUPERMIG range",
+              "company": "Superon Technik"
+            }
+          ]
+        },
+        {
+          "id": "stainless-steel-filler-wire",
+          "name": "Stainless Steel Filler Wire",
+          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/stainless-steel-filler-wire.png",
+          "products": [
+            {
+              "id": "stainless-steel-filler-wire-range-grades-incl-316l-410-307",
+              "name": "Stainless Steel Filler Wire range (grades incl. 316L, 410, 307)",
+              "company": "Superon Technik"
+            },
+            {
+              "id": "stainless-steel-wires-bars-range",
+              "name": "Stainless Steel Wires & Bars range",
+              "company": "Bansal Wire Industries"
+            }
+          ]
+        },
+        {
+          "id": "brazing-alloys-and-rods-silver-copper",
+          "name": "Brazing Alloys & Rods (silver, copper)",
+          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/brazing-alloys-and-rods-silver-copper.png",
+          "products": [
+            {
+              "id": "high-ag-brazing-alloys-cadmium-free-cadmium-bearing-grades",
+              "name": "High Ag Brazing Alloys (Cadmium-Free & Cadmium-Bearing Grades)",
+              "company": "Superon Technik"
+            },
+            {
+              "id": "copper-phosphorus-copper-brass-brazing-alloys",
+              "name": "Copper-Phosphorus & Copper-Brass Brazing Alloys",
+              "company": "Superon Technik"
+            },
+            {
+              "id": "tungsten-carbide-tool-tipped-grades",
+              "name": "Tungsten Carbide Tool-Tipped Grades",
+              "company": "Superon Technik"
+            },
+            {
+              "id": "fluxes-pastes-range",
+              "name": "Fluxes & Pastes range",
+              "company": "Superon Technik"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "repair-electrodes-gouging-consumables",
+      "name": "Repair Electrodes & Gouging Consumables",
+      "groups": [
+        {
+          "id": "repair-cladding-electrodes-cr-b-paste",
+          "name": "Repair / Cladding Electrodes, CR-B Paste",
+          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/repair-cladding-electrodes-cr-b-paste.png",
+          "products": [
+            {
+              "id": "repair-joining-electrode",
+              "name": "Repair-Joining Electrode",
+              "company": "Superon Technik"
+            },
+            {
+              "id": "cladding-die-build-up-electrodes",
+              "name": "Cladding & Die Build-Up Electrodes",
+              "company": "Superon Technik"
+            },
+            {
+              "id": "cr-b-paste-range",
+              "name": "CR-B Paste range",
+              "company": "Superon Technik"
+            }
+          ]
+        },
+        {
+          "id": "gouging-carbons-and-cutting-electrodes",
+          "name": "Gouging Carbons & Cutting Electrodes",
+          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/gouging-carbons-and-cutting-electrodes.png",
+          "products": [
+            {
+              "id": "gouging-carbons",
+              "name": "Gouging Carbons",
+              "company": "Superon Technik"
+            },
+            {
+              "id": "gouging-cutting-electrodes-range-e-g-super-power-cut-100",
+              "name": "Gouging/Cutting Electrodes range (e.g. Super Power Cut 100)",
+              "company": "Superon Technik"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "welding-machines-site-equipment",
+      "name": "Welding Machines & Site Equipment",
+      "groups": [
+        {
+          "id": "welding-machines-arc-mig-tig",
+          "name": "Welding Machines (ARC/MIG/TIG)",
+          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/welding-machines-arc-mig-tig.png",
+          "products": [
+            {
+              "id": "arc-welding-machine",
+              "name": "ARC Welding Machine",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "mig-welding-machine",
+              "name": "MIG Welding Machine",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "tig-welding-machine-ranges",
+              "name": "TIG Welding Machine ranges",
+              "company": "XtraPower Tools"
+            }
+          ]
+        },
+        {
+          "id": "electrode-ovens-pipe-stands-cylinder-mig-carts",
+          "name": "Electrode Ovens, Pipe Stands, Cylinder/MIG Carts",
+          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/electrode-ovens-pipe-stands-cylinder-mig-carts.png",
+          "products": [
+            {
+              "id": "electrode-ovens",
+              "name": "Electrode Ovens",
+              "company": "Superon Technik"
+            },
+            {
+              "id": "pipe-stand",
+              "name": "Pipe Stand",
+              "company": "Superon Technik"
+            },
+            {
+              "id": "cylinder-carts-mig-carts-range",
+              "name": "Cylinder Carts & MIG Carts range",
+              "company": "Superon Technik"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "welding-cleaning-testing-aids",
+      "name": "Welding Cleaning & Testing Aids",
+      "groups": [
+        {
+          "id": "anti-spatter-spray-cleaning-solutions-die-penetrant-kits",
+          "name": "Anti-Spatter Spray, Cleaning Solutions, DIE Penetrant Kits",
+          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/anti-spatter-spray-cleaning-solutions-die-penetrant-kits.png",
+          "products": [
+            {
+              "id": "anti-spatter-spray",
+              "name": "Anti-Spatter Spray",
+              "company": "Superon Technik"
+            },
+            {
+              "id": "ss-cleaning-solutions",
+              "name": "SS Cleaning Solutions",
+              "company": "Superon Technik"
+            },
+            {
+              "id": "die-penetrant-test-kit-range",
+              "name": "DIE Penetrant Test Kit range",
+              "company": "Superon Technik"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cutting-grinding-wheels",
+      "name": "Cutting & Grinding Wheels",
+      "groups": [
+        {
+          "id": "cut-off-cutting-wheels",
+          "name": "Cut-off / Cutting Wheels",
+          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/cut-off-cutting-wheels.png",
+          "products": [
+            {
+              "id": "cut-off-wheel-range",
+              "name": "Cut Off Wheel range",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "cr-cg-co-power-cut-off-wheels-range",
+              "name": "CR / CG / CO Power Cut Off Wheels range",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "cut-off-wheel-range-m1-m2-m6-m7-m9-m10-m11",
+              "name": "Cut Off Wheel range (M1, M2, M6, M7, M9, M10, M11)",
+              "company": "Mangalam"
+            },
+            {
+              "id": "superorange-cutting-wheel-range",
+              "name": "SuperOrange Cutting Wheel range",
+              "company": "Superon Technik"
+            }
+          ]
+        },
+        {
+          "id": "grinding-wheels-discs",
+          "name": "Grinding Wheels / Discs",
+          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/grinding-wheels-discs.png",
+          "products": [
+            {
+              "id": "fgd-power-flexible-grinding-wheels",
+              "name": "FGD (Power Flexible Grinding Wheels)",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "gwg-grinding-wheels-green",
+              "name": "GWG (Grinding Wheels Green)",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "superorange-grinding-discs-range",
+              "name": "SuperOrange Grinding Discs range",
+              "company": "Superon Technik"
+            },
+            {
+              "id": "cutting-discs",
+              "name": "Cutting Discs",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "grinding-discs-wire-brushes-pro-expert-accessories",
+              "name": "Grinding Discs & Wire Brushes (PRO/EXPERT Accessories)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "wa-wheel",
+              "name": "WA Wheel",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "gc-wheel-range",
+              "name": "GC Wheel range",
+              "company": "XtraPower Tools"
+            }
+          ]
+        },
+        {
+          "id": "dc-wheel-wa-wheel-gc-wheel",
+          "name": "DC Wheel / WA Wheel / GC Wheel",
+          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/dc-wheel-wa-wheel-gc-wheel.png",
+          "products": [
+            {
+              "id": "wa-wheel",
+              "name": "WA Wheel",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "gc-wheel",
+              "name": "GC Wheel",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "dc-wheel-range",
+              "name": "DC Wheel range",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "wa-wheel-m27",
+              "name": "WA Wheel (M27)",
+              "company": "Mangalam"
+            },
+            {
+              "id": "gc-wheel-m12",
+              "name": "GC Wheel (M12)",
+              "company": "Mangalam"
+            },
+            {
+              "id": "dc-wheel-m6-m7-m10-range",
+              "name": "DC Wheel (M6/M7/M10) range",
+              "company": "Mangalam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "flap-non-woven-polishing-discs",
+      "name": "Flap, Non-Woven & Polishing Discs",
+      "groups": [
+        {
+          "id": "flap-discs-flap-wheels",
+          "name": "Flap Discs / Flap Wheels",
+          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/flap-discs-flap-wheels.png",
+          "products": [
+            {
+              "id": "flap-disc",
+              "name": "Flap Disc",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "flap-wheel-range",
+              "name": "Flap Wheel range",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "fdp-fd-flap-discs-range",
+              "name": "FDP / FD (Flap Discs) range",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "flap-disc-m16-range",
+              "name": "Flap Disc (M16) range",
+              "company": "Mangalam"
+            },
+            {
+              "id": "superorange-flap-disc-range",
+              "name": "SuperOrange Flap Disc range",
+              "company": "Superon Technik"
+            },
+            {
+              "id": "sanding-discs",
+              "name": "Sanding Discs",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "sanding-belts-sandpaper-pro-expert-accessories",
+              "name": "Sanding Belts & Sandpaper (PRO/EXPERT Accessories)",
+              "company": "Bosch Professional"
+            }
+          ]
+        },
+        {
+          "id": "non-woven-wheels-pads",
+          "name": "Non-Woven Wheels / Pads",
+          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/non-woven-wheels-pads.png",
+          "products": [
+            {
+              "id": "non-woven-wheel",
+              "name": "Non Woven Wheel",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "non-woven-pad-range",
+              "name": "Non Woven Pad range",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "non-woven-wheel-m20-range",
+              "name": "Non Woven Wheel (M20) range",
+              "company": "Mangalam"
+            },
+            {
+              "id": "non-woven-abrasives-range",
+              "name": "Non-Woven Abrasives range",
+              "company": "Superon Technik"
+            }
+          ]
+        },
+        {
+          "id": "felt-wheels-buffing-pads",
+          "name": "Felt Wheels / Buffing Pads",
+          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/felt-wheels-buffing-pads.png",
+          "products": [
+            {
+              "id": "felt-wheel-m24-range",
+              "name": "Felt Wheel (M24) range",
+              "company": "Mangalam"
+            },
+            {
+              "id": "buffing-polishing-wheel-range",
+              "name": "Buffing / Polishing Wheel range",
+              "company": "Superon Technik"
+            }
+          ]
+        },
+        {
+          "id": "polishing-pads-backing-pads",
+          "name": "Polishing Pads / Backing Pads",
+          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/polishing-pads-backing-pads.png",
+          "products": [
+            {
+              "id": "polishing-pad",
+              "name": "Polishing Pad",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "backing-pad-range",
+              "name": "Backing Pad range",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "polishing-pad-range",
+              "name": "Polishing Pad range",
+              "company": "Superon Technik"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sanding-finishing-consumables",
+      "name": "Sanding & Finishing Consumables",
+      "groups": [
+        {
+          "id": "sanding-discs-belts-and-sandpaper",
+          "name": "Sanding Discs, Belts & Sandpaper",
+          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/sanding-discs-belts-and-sandpaper.png",
+          "products": [
+            {
+              "id": "sanding-discs",
+              "name": "Sanding Discs",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "sanding-belts-sandpaper-pro-expert-accessories",
+              "name": "Sanding Belts & Sandpaper (PRO/EXPERT Accessories)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "sand-paper-range",
+              "name": "Sand Paper range",
+              "company": "XtraPower Tools"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "saw-blades",
+      "name": "Saw Blades",
+      "groups": [
+        {
+          "id": "diamond-saw-blades-marble-cutting-blades",
+          "name": "Diamond Saw Blades (Marble Cutting Blades)",
+          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/diamond-saw-blades-marble-cutting-blades.png",
+          "products": [
+            {
+              "id": "diamond-saw-blade-range",
+              "name": "Diamond Saw Blade range",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "mc110-mcp110-mce110-diamond-saw-blade",
+              "name": "MC110 / MCP110 / MCE110 (Diamond Saw Blade)",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "tmt-mt-mr-turbo-diamond-wheel-blade-marble-cutting-blades-range",
+              "name": "TMT / MT / MR (Turbo Diamond Wheel Blade) — Marble Cutting Blades range",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "diamond-drilling",
+              "name": "Diamond Drilling",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "cutting-grinding-accessories",
+              "name": "Cutting & Grinding (Accessories)",
+              "company": "Bosch Professional"
+            }
+          ]
+        },
+        {
+          "id": "tct-saw-blades",
+          "name": "TCT Saw Blades",
+          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/tct-saw-blades.png",
+          "products": [
+            {
+              "id": "tct-saw-blade-range",
+              "name": "TCT Saw Blade range",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "tct-saw-blade-range",
+              "name": "TCT Saw Blade range",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "saw-blades-hole-saws-accessories",
+              "name": "Saw Blades & Hole Saws (Accessories)",
+              "company": "Bosch Professional"
+            }
+          ]
+        },
+        {
+          "id": "hole-saws-and-jig-saw-blades",
+          "name": "Hole Saws & Jig Saw Blades",
+          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/hole-saws-and-jig-saw-blades.png",
+          "products": [
+            {
+              "id": "hole-saw",
+              "name": "Hole Saw",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "jig-saw-blade-range",
+              "name": "Jig Saw Blade range",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "saw-blades-hole-saws-accessories",
+              "name": "Saw Blades & Hole Saws (Accessories)",
+              "company": "Bosch Professional"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drilling-consumables-brushes",
+      "name": "Drilling Consumables & Brushes",
+      "groups": [
+        {
+          "id": "drill-bits-masonry-wood-hss-sds",
+          "name": "Drill Bits (masonry, wood, HSS, SDS)",
+          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/drill-bits-masonry-wood-hss-sds.png",
+          "products": [
+            {
+              "id": "drill-bits",
+              "name": "Drill Bits",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "hss-step-drill-bits",
+              "name": "HSS Step Drill Bits",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "wood-flat-bit-range",
+              "name": "Wood Flat Bit range",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "drill-bits-pro-expert-accessories",
+              "name": "Drill Bits (PRO/EXPERT Accessories)",
+              "company": "Bosch Professional"
+            }
+          ]
+        },
+        {
+          "id": "core-bits-core-drills",
+          "name": "Core Bits / Core Drills",
+          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/core-bits-core-drills.png",
+          "products": [
+            {
+              "id": "core-bits",
+              "name": "Core Bits",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "core-drill-range",
+              "name": "Core Drill range",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "diamond-drilling",
+              "name": "Diamond Drilling",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "cutting-grinding-core-bits-accessories",
+              "name": "Cutting & Grinding — Core Bits (Accessories)",
+              "company": "Bosch Professional"
+            }
+          ]
+        },
+        {
+          "id": "wire-cup-and-wheel-brushes",
+          "name": "Wire Cup & Wheel Brushes",
+          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/wire-cup-and-wheel-brushes.png",
+          "products": [
+            {
+              "id": "cup-wheel-brush-range",
+              "name": "Cup & Wheel Brush range",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "wcb-wire-cup-brush",
+              "name": "WCB (Wire Cup Brush)",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "wire-brush-range",
+              "name": "Wire Brush range",
+              "company": "Superon Technik"
+            }
+          ]
+        },
+        {
+          "id": "diamond-stone-diamond-technology",
+          "name": "Diamond Stone / Diamond Technology",
+          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/diamond-stone-diamond-technology.png",
+          "products": [
+            {
+              "id": "diamond-stone-range",
+              "name": "Diamond Stone range",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "diamond-technology-range",
+              "name": "Diamond Technology range",
+              "company": "Bosch Professional"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "brand": "Karam Safety",
+  "products": [
+    {
+      "id": "safety-helmet-range",
+      "name": "Safety Helmet range",
+      "image": "assets/brands/product_images/Karam Safety/safety-helmet-range.png"
+    },
+    {
+      "id": "boll-safety-eyewear-range",
+      "name": "Bollé Safety Eyewear range",
+      "image": "assets/brands/product_images/Karam Safety/boll-safety-eyewear-range.png"
+    },
+    {
+      "id": "safety-goggles-range",
+      "name": "Safety Goggles range",
+      "image": "assets/brands/product_images/Karam Safety/safety-goggles-range.png"
+    },
+    {
+      "id": "face-shield-range",
+      "name": "Face Shield range",
+      "image": "assets/brands/product_images/Karam Safety/face-shield-range.png"
+    },
+    {
+      "id": "ear-muffs-ear-plugs-range",
+      "name": "Ear Muffs & Ear Plugs range",
+      "image": "assets/brands/product_images/Karam Safety/ear-muffs-ear-plugs-range.png"
+    },
+    {
+      "id": "respiratory-masks-range",
+      "name": "Respiratory Masks range",
+      "image": "assets/brands/product_images/Karam Safety/respiratory-masks-range.png"
+    },
+    {
+      "id": "gloves-range",
+      "name": "Gloves range",
+      "image": "assets/brands/product_images/Karam Safety/gloves-range.png"
+    },
+    {
+      "id": "coverall-protective-workwear-range",
+      "name": "Coverall / Protective Workwear range",
+      "image": "assets/brands/product_images/Karam Safety/coverall-protective-workwear-range.png"
+    },
+    {
+      "id": "pn-series-full-body-harnesses-e-g-pn12-pn16-pn17-pn18-pn22-pn43-pn56",
+      "name": "PN Series Full Body Harnesses (e.g. PN12, PN16, PN17, PN18, PN22, PN43, PN56)",
+      "image": "assets/brands/product_images/Karam Safety/pn-series-full-body-harnesses-e-g-pn12-pn16-pn17-pn18-pn22-pn43-pn56.png"
+    },
+    {
+      "id": "ki01-series",
+      "name": "KI01 Series",
+      "image": "assets/brands/product_images/Karam Safety/ki01-series.png"
+    },
+    {
+      "id": "ce-series-elasto-rhino",
+      "name": "CE Series (Elasto, Rhino)",
+      "image": "assets/brands/product_images/Karam Safety/ce-series-elasto-rhino.png"
+    },
+    {
+      "id": "magna-series",
+      "name": "Magna Series",
+      "image": "assets/brands/product_images/Karam Safety/magna-series.png"
+    },
+    {
+      "id": "work-positioning-lanyard-range",
+      "name": "Work Positioning Lanyard range",
+      "image": "assets/brands/product_images/Karam Safety/work-positioning-lanyard-range.png"
+    },
+    {
+      "id": "sharp-edge-lanyard-range",
+      "name": "Sharp Edge Lanyard range",
+      "image": "assets/brands/product_images/Karam Safety/sharp-edge-lanyard-range.png"
+    },
+    {
+      "id": "specialised-lanyard-range",
+      "name": "Specialised Lanyard range",
+      "image": "assets/brands/product_images/Karam Safety/specialised-lanyard-range.png"
+    },
+    {
+      "id": "retractable-block-srl-range",
+      "name": "Retractable Block / SRL range",
+      "image": "assets/brands/product_images/Karam Safety/retractable-fall-arrester-range.png"
+    },
+    {
+      "id": "sealed-retrieval-block-range",
+      "name": "Sealed Retrieval Block range",
+      "image": "assets/brands/product_images/Karam Safety/sealed-retrieval-block-range.png"
+    },
+    {
+      "id": "hooks-karabiners-range",
+      "name": "Hooks & Karabiners range",
+      "image": "assets/brands/product_images/Karam Safety/hooks-karabiners-range.png"
+    },
+    {
+      "id": "anchorage-device-range",
+      "name": "Anchorage Device range",
+      "image": "assets/brands/product_images/Karam Safety/anchorage-device-range.png"
+    },
+    {
+      "id": "temporary-horizontal-life-line-range",
+      "name": "Temporary Horizontal Life Line range",
+      "image": "assets/brands/product_images/Karam Safety/temporary-horizontal-life-line-range.png"
+    },
+    {
+      "id": "fixed-line-system-range",
+      "name": "Fixed Line System range",
+      "image": "assets/brands/product_images/Karam Safety/fixed-line-system-range.png"
+    },
+    {
+      "id": "rescue-descent-gear-range",
+      "name": "Rescue & Descent Gear range",
+      "image": "assets/brands/product_images/Karam Safety/rescue-descent-gear-range.png"
+    },
+    {
+      "id": "tower-kit-range",
+      "name": "Tower Kit range",
+      "image": "assets/brands/product_images/Karam Safety/tower-kit-range.png"
+    },
+    {
+      "id": "safety-fan-net-range",
+      "name": "Safety Fan Net range",
+      "image": "assets/brands/product_images/Karam Safety/safety-fan-net-range.png"
+    },
+    {
+      "id": "gas-detector-range",
+      "name": "Gas Detector range",
+      "image": "assets/brands/product_images/Karam Safety/gas-detector-range.png"
+    }
+  ]
+}

@@ -6,7 +6,8 @@ document.addEventListener('DOMContentLoaded', () => {
   if (window.gsap && window.ScrollTrigger) gsap.registerPlugin(ScrollTrigger);
 
   /* ---------- Hero load sequence (full-bg) ---------- */
-  if (window.gsap) {
+    /* ---------- Hero load sequence (full-bg) — homepage only ---------- */
+  if (window.gsap && document.querySelector('.hero-bg')) {
     const tl = gsap.timeline({ defaults: { ease: 'power3.out' } });
     // Fade in the hero background image with a subtle Ken Burns zoom
     tl.from('.hero-bg img', { scale: 1.08, opacity: 0, duration: 1.6, ease: 'power2.out' }, 0)
@@ -172,15 +173,17 @@ document.addEventListener('DOMContentLoaded', () => {
       scrollTrigger: { trigger: '.mvv-row', start: 'top 90%' } });
 
     // Parallax on story image
-    gsap.to('#story-carousel-img', {
-      yPercent: 6, ease: 'none',
-      scrollTrigger: { trigger: '.story', start: 'top bottom', end: 'bottom top', scrub: true }
-    });
-
-    // Parallax on Commitment Image
-    gsap.to('.commitment-media img', {
-      yPercent: 8, ease: 'none',
-      scrollTrigger: { trigger: '.commitment', start: 'top bottom', end: 'bottom top', scrub: true }
-    });
+    // Removed to prevent gap increase on scroll
+    // gsap.to('#story-carousel-img', {
+    //   yPercent: 6, ease: 'none',
+    //   scrollTrigger: { trigger: '.story', start: 'top bottom', end: 'bottom top', scrub: true }
+    // });
+        // Parallax on Commitment Image (desktop only — causes overlap on small screens)
+    if (window.innerWidth > 1023) {
+      gsap.to('.commitment-media img', {
+        yPercent: 8, ease: 'none',
+        scrollTrigger: { trigger: '.commitment', start: 'top bottom', end: 'bottom top', scrub: true }
+      });
+    }
   }
 });

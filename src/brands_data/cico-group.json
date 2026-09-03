@@ -1,0 +1,60 @@
+{
+  "brand": "cico-group",
+  "products": [
+    {
+      "id": "CICO Waterproofing Membrane & Coating range",
+      "name": "CICO Waterproofing Membrane & Coating range",
+      "image" :"assets/brands/product_images/cico-group/CICO-waterproofing-membrane-and-coating-range.png"
+    },
+    {
+      "id": "integral-waterproofing-compound-range",
+      "name": "Integral Waterproofing Compound range",
+      "image" :"assets/brands/product_images/cico-group/integral-waterproofing-compound-range.png"
+    },
+    {
+      "id": "concrete-admixture-and-plasticizer-range",
+      "name": "Concrete Admixture & Plasticizer range",
+      "image" :"assets/brands/product_images/cico-group/concrete-admixture-and-plasticizer-range.png"
+    },
+    {
+      "id": "curing-compound-and-shuttering-release-agent-range",
+      "name": "Curing Compound & Shuttering Release Agent range",
+      "image" :"assets/brands/product_images/cico-group/curing-compound-and-shuttering-release-agent-range.png"
+    },
+    {
+      "id": "cementitious-and-epoxy-grout-range",
+      "name": "Cementitious & Epoxy Grout range",
+      "image" :"assets/brands/product_images/cico-group/cementitious-and-epoxy-grout-range.png"
+    },
+    {
+      "id": "industrial-flooring-and-baseplate-grout-range",
+      "name": "Industrial Flooring & Baseplate Grout range",
+      "image" :"assets/brands/product_images/cico-group/industrial-flooring-and-baseplate-grout-range.png"
+    },
+    {
+      "id": "repair-mortar-and-rendering-compound-range",
+      "name": "Repair Mortar & Rendering Compound range",
+      "image" :"assets/brands/product_images/cico-group/repair-mortar-and-rendering-compound-range.png"
+    },
+    {
+      "id": "emergency-plugging-compound-range",
+      "name": "Emergency Plugging Compound range",
+      "image" :"assets/brands/product_images/cico-group/emergency-plugging-compound-range.png"
+    },
+    {
+      "id": "epoxy-and-polymer-repair-system-range",
+      "name": "Epoxy & Polymer Repair System range",
+      "image" :"assets/brands/product_images/cico-group/epoxy-and-polymer-repair-system-range.png"
+    },
+    {
+      "id": "protective-and-anti-carbonation-coating-range",
+      "name": "Protective & Anti-Carbonation Coating range",
+      "image" :"assets/brands/product_images/cico-group/protective-and-anti-carbonation-coating-range.png"
+    },
+    {
+      "id": "Tunnel / Underground / Rock-bolting Product rangee",
+      "name": "Tunnel / Underground / Rock-bolting Product range",
+      "image" :"assets/brands/product_images/cico-group/Tunnel-Underground-Rock-bolting-Product-range.png"
+    }
+  ]
+}

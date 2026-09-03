@@ -1,0 +1,140 @@
+{
+  "brand": "Fosroc",
+  "products": [
+    {
+      "id": "nitoproof",
+      "name": "Nitoproof",
+      "image" :"assets/brands/product_images/Fosroc/nitoproof.png"
+    },
+    {
+      "id": "proofex",
+      "name": "Proofex",
+      "image" :"assets/brands/product_images/Fosroc/proofex.png"
+    },
+    {
+      "id": "brushbond-ranges",
+      "name": "Brushbond ranges",
+      "image" :"assets/brands/product_images/Fosroc/brushbond-ranges.png"
+    },
+    {
+      "id": "conplast",
+      "name": "Conplast",
+      "image" :"assets/brands/product_images/Fosroc/conplast.png"
+    },
+    {
+      "id": "auramix-ranges",
+      "name": "Auramix ranges",
+      "image" :"assets/brands/product_images/Fosroc/auramix-ranges.png"
+    },
+    {
+      "id": "concure-range",
+      "name": "Concure range",
+      "image" :"assets/brands/product_images/Fosroc/concure-range.png"
+    },
+    {
+      "id": "conbextra",
+      "name": "Conbextra",
+      "image" :"assets/brands/product_images/Fosroc/conbextra.png"
+    },
+    {
+      "id": "cebex-ranges",
+      "name": "Cebex ranges",
+      "image" :"assets/brands/product_images/Fosroc/cebex-ranges.png"
+    },
+    {
+      "id": "nitoflor-range",
+      "name": "Nitoflor range",
+      "image" :"assets/brands/product_images/Fosroc/nitoflor-range.png"
+    },
+    {
+      "id": "renderoc",
+      "name": "Renderoc",
+      "image" :"assets/brands/product_images/Fosroc/renderoc.png"
+    },
+    {
+      "id": "nitomortar",
+      "name": "Nitomortar",
+      "image" :"assets/brands/product_images/Fosroc/nitomortar.png"
+    },
+    {
+      "id": "patchroc-ranges",
+      "name": "Patchroc ranges",
+      "image" :"assets/brands/product_images/Fosroc/patchroc-ranges.png"
+    },
+    {
+      "id": "fast-set-repair-compound-range",
+      "name": "Fast-set Repair Compound range",
+      "image" :"assets/brands/product_images/Fosroc/fast-set-repair-compound-range.png"
+    },
+    {
+      "id": "epoxy-and-polymer-repair-system-range",
+      "name": "Epoxy & Polymer Repair System range",
+      "image" :"assets/brands/product_images/Fosroc/epoxy-and-polymer-repair-system-range.png"
+    },
+    {
+      "id": "nitoseal",
+      "name": "Nitoseal",
+      "image" :"assets/brands/product_images/Fosroc/nitoseal.png"
+    },
+    {
+      "id": "nitofill-ranges",
+      "name": "Nitofill ranges",
+      "image" :"assets/brands/product_images/Fosroc/nitofill-ranges.png"
+    },
+    {
+      "id": "dekguard",
+      "name": "Dekguard",
+      "image" :"assets/brands/product_images/Fosroc/dekguard.png"
+    },
+    {
+      "id": "nitocote-ranges",
+      "name": "Nitocote ranges",
+      "image" :"assets/brands/product_images/Fosroc/nitocote-ranges.png"
+    },
+    {
+      "id": "nitobond-range",
+      "name": "Nitobond range",
+      "image" :"assets/brands/product_images/Fosroc/nitobond-range.png"
+    },
+    {
+      "id": "trafficguard",
+      "name": "Trafficguard",
+      "image" :"assets/brands/product_images/Fosroc/trafficguard.png"
+    },
+    {
+      "id": "roofex-ranges",
+      "name": "Roofex ranges",
+      "image" :"assets/brands/product_images/Fosroc/roofex-ranges.png"
+    },
+    {
+      "id": "galvashield-cathodic-protection-range",
+      "name": "Galvashield Cathodic Protection range",
+      "image" :"assets/brands/product_images/Fosroc/galvashield-cathodic-protection-range.png"
+    },
+    {
+      "id": "nitoplate",
+      "name": "Nitoplate",
+      "image" :"assets/brands/product_images/Fosroc/nitoplate.png"
+    },
+    {
+      "id": "nitowrap",
+      "name": "Nitowrap",
+      "image" :"assets/brands/product_images/Fosroc/nitowrap.png"
+    },
+    {
+      "id": "structuro-ranges",
+      "name": "Structuro ranges",
+      "image" :"assets/brands/product_images/Fosroc/structuro-ranges.png"
+    },
+    {
+      "id": "lokfix-range",
+      "name": "Lokfix range",
+      "image" :"assets/brands/product_images/Fosroc/lokfix-range.png"
+    },
+    {
+      "id": "lokfix-chemical-anchoring-range",
+      "name": "Lokfix Chemical Anchoring range",
+      "image" :"assets/brands/product_images/Fosroc/lokfix-chemical-anchoring-range.jpeg"
+    }
+  ]
+}

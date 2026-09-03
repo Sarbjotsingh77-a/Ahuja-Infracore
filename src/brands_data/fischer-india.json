@@ -1,0 +1,100 @@
+{
+  "brand": "Fischer India",
+  "products": [
+    {
+      "id": "2. FIS V / FIS SB / FIS EM / FIS RC Chemical Fixing range",
+      "name": "FIS V / FIS SB / FIS EM / FIS RC Chemical Fixing range",
+      "image": "assets/brands/product_images/fischer/FIS-V-FIS-SB-FIS-EM-FIS -RC-Chemical-Fixing-range.png"
+    },
+    {
+      "id": "fbn-ii-through-bolt-bonded-anchor",
+      "name": "FBN II (Through-Bolt / Bonded Anchor)",
+      "image": "assets/brands/product_images/fischer/fbn-ii-through-bolt-bonded-anchor.png"
+    },
+    {
+      "id": "faz-ii-bolt-wedge-anchor-range",
+      "name": "FAZ II (Bolt/Wedge Anchor) range",
+      "image": "assets/brands/product_images/fischer/faz-ii-bolt-wedge-anchor-range.png"
+    },
+    {
+      "id": "sx-plug-range",
+      "name": "SX Plug range",
+      "image": "assets/brands/product_images/fischer/sx-plug-range.png"
+    },
+    {
+      "id": "duopower-universal-plug-range",
+      "name": "DuoPower Universal Plug range",
+      "image": "assets/brands/product_images/fischer/duopower-universal-plug-range.png"
+    },
+    {
+      "id": "fur-sxr-long-shaft-frame-fixing-range",
+      "name": "FUR & SXR Long-shaft Frame Fixing range",
+      "image": "assets/brands/product_images/fischer/fur-sxr-long-shaft-frame-fixing-range.png"
+    },
+    {
+      "id": "plasterboard-cavity-fixing-gk-plug-range",
+      "name": "Plasterboard & Cavity Fixing (GK Plug) range",
+      "image": "assets/brands/product_images/fischer/plasterboard-cavity-fixing-gk-plug-range.png"
+    },
+    {
+      "id": "fur-sxr-frame-fixing-range-window-door-frames",
+      "name": "FUR / SXR Frame Fixing range (window & door frames)",
+      "image": "assets/brands/product_images/fischer/fur-sxr-frame-fixing-range-window-door-frames.png"
+    },
+    {
+      "id": "insulation-fixing-range-etics-wdvs",
+      "name": "Insulation Fixing range (ETICS/WDVS)",
+      "image": "assets/brands/product_images/fischer/insulation-fixing-range-etics-wdvs.png"
+    },
+    {
+      "id": "installation-systems-range",
+      "name": "Installation Systems range",
+      "image": "assets/brands/product_images/fischer/installation-systems-range.png"
+    },
+    {
+      "id": "fa-ade-fixing-systems-range",
+      "name": "Façade Fixing Systems range",
+      "image": "assets/brands/product_images/fischer/fa-ade-fixing-systems-range.png"
+    },
+    {
+      "id": "sanitary-fixings-range",
+      "name": "Sanitary Fixings range",
+      "image": "assets/brands/product_images/fischer/sanitary-fixings-range.png"
+    },
+    {
+      "id": "electrical-fixings-range",
+      "name": "Electrical Fixings range",
+      "image": "assets/brands/product_images/fischer/electrical-fixings-range.png"
+    },
+    {
+      "id": "fis-v-fis-sb-injection-mortar-range-with-rm-rg-capsule-anchors",
+      "name": "FIS V / FIS SB Injection Mortar range (with RM/RG Capsule Anchors)",
+      "image": "assets/brands/product_images/fischer/fis-v-fis-sb-injection-mortar-range-with-rm-rg-capsule-anchors.png"
+    },
+    {
+      "id": "fis-em-epoxy-mortar-range",
+      "name": "FIS EM Epoxy Mortar range",
+      "image": "assets/brands/product_images/fischer/fis-em-epoxy-mortar-range.png"
+    },
+    {
+      "id": "fis-rc-injection-mortar-range",
+      "name": "FIS RC Injection Mortar range",
+      "image": "assets/brands/product_images/fischer/fis-rc-injection-mortar-range.png"
+    },
+    {
+      "id": "firestop-systems-range",
+      "name": "FireStop Systems range",
+      "image": "assets/brands/product_images/fischer/firestop-systems-range.png"
+    },
+    {
+      "id": "renovation-strengthening-products-range",
+      "name": "Renovation & Strengthening Products range",
+      "image": "assets/brands/product_images/fischer/renovation-strengthening-products-range.png"
+    },
+    {
+      "id": "setting-tools-accessories-range-e-g-eaw-h-plus-ea-ii-s-sds",
+      "name": "Setting Tools & Accessories range (e.g. EAW H Plus, EA II S-SDS)",
+      "image": "assets/brands/product_images/fischer/setting-tools-accessories-range-e-g-eaw-h-plus-ea-ii-s-sds.png"
+    }
+  ]
+}

@@ -1,0 +1,865 @@
+/* ---------- Contact Hero ---------- */
+.page-hero.contact-hero{
+  --section-bg-desktop:url("../assets/contact-bg.jpg");
+  --section-bg-mobile:url("../assets/contact-bg.jpg");
+--section-bg-overlay: linear-gradient(
+  90deg,
+  rgba(23, 19, 15, 0.62) 0%,
+  rgba(23, 19, 15, 0.42) 50%,
+  rgba(23, 19, 15, 0.52) 100%
+);
+  padding-bottom:70px;
+}
+.page-hero.contact-hero::before {
+  display: none !important;
+}
+.contact-hero-bg {
+  position: absolute;
+  inset: 0;
+  background-image: var(--section-bg-desktop);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  z-index: -2;
+  transform-origin: center;
+}
+.contact-hero .wrap{width:100%; position: relative; z-index: 1;}
+.contact-hero-content{max-width:560px;}
+.contact-hero-content .breadcrumb{color:rgba(238,225,210,.55);}
+.contact-hero-content .breadcrumb a{color:var(--gold);}
+.contact-hero-content .eyebrow{color:var(--gold);}
+.contact-hero-content h1{color:var(--white);}
+.contact-hero-content h1 .accent{color:var(--gold);}
+.contact-hero-content p{max-width:480px;color:rgba(238,225,210,.85);}
+.contact-hero-content p + p{margin-top:14px;}
+
+.contact-cta-card{
+  display:flex;
+  align-items:flex-start;
+  gap:18px;
+  margin-top:34px;
+  padding:26px 28px;
+  background:rgba(23,19,15,.55);
+  border:1px solid rgba(217,200,181,.25);
+  border-radius: 10px;
+  max-width:440px;
+}
+.contact-cta-icon{
+  flex-shrink:0;
+  width:48px;height:48px;
+  border-radius:50%;
+  border:1px solid rgba(217,200,181,.35);
+  display:flex;align-items:center;justify-content:center;
+}
+.contact-cta-icon svg{width:20px;height:20px;color:var(--gold);}
+.contact-cta-card h3{
+  font-size:.95rem;
+  letter-spacing:.08em;
+  color:var(--gold);
+  margin-bottom:8px;
+}
+.contact-cta-card p{
+  font-size:.85rem;
+  color:var(--cream);
+  opacity:.85;
+  margin:0;
+  line-height:1.5;
+}
+
+.contact-hero-visual{
+  position:relative;
+  height:560px;
+  border:1px solid var(--beige);
+  padding:14px;
+  background:var(--white);
+}
+.contact-hero-visual-frame{
+  position:relative;
+  width:100%;
+  height:100%;
+  overflow:hidden;
+}
+.contact-hero-visual-frame img{
+  width:100%;height:100%;
+  object-fit:cover;
+  object-position:center;
+}
+.contact-hero-visual-frame::after{
+  content:'';
+  position:absolute;inset:0;
+  background:linear-gradient(180deg, rgba(23,19,15,0) 55%, rgba(23,19,15,.55) 100%);
+}
+.contact-hero-visual-tag{
+  position:absolute;
+  left:28px;bottom:28px;
+  z-index:2;
+  color:var(--white);
+}
+.contact-hero-visual-tag .logo-text{font-size:1rem;}
+.contact-hero-visual-tag .logo-text span{color:var(--gold);}
+.contact-hero-visual::before{
+  content:'';
+  position:absolute;
+  top:-1px;left:-1px;
+  width:34px;height:34px;
+  border-top:2px solid var(--gold);
+  border-left:2px solid var(--gold);
+  z-index:2;
+}
+
+/* ---------- Contact Main (form + info) ---------- */
+.contact-main{
+  background:var(--white);
+  border-top:1px solid var(--beige);
+  border-bottom:1px solid var(--beige);
+}
+.contact-main-grid{
+  display:grid;
+  grid-template-columns:35% 65%;
+  gap:0;
+  align-items:stretch;
+}
+@media (min-width: 1024px) {
+  .contact-main-grid {
+    height: calc(100vh - var(--nav-h) - 40px);
+    max-height: 760px;
+    grid-template-rows: 1fr;
+  }
+}
+.contact-form-col{
+  padding:20px 40px 20px 0;
+  border-right:1px solid var(--beige);
+  display: flex;
+  flex-direction: column;
+}
+.contact-aside-col{
+  padding:20px 0 20px 40px;
+  display:flex;
+  flex-direction:column;
+}
+.contact-section-heading{
+  display:flex;
+  align-items:center;
+  gap:14px;
+  margin-bottom:34px;
+}
+.contact-section-heading .icon-badge{
+  width:46px;height:46px;
+  border-radius:50%;
+  background:var(--light-cream);
+  border:1px solid var(--beige);
+  display:flex;align-items:center;justify-content:center;
+  flex-shrink:0;
+}
+.contact-section-heading .icon-badge svg{width:20px;height:20px;color:var(--brown);}
+.contact-section-heading h2{font-size:1.35rem;letter-spacing:.02em;}
+
+/* India connectivity map */
+.contact-india-map{
+  display:flex;
+  align-items:stretch;
+  justify-content:center;
+  flex:1;
+  margin:0;
+  padding:16px;
+  min-height:480px;
+  background:var(--dark);
+  border-radius:8px;
+  overflow:hidden;
+  box-sizing:border-box;
+}
+.contact-india-map img{
+  width:100%;
+  height:100%;
+  object-fit:contain;
+  display:block;
+  border-radius:8px;
+}
+
+/* Form */
+.contact-form{display:flex;flex-direction:column;gap:20px;}
+.form-row{display:grid;grid-template-columns:1fr 1fr;gap:20px;}
+.form-group{display:flex;flex-direction:column;gap:8px;}
+.form-group label{
+  font-size:.72rem;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  color:var(--muted);
+  font-weight:600;
+}
+.form-group input,
+.form-group textarea{
+  width:100%;
+  padding:14px 16px;
+  background:var(--light-cream);
+  border:1px solid var(--beige);
+  border-radius:2px;
+  color:var(--dark);
+  font-size:.9rem;
+  transition:border-color .3s var(--ease), background .3s var(--ease);
+}
+.form-group input::placeholder,
+.form-group textarea::placeholder{color:var(--muted);opacity:.7;}
+.form-group input:focus,
+.form-group textarea:focus{
+  outline:none;
+  border-color:var(--gold);
+  background:var(--white);
+}
+.form-group input:invalid:not(:placeholder-shown){border-color:#a24b3c;}
+.form-group textarea{resize:vertical;min-height:140px;}
+.contact-form-actions{
+  display:flex;
+  align-items:center;
+  gap:18px;
+  margin-top:6px;
+  flex-wrap:wrap;
+}
+.form-success{
+  display:none;
+  align-items:center;
+  gap:10px;
+  font-size:.85rem;
+  color:var(--brown);
+  font-weight:600;
+}
+.form-success.show{display:flex;}
+.form-success svg{width:18px;height:18px;flex-shrink:0;}
+.contact-form-note{
+  font-size:.76rem;
+  color:var(--muted);
+  margin-top:4px;
+  line-height:1.5;
+}
+
+/* Aside — Get in Touch */
+.info-cards{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:16px;
+}
+.info-block{
+  display:flex;
+  gap:16px;
+  padding:22px;
+  border:1px solid var(--beige);
+  border-radius:10px;
+  background:var(--light-cream);
+  transition:border-color .3s var(--ease), box-shadow .3s var(--ease), transform .3s var(--ease);
+}
+.info-block:hover{
+  border-color:var(--brown);
+  box-shadow:0 8px 24px rgba(23,19,15,0.06);
+  transform:translateY(-2px);
+}
+.info-block-icon{
+  flex-shrink:0;
+  width:44px;height:44px;
+  border-radius:50%;
+  border:1px solid var(--beige);
+  background:var(--white);
+  display:flex;align-items:center;justify-content:center;
+}
+.info-block-icon svg{width:18px;height:18px;color:var(--brown);}
+.info-block h3{
+  font-size:.85rem;
+  letter-spacing:.08em;
+  color:var(--accent);
+  margin-bottom:8px;
+}
+.info-block p{font-size:1.05rem;color:var(--dark);line-height:1.6;margin:0;}
+.info-block p.sub{font-size:.9rem;color:var(--muted);margin-top:4px;}
+.info-block a{transition:color .3s;}
+.info-block a:hover{color:var(--brown);}
+.info-block-full{grid-column:1 / -1;}
+
+.contact-closing-text{
+  margin-top:auto;
+  padding:28px;
+  background:var(--light-cream);
+  border:1px solid var(--beige);
+  border-radius:10px;
+  border-left:3px solid var(--brown);
+}
+.contact-closing-text p{
+  font-size:1.15rem;
+  color:var(--dark);
+  font-weight:500;
+  line-height:1.7;
+  margin:0;
+}
+
+/* ---------- Trust / Value Strip ---------- */
+.contact-trust{
+  background:var(--dark);
+  padding:64px 0;
+}
+.trust-grid{
+  display:grid;
+  grid-template-columns:repeat(6,1fr);
+  gap:0;
+}
+.trust-item{
+  padding:0 24px;
+  border-left:1px solid rgba(217,200,181,.14);
+  border-radius:6px;
+  transition: transform 0.4s var(--ease), background 0.4s var(--ease);
+  cursor:default;
+}
+.trust-item:first-child{border-left:none;padding-left:0;}
+.trust-item:hover{
+  transform: translateY(-6px);
+  background: rgba(217,200,181,.05);
+}
+.trust-item .trust-num{
+  display:block;
+  font-family:var(--font-display);
+  font-size:.75rem;
+  color:var(--gold);
+  letter-spacing:.1em;
+  margin-bottom:14px;
+}
+.trust-item svg{
+  width:26px;
+  height:26px;
+  color:var(--gold);
+  margin-bottom:14px;
+  transition: transform 0.45s var(--ease), color 0.3s ease;
+}
+.trust-item:hover svg{
+  transform: scale(1.15) rotate(-6deg);
+  color: var(--white);
+}
+.trust-item h3{
+  font-size:.85rem;
+  letter-spacing:.03em;
+  color:var(--white);
+  margin-bottom:8px;
+  transition: color 0.3s ease;
+}
+.trust-item:hover h3{
+  color: var(--gold);
+}
+.trust-item p{
+  font-size:.78rem;
+  color:var(--muted);
+  line-height:1.5;
+  margin:0;
+}
+
+/* ---------- Pan-India Interactive Locations ---------- */
+.contact-presence {
+  background:  linear-gradient(
+    90deg,
+    rgba(23, 19, 15, 0.40) 0%,
+    rgba(23, 19, 15, 0.24) 50%,
+    rgba(23, 19, 15, 0.32) 100%
+  ), url("../assets/location-bg.jpg");
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 20px 0;
+  border-top: 1px solid var(--beige);
+  border-bottom: 1px solid var(--beige);
+}
+
+.locations-intro {
+  max-width: 520px;
+  color: var(--muted);
+  font-size: 0.95rem;
+  line-height: 1.55;
+  margin: 0;
+}
+
+.locations-container {
+  display: grid;
+  grid-template-columns: 1fr 1.25fr;
+  margin-top: 40px;
+  align-items: start;
+}
+
+.locations-left {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Equal width for both state list & office details block */
+  gap: 30px;
+  width: 100%;
+}
+
+/* States List Sidebar (Scrollable up to Jharkhand) */
+.states-list {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--beige);
+  background: var(--cream);
+  padding: 10px 0;
+  border-radius: 4px;
+  height: 480px;              /* Fixed height displaying ~9-10 visible state rows */
+  max-height: 480px;          /* Prevents expanding beyond target height */
+  overflow-y: auto;
+  scroll-behavior: smooth;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Custom Scrollbar for States List */
+.states-list::-webkit-scrollbar {
+  width: 5px;
+}
+
+.states-list::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.04);
+}
+
+.states-list::-webkit-scrollbar-thumb {
+  background: var(--brown);
+  border-radius: 4px;
+}
+
+.state-item {
+  display: flex;
+  align-items: center;
+  padding: 14px 24px;
+  cursor: pointer;
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--dark);
+  position: relative;
+  outline: none;
+}
+
+.state-indicator {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: transparent;
+  margin-right: 12px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.state-arrow {
+  margin-left: auto;
+  opacity: 0;
+  transform: translateX(-10px);
+  transition: opacity 0.3s ease, transform 0.3s ease, color 0.3s ease;
+  color: var(--brown);
+}
+
+/* Hover & Active States */
+.state-item:hover {
+  background: var(--light-cream);
+  color: var(--brown);
+  padding-left: 28px;
+}
+
+.state-item:hover .state-arrow {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.state-item.active {
+  background: var(--light-cream);
+  color: var(--brown);
+  font-weight: 600;
+  border-left: 3px solid var(--brown);
+  padding-left: 21px; /* adjusts for border spacing */
+}
+
+.state-item.active .state-indicator {
+  background: var(--brown);
+  transform: scale(1.3);
+}
+
+.state-item.active .state-arrow {
+  opacity: 1;
+  transform: translateX(0);
+  color: var(--brown);
+}
+
+.state-name{
+  color: black;
+}
+
+/* Office Details — single box, names only */
+.office-details-container {
+  display: flex;
+  flex-direction: column;
+  height: 320px;
+}
+
+.office-names-box {
+  background: var(--cream);
+  border: 1px solid var(--beige);
+  border-radius: 6px;
+  padding: 24px;
+  box-shadow: 0 4px 12px rgba(23,19,15,0.02);
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  overflow-y: auto; /* scrolls only on the rare state with more than ~10 offices */
+}
+
+.office-names-heading {
+  display: block;
+  font-size: 15px;
+  letter-spacing: 0.1em;
+  color: var(--accent);
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 14px;
+}
+
+.office-names-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px 8px; /* Reduced horizontal gap from 12px to 8px */
+  align-items: start;
+}
+
+.office-name-pill {
+  display: flex;
+  align-items: flex-start;
+  gap: 6px; /* Reduced gap between dot and text */
+  min-width: 0;
+  color: var(--dark);
+  font-size: 0.78rem; /* Scaled down slightly from 0.82rem so long words fit on one line */
+  font-weight: 650;
+  padding: 4px 2px; /* Reduced side padding so text has maximum available width */
+  border-radius: 4px;
+  text-transform: uppercase;
+  border: 1px solid transparent;
+  transition: border-color 0.3s ease, transform 0.3s ease;
+  white-space: nowrap; /* Forces text like FARRUKNAGAR to remain on one single line */
+}
+
+.office-name-dot {
+  flex-shrink: 0;
+  width: 5px;
+  height: 5px;
+  background: var(--dark);
+  border-radius: 50%;
+  margin-top: 5px;
+}
+
+.office-name-text {
+  min-width: 0;
+  line-height: 1.35;
+  white-space: normal; /* Allows multi-word items like DWARKA EXPRESSWAY to still wrap if needed */
+}
+
+.office-name-pill:hover {
+  border-color: var(--gold);
+  transform: translateY(-2px);
+}
+
+/* Map Right Column */
+.locations-right {
+  position: sticky;
+  top: 110px;
+}
+
+.map-wrapper { 
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+} 
+
+.india-svg-map {
+  width: 70%;
+  height: auto;
+  display: block;
+}
+
+/* State SVG Paths styling */
+.state-path {
+  fill: #e8dccb;
+  stroke: var(--white);
+  stroke-width: 1px;
+  stroke-linejoin: round;
+  transition: fill 0.3s ease, stroke 0.3s ease, stroke-width 0.3s ease;
+  cursor: pointer;
+}
+
+.state-path:hover {
+  fill: #eedfca;
+}
+
+.state-path.active {
+  fill: var(--gold);
+  stroke: var(--brown);
+  stroke-width: 1.5px;
+}
+
+/* Markers styling */
+.map-marker {
+  cursor: pointer;
+  outline: none;
+}
+
+.map-marker .marker-dot {
+  fill: var(--brown);
+  stroke: var(--white);
+  stroke-width: 1.5px;
+  transition: all 0.3s var(--ease);
+}
+
+.map-marker .pulse-ring {
+  fill: var(--gold);
+  fill-opacity: 0.45;
+  opacity: 0;
+  transform-origin: center;
+  transition: opacity 0.3s ease;
+}
+
+.map-marker:hover .marker-dot,
+.map-marker.active .marker-dot {
+  fill: var(--gold);
+  stroke: var(--brown);
+  stroke-width: 2px;
+  transform-origin: center;
+}
+
+.map-marker:hover .pulse-ring,
+.map-marker.active .pulse-ring {
+  opacity: 1;
+  animation: marker-pulse-glow 2s infinite ease-in-out;
+}
+
+@keyframes marker-pulse-glow {
+  0% {
+    transform: scale(0.5);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale(2.0);
+    opacity: 0;
+  }
+}
+
+.presence-disclaimer{
+  margin-top:28px;
+  font-size:.76rem;
+  color:var(--muted);
+  line-height:1.5;
+  max-width:720px;
+}
+
+/* Responsive: stack on small screens */
+@media (max-width: 480px) {
+  .stats-strip {
+    flex-direction: column;
+    gap: 16px;
+  }
+  .stat-item:not(:last-child)::after {
+    display: none;
+  }
+}
+
+/* RESPONSIVE */
+
+@media (max-width:1280px){
+  .trust-grid{grid-template-columns:repeat(3,1fr);row-gap:36px;}
+  .trust-item:nth-child(4){border-left:none;padding-left:0;}
+}
+
+@media (max-width:1023px){
+
+  /* ---- Hero: fill the viewport on tablet/mobile ---- */
+  .page-hero.contact-hero{
+    min-height:100svh;
+    min-height:100vh; 
+    display:flex;
+    align-items:stretch;
+    padding-top:140px; 
+    padding-bottom:60px;
+    box-sizing:border-box;
+  }
+  .contact-hero .wrap{width:100%;}
+  .contact-hero-content{max-width:100%;}
+
+  .contact-main-grid{grid-template-columns:1fr;}
+ .contact-form-col{
+  padding:20px 40px 20px 0;
+  border-right:1px solid var(--beige);
+  display:flex;
+  flex-direction:column;
+  min-height:0;
+}
+  .contact-aside-col{padding:30px 0 30px;}
+    .info-cards{grid-template-columns:1fr;}
+
+  .contact-trust{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* ---- Locations: stack states list above office cards ---- */
+  .locations-container {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+  .locations-left{
+    flex-direction:column;
+    gap:32px;
+  }
+  .locations-right {
+    position: static;
+  }
+
+  /* ---- Map: give it real size instead of the desktop 70%/flex-end crop ---- */
+  .map-wrapper{
+    justify-content:center;
+    border-radius:6px;
+    padding:24px;
+  }
+  .india-svg-map{
+    width:100%;
+    max-width:520px;
+  }
+}
+
+@media (max-width:767px){
+
+  .contact-hero.page-hero{padding-top:120px;}
+  .contact-hero-content h1{font-size:2.1rem;}
+  .contact-hero-content p{font-size:.92rem;}
+
+  .form-row{grid-template-columns:1fr;}
+  .contact-cta-card{padding:22px;margin-top:26px;}
+  /* ---- Trust strip: restyle as compact cards instead of bare columns ---- */
+  .contact-trust{padding:48px 0;}
+  .trust-grid{grid-template-columns:repeat(2,1fr);gap:14px;}
+
+
+    .trust-item{
+    border:1px solid rgba(217,200,181,.14);
+    border-radius:8px;
+    padding:20px 16px;
+    background:rgba(255,255,255,.025);
+    transition:border-color .3s ease, background .3s ease, transform .35s var(--ease), box-shadow .35s var(--ease);
+    text-align:center;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+  }
+  .trust-item:hover,
+  .trust-item:active{
+    border-color:rgba(217,200,181,.3);
+    transform: translateY(-4px);
+    box-shadow: 0 10px 24px rgba(0,0,0,0.25);
+  }
+  .trust-item svg{width:22px;height:22px;margin-bottom:10px;transition: transform 0.4s var(--ease);}
+  .trust-item:hover svg,
+  .trust-item:active svg{transform: scale(1.1) rotate(-6deg);}
+  .trust-item h3{font-size:.8rem;margin-bottom:6px;}
+  .trust-item p{font-size:.74rem;}
+
+    /* ---- Presence section: no extra top/bottom padding ---- */
+  .contact-presence{padding:0;}
+  .locations-container{margin-top:20px;}
+
+  /* Every box in this section stays inside the viewport width, no overflow */
+  .locations-container,
+  .locations-left,
+  .locations-right,
+  .states-list,
+  .office-details-container,
+  .office-names-box,
+  .map-wrapper{
+    width:100%;
+    max-width:100%;
+    box-sizing:border-box;
+  }
+
+  /* States list: one bordered box, 3 states per row */
+  .states-list{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:2px;
+    border:1px solid var(--beige);
+    background:var(--cream);
+    border-radius:6px;
+    padding:6px;
+    max-height:none;
+    overflow:visible;
+  }
+  .state-item{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding:12px 6px;
+    border-radius:4px;
+    white-space:nowrap;
+    font-size:.72rem;
+    text-align:center;
+  }
+  .state-item:hover{padding-left:6px;} /* cancel the desktop hover shift */
+  .state-item.active{
+    border-left:none;
+    border:1px solid var(--brown);
+    padding-left:6px;
+  }
+  .state-arrow{display:none;}
+  .state-indicator{display:none;}
+
+/* Office names: fixed-height scrollable area */
+/* Office names: sizes to content, scrolls only if a state ever has more offices than fit */
+/* Office names: same fixed size for every state, fits up to ~10 offices */
+.office-details-container{
+  height:260px;
+}
+
+.office-names-box{
+  padding:16px;
+  height:100%;
+  box-sizing:border-box;
+  overflow:hidden;
+}
+
+.office-names-list{
+  gap:8px;
+  max-height:200px;
+  overflow-y:auto;
+  padding-right:4px;
+  scrollbar-width:1px;
+}
+
+
+.office-name-pill{
+  padding:7px 12px;
+  font-size:.78rem;
+}
+
+.office-name-pill:hover{
+  transform:none;
+}
+
+  /* Map: fills the viewport width, scales with it */
+  .map-wrapper{
+    padding:10px;
+    justify-content:center;
+  }
+  .india-svg-map{
+    width:100%;
+    max-width:none;
+  }
+}
+
+@media (max-width:479px){
+  .trust-grid{grid-template-columns:1fr;}
+  .trust-item .trust-num{display:none;}
+  .trust-item{align-items:center;text-align:center;}
+}
+
+
+/* Darken navbar text on this page for readability before scroll */
+.navbar:not(.scrolled) .nav-links a{
+  color: var(--dark);
+}
+.navbar:not(.scrolled) .nav-links a:hover,
+.navbar:not(.scrolled) .nav-links a.active{
+  color: var(--brown);
+}

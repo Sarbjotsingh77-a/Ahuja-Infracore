@@ -1,0 +1,686 @@
+{
+  "category_id": "safety-ppe-road-safety",
+  "category_name": "Safety, PPE & Road Safety",
+  "category_icon": "🦺",
+  "description": "Personal protective equipment spanning head, eye, hearing, respiratory, hand, and body protection, along with fall arrest systems, confined space gear, traffic control equipment, and industrial safety footwear.",
+  "subcategories": [
+    {
+      "id": "head-protection",
+      "name": "Head Protection",
+      "groups": [
+        {
+          "id": "safety-helmets",
+          "name": "Safety Helmets",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/safety-helmets.png",
+          "products": [
+            {
+              "id": "hsd-series",
+              "name": "HSD Series",
+              "company": "Heapro Safety Products"
+            },
+            {
+              "id": "er-01-class-e-electrical",
+              "name": "ER-01 (Class E Electrical)",
+              "company": "Heapro Safety Products"
+            },
+            {
+              "id": "vr-series",
+              "name": "VR Series",
+              "company": "Heapro Safety Products"
+            },
+            {
+              "id": "ventra-ld-sd-series-helmets",
+              "name": "Ventra LD/SD Series Helmets",
+              "company": "Heapro Safety Products"
+            },
+            {
+              "id": "safety-helmet-range",
+              "name": "Safety Helmet range",
+              "company": "Karam Safety"
+            },
+            {
+              "id": "safety-helmet-range-red-yellow",
+              "name": "Safety Helmet range (Red/Yellow)",
+              "company": "Laxmisafe India"
+            },
+            {
+              "id": "helmets-range-hand-tools-ppe-accessories",
+              "name": "Helmets range (Hand Tools/PPE accessories)",
+              "company": "Bosch Professional"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eye-face-protection",
+      "name": "Eye & Face Protection",
+      "groups": [
+        {
+          "id": "safety-goggles-glasses-chemical-splash-goggles",
+          "name": "Safety Goggles / Glasses / Chemical Splash Goggles",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/safety-goggles-glasses-chemical-splash-goggles.png",
+          "products": [
+            {
+              "id": "hp-safety-goggles-range",
+              "name": "HP Safety Goggles range",
+              "company": "Heapro Safety Products"
+            },
+            {
+              "id": "boll-safety-eyewear-range",
+              "name": "Bollé Safety Eyewear range",
+              "company": "Karam Safety"
+            },
+            {
+              "id": "safety-goggles-range",
+              "name": "Safety Goggles range",
+              "company": "Karam Safety"
+            },
+            {
+              "id": "safety-goggles-range",
+              "name": "Safety Goggles range",
+              "company": "Laxmisafe India"
+            }
+          ]
+        },
+        {
+          "id": "face-shields-welding-shields",
+          "name": "Face Shields / Welding Shields",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/face-shields-welding-shields.png",
+          "products": [
+            {
+              "id": "hp-face-shields-range",
+              "name": "HP Face Shields range",
+              "company": "Heapro Safety Products"
+            },
+            {
+              "id": "welding-hand-shield",
+              "name": "Welding Hand Shield",
+              "company": "Heapro Safety Products"
+            },
+            {
+              "id": "face-shield-range",
+              "name": "Face Shield range",
+              "company": "Karam Safety"
+            },
+            {
+              "id": "welding-hand-shield-range",
+              "name": "Welding Hand Shield range",
+              "company": "Laxmisafe India"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hearing-respiratory-protection",
+      "name": "Hearing & Respiratory Protection",
+      "groups": [
+        {
+          "id": "ear-plugs-and-ear-muffs",
+          "name": "Ear Plugs & Ear Muffs",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/ear-plugs-and-ear-muffs.png",
+          "products": [
+            {
+              "id": "hp-ear-muffs-range",
+              "name": "HP Ear Muffs range",
+              "company": "Heapro Safety Products"
+            },
+            {
+              "id": "hp-ear-plugs-range",
+              "name": "HP Ear Plugs range",
+              "company": "Heapro Safety Products"
+            },
+            {
+              "id": "ear-muffs-ear-plugs-range",
+              "name": "Ear Muffs & Ear Plugs range",
+              "company": "Karam Safety"
+            },
+            {
+              "id": "silicon-earplugs-range",
+              "name": "Silicon Earplugs range",
+              "company": "Laxmisafe India"
+            }
+          ]
+        },
+        {
+          "id": "nose-masks-respirators",
+          "name": "Nose Masks / Respirators",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/nose-masks-respirators.png",
+          "products": [
+            {
+              "id": "hp-nose-masks-range",
+              "name": "HP Nose Masks range",
+              "company": "Heapro Safety Products"
+            },
+            {
+              "id": "respiratory-masks-range",
+              "name": "Respiratory Masks range",
+              "company": "Karam Safety"
+            },
+            {
+              "id": "nose-mask-range",
+              "name": "Nose Mask range",
+              "company": "Laxmisafe India"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hand-body-protection",
+      "name": "Hand & Body Protection",
+      "groups": [
+        {
+          "id": "industrial-safety-gloves",
+          "name": "Industrial / Safety Gloves",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/industrial-safety-gloves.png",
+          "products": [
+            {
+              "id": "hp-safety-gloves-range",
+              "name": "HP Safety Gloves range",
+              "company": "Heapro Safety Products"
+            },
+            {
+              "id": "hand-gloves-range",
+              "name": "Hand Gloves range",
+              "company": "Heapro Safety Products"
+            },
+            {
+              "id": "gloves-range",
+              "name": "Gloves range",
+              "company": "Karam Safety"
+            },
+            {
+              "id": "industrial-gloves-range",
+              "name": "Industrial Gloves range",
+              "company": "Laxmisafe India"
+            }
+          ]
+        },
+        {
+          "id": "protective-workwear-coveralls-cover-all-suits",
+          "name": "Protective Workwear / Coveralls / Cover-all Suits",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/protective-workwear-coveralls-cover-all-suits.png",
+          "products": [
+            {
+              "id": "coverall-protective-workwear-range",
+              "name": "Coverall / Protective Workwear range",
+              "company": "Karam Safety"
+            },
+            {
+              "id": "cover-all-suit-range",
+              "name": "Cover-all Suit range",
+              "company": "Heapro Safety Products"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "visibility-wear-knee-protection",
+      "name": "Visibility Wear & Knee Protection",
+      "groups": [
+        {
+          "id": "safety-jackets-reflective-cross-belts",
+          "name": "Safety Jackets / Reflective Cross Belts",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/safety-jackets-reflective-cross-belts.png",
+          "products": [
+            {
+              "id": "safety-jacket-range",
+              "name": "Safety Jacket range",
+              "company": "Heapro Safety Products"
+            },
+            {
+              "id": "reflective-cross-belt-range",
+              "name": "Reflective Cross Belt range",
+              "company": "Laxmisafe India"
+            }
+          ]
+        },
+        {
+          "id": "knee-pads",
+          "name": "Knee Pads",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/knee-pads.png",
+          "products": [
+            {
+              "id": "knee-pad-range",
+              "name": "Knee Pad range",
+              "company": "Laxmisafe India"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fall-arrest-harnesses-lanyards",
+      "name": "Fall Arrest Harnesses & Lanyards",
+      "groups": [
+        {
+          "id": "full-body-harnesses",
+          "name": "Full Body Harnesses",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/full-body-harnesses.png",
+          "products": [
+            {
+              "id": "safety-harness-range",
+              "name": "Safety Harness range",
+              "company": "Heapro Safety Products"
+            },
+            {
+              "id": "pn-series-full-body-harnesses-e-g-pn12-pn16-pn17-pn18-pn22-pn43-pn56",
+              "name": "PN Series Full Body Harnesses (e.g. PN12, PN16, PN17, PN18, PN22, PN43, PN56)",
+              "company": "Karam Safety"
+            },
+            {
+              "id": "ki01-series",
+              "name": "KI01 Series",
+              "company": "Karam Safety"
+            },
+            {
+              "id": "ce-series-elasto-rhino",
+              "name": "CE Series (Elasto, Rhino)",
+              "company": "Karam Safety"
+            },
+            {
+              "id": "magna-series",
+              "name": "Magna Series",
+              "company": "Karam Safety"
+            },
+            {
+              "id": "full-body-safety-belt-range",
+              "name": "Full Body Safety Belt range",
+              "company": "Laxmisafe India"
+            }
+          ]
+        },
+        {
+          "id": "lanyards",
+          "name": "Lanyards",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/lanyards.png",
+          "products": [
+            {
+              "id": "lanyards-range",
+              "name": "Lanyards range",
+              "company": "Heapro Safety Products"
+            },
+            {
+              "id": "work-positioning-lanyard-range",
+              "name": "Work Positioning Lanyard range",
+              "company": "Karam Safety"
+            },
+            {
+              "id": "sharp-edge-lanyard-range",
+              "name": "Sharp Edge Lanyard range",
+              "company": "Karam Safety"
+            },
+            {
+              "id": "specialised-lanyard-range",
+              "name": "Specialised Lanyard range",
+              "company": "Karam Safety"
+            }
+          ]
+        },
+        {
+          "id": "fall-arrestors-retractable-blocks",
+          "name": "Fall Arrestors / Retractable Blocks",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/fall-arrestors-retractable-blocks.png",
+          "products": [
+            {
+              "id": "retractable-fall-arrester-range",
+              "name": "Retractable Fall Arrester range",
+              "company": "Heapro Safety Products"
+            },
+            {
+              "id": "wire-rope-grab-range",
+              "name": "Wire Rope Grab range",
+              "company": "Heapro Safety Products"
+            },
+            {
+              "id": "retractable-block-srl-range",
+              "name": "Retractable Block / SRL range",
+              "company": "Karam Safety"
+            },
+            {
+              "id": "sealed-retrieval-block-range",
+              "name": "Sealed Retrieval Block range",
+              "company": "Karam Safety"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "connectors-anchorage-systems",
+      "name": "Connectors & Anchorage Systems",
+      "groups": [
+        {
+          "id": "hooks-karabiners-and-connectors",
+          "name": "Hooks, Karabiners & Connectors",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/hooks-karabiners-and-connectors.png",
+          "products": [
+            {
+              "id": "connector-auto-lock-oval-triangular-range",
+              "name": "Connector (Auto Lock Oval / Triangular) range",
+              "company": "Heapro Safety Products"
+            },
+            {
+              "id": "hooks-karabiners-range",
+              "name": "Hooks & Karabiners range",
+              "company": "Karam Safety"
+            }
+          ]
+        },
+        {
+          "id": "anchorage-devices-temporary-anchorage-lines",
+          "name": "Anchorage Devices / Temporary Anchorage Lines",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/anchorage-devices-temporary-anchorage-lines.png",
+          "products": [
+            {
+              "id": "anchorage-device-range",
+              "name": "Anchorage Device range",
+              "company": "Karam Safety"
+            },
+            {
+              "id": "temporary-horizontal-life-line-range",
+              "name": "Temporary Horizontal Life Line range",
+              "company": "Karam Safety"
+            }
+          ]
+        },
+        {
+          "id": "fixed-line-systems",
+          "name": "Fixed Line Systems",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/fixed-line-systems.png",
+          "products": [
+            {
+              "id": "fixed-line-system-range",
+              "name": "Fixed Line System range",
+              "company": "Karam Safety"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "confined-space-rescue-gear",
+      "name": "Confined Space & Rescue Gear",
+      "groups": [
+        {
+          "id": "confined-space-entry-rope-access-and-rescue-kits",
+          "name": "Confined Space Entry / Rope Access & Rescue Kits",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/confined-space-entry-rope-access-and-rescue-kits.png",
+          "products": [
+            {
+              "id": "rescue-descent-gear-range",
+              "name": "Rescue & Descent Gear range",
+              "company": "Karam Safety"
+            },
+            {
+              "id": "tower-kit-range",
+              "name": "Tower Kit range",
+              "company": "Karam Safety"
+            },
+            {
+              "id": "rescue-kit-range",
+              "name": "Rescue Kit range",
+              "company": "Heapro Safety Products"
+            },
+            {
+              "id": "tower-kit-range",
+              "name": "Tower Kit range",
+              "company": "Heapro Safety Products"
+            },
+            {
+              "id": "kernmantle-rope-range",
+              "name": "Kernmantle Rope range",
+              "company": "Heapro Safety Products"
+            },
+            {
+              "id": "polyamide-ropes-range",
+              "name": "Polyamide Ropes range",
+              "company": "Heapro Safety Products"
+            }
+          ]
+        },
+        {
+          "id": "safety-fan-nets-load-arresters",
+          "name": "Safety Fan Nets / Load Arresters",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/safety-fan-nets-load-arresters.png",
+          "products": [
+            {
+              "id": "safety-fan-net-range",
+              "name": "Safety Fan Net range",
+              "company": "Karam Safety"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gas-detection-site-warning",
+      "name": "Gas Detection & Site Warning",
+      "groups": [
+        {
+          "id": "gas-detectors",
+          "name": "Gas Detectors",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/gas-detectors.png",
+          "products": [
+            {
+              "id": "gas-detector-range",
+              "name": "Gas Detector range",
+              "company": "Karam Safety"
+            }
+          ]
+        },
+        {
+          "id": "solar-warning-lights-and-blinkers",
+          "name": "Solar Warning Lights & Blinkers",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/solar-warning-lights-and-blinkers.png",
+          "products": [
+            {
+              "id": "solar-blinker-light-range",
+              "name": "Solar Blinker Light range",
+              "company": "Laxmisafe India"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "traffic-control-equipment",
+      "name": "Traffic Control Equipment",
+      "groups": [
+        {
+          "id": "traffic-cones-barriers-batons-and-convex-mirrors",
+          "name": "Traffic Cones, Barriers, Batons & Convex Mirrors",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/traffic-cones-barriers-batons-and-convex-mirrors.png",
+          "products": [
+            {
+              "id": "traffic-baton-light-range",
+              "name": "Traffic Baton Light range",
+              "company": "Laxmisafe India"
+            },
+            {
+              "id": "expandable-barrier-range",
+              "name": "Expandable Barrier range",
+              "company": "Laxmisafe India"
+            },
+            {
+              "id": "plastic-barricade-chain-range",
+              "name": "Plastic Barricade Chain range",
+              "company": "Laxmisafe India"
+            },
+            {
+              "id": "safety-convex-mirror-range",
+              "name": "Safety Convex Mirror range",
+              "company": "Laxmisafe India"
+            }
+          ]
+        },
+        {
+          "id": "safety-tapes-retro-reflective-and-caution",
+          "name": "Safety Tapes (Retro-reflective & Caution)",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/safety-tapes-retro-reflective-and-caution.png",
+          "products": [
+            {
+              "id": "safety-tape-range",
+              "name": "Safety Tape range",
+              "company": "Laxmisafe India"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "water-safety-rainwear",
+      "name": "Water Safety & Rainwear",
+      "groups": [
+        {
+          "id": "life-jackets-and-lifebuoys",
+          "name": "Life Jackets & Lifebuoys",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/life-jackets-and-lifebuoys.png",
+          "products": [
+            {
+              "id": "life-jacket-range",
+              "name": "Life Jacket range",
+              "company": "Laxmisafe India"
+            }
+          ]
+        },
+        {
+          "id": "eva-raincoats-and-ponchos",
+          "name": "EVA Raincoats & Ponchos",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/eva-raincoats-and-ponchos.png",
+          "products": [
+            {
+              "id": "eva-raincoat-range",
+              "name": "EVA Raincoat range",
+              "company": "Laxmisafe India"
+            },
+            {
+              "id": "disposable-rain-poncho-range",
+              "name": "Disposable Rain Poncho range",
+              "company": "Laxmisafe India"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "industrial-safety-footwear",
+      "name": "Industrial Safety Footwear",
+      "groups": [
+        {
+          "id": "isi-marked-safety-shoes",
+          "name": "ISI-Marked Safety Shoes",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/isi-marked-safety-shoes.png",
+          "products": [
+            {
+              "id": "isi-marked-safety-shoes-range-e-g-nucleus-panther-soccer-dual-density-lines",
+              "name": "ISI Marked Safety Shoes range (e.g. Nucleus, Panther, Soccer Dual Density lines)",
+              "company": "Hillson Shoes"
+            },
+            {
+              "id": "hi-series-safety-shoes-e-g-hi-701-hi-901-hi-901c-composite-toe",
+              "name": "HI Series Safety Shoes (e.g. HI-701, HI-901, HI-901C Composite Toe)",
+              "company": "Heapro Safety Products"
+            }
+          ]
+        },
+        {
+          "id": "occupational-boots",
+          "name": "Occupational Boots",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/occupational-boots.png",
+          "products": [
+            {
+              "id": "occupational-boots-range",
+              "name": "Occupational Boots range",
+              "company": "Hillson Shoes"
+            }
+          ]
+        },
+        {
+          "id": "protective-boots",
+          "name": "Protective Boots",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/protective-boots.png",
+          "products": [
+            {
+              "id": "protective-boots-range",
+              "name": "Protective Boots range",
+              "company": "Hillson Shoes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "specialty-ladies-safety-footwear",
+      "name": "Specialty & Ladies Safety Footwear",
+      "groups": [
+        {
+          "id": "ladies-safety-shoes",
+          "name": "Ladies Safety Shoes",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/ladies-safety-shoes.png",
+          "products": [
+            {
+              "id": "lf-series-e-g-lf02-ladies-isi-mark-safety-shoes",
+              "name": "LF Series (e.g. LF02 Ladies ISI Mark Safety Shoes)",
+              "company": "Hillson Shoes"
+            }
+          ]
+        },
+        {
+          "id": "gum-boots-rain-boots",
+          "name": "Gum Boots / Rain Boots",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/gum-boots-rain-boots.png",
+          "products": [
+            {
+              "id": "gumboots-range-e-g-no-risk-button-boot-collar-boot-welcome-farming-gumboots",
+              "name": "Gumboots range (e.g. No-Risk Button Boot, Collar Boot, Welcome Farming Gumboots)",
+              "company": "Hillson Shoes"
+            },
+            {
+              "id": "pvc-gum-boot-range",
+              "name": "PVC Gum Boot range",
+              "company": "Laxmisafe India"
+            }
+          ]
+        },
+        {
+          "id": "clawz-wefly-hillson-plus-ranges",
+          "name": "Clawz / WeFly / Hillson Plus Ranges",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/clawz-wefly-hillson-plus-ranges.png",
+          "products": [
+            {
+              "id": "clawz-series-e-g-cl-01-cl-03-cl-06-cl-07",
+              "name": "Clawz Series (e.g. CL-01, CL-03, CL-06, CL-07)",
+              "company": "Hillson Shoes"
+            },
+            {
+              "id": "wefly-series-e-g-wf-01-wf-02-wf-03-wf-05",
+              "name": "WeFly Series (e.g. WF-01, WF-02, WF-03, WF-05)",
+              "company": "Hillson Shoes"
+            },
+            {
+              "id": "hillson-plus-range",
+              "name": "Hillson Plus range",
+              "company": "Hillson Shoes"
+            }
+          ]
+        },
+        {
+          "id": "occupational-wear-apparel",
+          "name": "Occupational Wear (apparel)",
+          "image":"assets/products_new/Subparts/safety, ppe & road safety/occupational-wear-apparel.png",
+          "products": [
+            {
+              "id": "occupational-wear-range",
+              "name": "Occupational Wear range",
+              "company": "Hillson Shoes"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+/* ==========================================================================\n   AHUJA INFRACORE — SUBCATEGORY PAGE REFINEMENT\n   Add this file AFTER category-page.css on subcategory.html.\n   ========================================================================== */
+
+/* ---------- Page intro ---------- */
+.simple-page-hero {
+  position: relative;
+  background: var(--cream);
+  padding: calc(var(--nav-h) + 38px) 0 42px;
+  border-bottom: 1px solid rgba(110, 63, 29, 0.10);
+  overflow: hidden;
+}
+
+.simple-page-hero::after {
+  content: "";
+  position: absolute;
+  width: 240px;
+  height: 240px;
+  right: -90px;
+  top: 25px;
+  border: 1px solid rgba(184, 135, 74, 0.16);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.simple-page-hero .wrap {
+  position: relative;
+  z-index: 1;
+}
+
+.simple-page-hero .breadcrumb {
+  margin: 0 0 16px;
+  font-size: 0.68rem;
+  line-height: 1.5;
+  color: var(--muted);
+  letter-spacing: 0.075em;
+}
+
+.simple-page-hero .breadcrumb a {
+  transition: color 0.25s ease;
+}
+
+.simple-page-hero .breadcrumb a:hover {
+  color: var(--brown);
+}
+
+.simple-page-hero h1 {
+  margin: 0;
+  max-width: 900px;
+  font-family: var(--font-display);
+  font-size: clamp(2.15rem, 4vw, 3.35rem);
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: 0.015em;
+  color: var(--dark);
+}
+
+.simple-page-hero h1::after {
+  content: "";
+  display: block;
+  width: 54px;
+  height: 3px;
+  margin-top: 15px;
+  background: var(--accent);
+}
+
+.simple-page-desc {
+  max-width: 620px;
+  margin: 15px 0 0;
+  color: var(--muted);
+  font-family: var(--font-body);
+  font-size: 0.94rem;
+  line-height: 1.65;
+}
+
+/* ---------- Product-part section ---------- */
+.category-page-wrap {
+  padding: 34px 0 82px;
+  background: var(--light-cream);
+  min-height: 0;
+}
+
+.category-page-wrap > .wrap {
+  position: relative;
+}
+
+.subcat-toolbar {
+  min-height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 0 18px;
+}
+
+.subcat-count {
+  display: inline-flex;
+  align-items: center;
+  min-height: 28px;
+  padding: 6px 11px;
+  border: 1px solid rgba(110, 63, 29, 0.16);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.58);
+  color: var(--brown);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+
+/* ---------- Balanced card grid ---------- */
+/* ---------- Balanced card grid ---------- */
+.subcat-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 22px;
+  align-items: stretch;
+}
+
+.subcat-card {
+  position: relative;
+  min-height: 320px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 26px 22px;
+  background: var(--white);
+  border: 1px solid rgba(110, 63, 29, 0.10);
+  border-top: 3px solid var(--accent);
+  border-radius: 12px;
+  box-shadow: 0 8px 22px rgba(23, 19, 15, 0.055);
+  overflow: hidden;
+  transition: transform 0.28s var(--ease), box-shadow 0.28s var(--ease), border-color 0.28s var(--ease);
+}
+
+.subcat-card::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 3px;
+  background: var(--gold);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.32s var(--ease);
+}
+
+.subcat-card:hover {
+  transform: translateY(-5px);
+  border-color: rgba(138, 82, 37, 0.24);
+  box-shadow: 0 15px 32px rgba(23, 19, 15, 0.10);
+}
+
+.subcat-card:hover::before {
+  transform: scaleX(1);
+}
+
+/* ---------- Technical icon panel ---------- */
+.subcat-card-icon {
+  width: 100%;
+  height: 116px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  background:
+    linear-gradient(rgba(110, 63, 29, 0.045) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(110, 63, 29, 0.045) 1px, transparent 1px),
+    var(--light-cream);
+  background-size: 18px 18px;
+  color: var(--brown);
+  border: 1px solid rgba(110, 63, 29, 0.08);
+  overflow: hidden;
+}
+
+.subcat-card-icon::before {
+  content: "";
+  position: absolute;
+  width: 74px;
+  height: 74px;
+  border: 1px solid rgba(184, 135, 74, 0.28);
+  border-radius: 50%;
+}
+
+.subcat-card-icon-img{
+  width: 100%;
+  height: 140px;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 20px;
+  border: none;
+}
+.subcat-card-icon-img img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+}
+
+.subcat-card-icon svg {
+  position: relative;
+  z-index: 1;
+  width: 68px;
+  height: 68px;
+  padding: 12px;
+  border: 1px solid rgba(138, 82, 37, 0.25);
+  border-radius: 9px;
+  background: rgba(255, 255, 255, 0.84);
+  color: var(--brown);
+  stroke-width: 1.35;
+}
+
+.subcat-card > div:not(.subcat-card-icon) {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.subcat-card h3 {
+  margin: 0 0 7px;
+  font-family: var(--font-display);
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.22;
+  letter-spacing: 0.045em;
+  color: var(--dark);
+}
+
+.subcat-card .subcat-product-count {
+  margin: 0 0 18px;
+  color: var(--muted);
+  font-family: var(--font-body);
+  font-size: 0.74rem;
+  line-height: 1.4;
+}
+
+.subcat-card .subcat-view-link {
+  width: 100%;
+  min-height: 40px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: auto;
+  padding: 9px 14px;
+  border: 1px solid var(--brown);
+  border-radius: 5px;
+  background: var(--brown);
+  color: var(--white);
+  font-family: var(--font-display);
+  font-size: 0.70rem;
+  font-weight: 500;
+  letter-spacing: 0.085em;
+  text-transform: uppercase;
+  transition: background-color 0.28s ease, border-color 0.28s ease, transform 0.28s ease;
+}
+
+.subcat-card:hover .subcat-view-link {
+  background: var(--dark);
+  border-color: var(--dark);
+}
+
+.no-results {
+  padding: 55px 0;
+  text-align: center;
+  color: var(--muted);
+  font-family: var(--font-body);
+  font-size: 0.92rem;
+}
+
+/* ---------- Responsive ---------- */
+/* ---------- Responsive ---------- */
+@media (max-width: 1200px) {
+  .subcat-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 850px) {
+  .subcat-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 700px) {
+  .simple-page-hero {
+    padding: calc(var(--nav-h) + 28px) 0 32px;
+  }
+
+  .simple-page-hero .breadcrumb {
+    margin-bottom: 13px;
+    font-size: 0.62rem;
+  }
+
+  .simple-page-hero h1 {
+    font-size: clamp(1.9rem, 9vw, 2.6rem);
+  }
+
+  .simple-page-desc {
+    font-size: 0.86rem;
+  }
+
+  .category-page-wrap {
+    padding: 26px 0 60px;
+  }
+
+  .subcat-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+
+  .subcat-card {
+    min-height: 0;
+    padding: 16px;
+  }
+
+  .subcat-card-icon {
+    height: 100px;
+    margin-bottom: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .simple-page-hero h1::after {
+    margin-top: 12px;
+  }
+
+  .subcat-toolbar {
+    margin-bottom: 14px;
+  }
+
+  .subcat-count {
+    font-size: 0.64rem;
+  }
+}
+
+
+/* Darken hamburger icon on this page (light hero behind navbar needs dark bars before scroll) */
+.navbar:not(.scrolled) .menu-toggle span{
+  background: var(--dark);
+}

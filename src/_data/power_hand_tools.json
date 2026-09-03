@@ -1,0 +1,1458 @@
+{
+  "category_id": "power-tools-hand-tools-measuring-tools",
+  "category_name": "Power Tools, Hand Tools & Measuring Tools",
+  "category_icon": "🛠️",
+  "description": "Cordless and corded power tools, welding and outdoor power equipment, plus a comprehensive range of hand tools, measuring instruments, and precision inspection equipment for professional trade use.",
+  "subcategories": [
+    {
+      "id": "drills-hammers-impact-drivers",
+      "name": "Drills, Hammers & Impact Drivers",
+      "groups": [
+        {
+          "id": "drills-impact-drills-and-screwdrivers",
+          "name": "Drills, Impact Drills & Screwdrivers",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/drills-impact-drills-and-screwdrivers.png",
+          "products": [
+            {
+              "id": "gbm-series-drills",
+              "name": "GBM Series (Drills)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "gsb-series-impact-drills",
+              "name": "GSB Series (Impact Drills)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "gdr-series-cordless-impact-drivers",
+              "name": "GDR Series (Cordless Impact Drivers)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "dcd-series-cordless-drills-drivers",
+              "name": "DCD Series (Cordless Drills/Drivers)",
+              "company": "DeWalt"
+            },
+            {
+              "id": "xpt-impact-drill-range-xpt-422-xpt-427-xpt-527",
+              "name": "XPT Impact Drill range (XPT 422, XPT 427, XPT 527)",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "ic-series-cordless-impact-drill",
+              "name": "IC Series (Cordless Impact Drill)",
+              "company": "XtraPower Tools"
+            }
+          ]
+        },
+        {
+          "id": "impact-drivers-and-wrenches",
+          "name": "Impact Drivers & Wrenches",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/impact-drivers-and-wrenches.png",
+          "products": [
+            {
+              "id": "dcf-series-impact-drivers-wrenches",
+              "name": "DCF Series (Impact Drivers & Wrenches)",
+              "company": "DeWalt"
+            },
+            {
+              "id": "gdr-series-impact-drivers",
+              "name": "GDR Series (Impact Drivers)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "gds-series-impact-wrenches",
+              "name": "GDS Series (Impact Wrenches)",
+              "company": "Bosch Professional"
+            }
+          ]
+        },
+        {
+          "id": "rotary-hammers-and-demolition-hammers",
+          "name": "Rotary Hammers & Demolition Hammers",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/rotary-hammers-and-demolition-hammers.png",
+          "products": [
+            {
+              "id": "gbh-series-rotary-hammers",
+              "name": "GBH Series (Rotary Hammers)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "gsh-series-demolition-hammers",
+              "name": "GSH Series (Demolition Hammers)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "dch-series-rotary-hammers-breaker-hammers",
+              "name": "DCH Series (Rotary Hammers & Breaker Hammers)",
+              "company": "DeWalt"
+            }
+          ]
+        },
+        {
+          "id": "nailers",
+          "name": "Nailers",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/nailers.png",
+          "products": [
+            {
+              "id": "dcn-series-nailers",
+              "name": "DCN Series (Nailers)",
+              "company": "DeWalt"
+            },
+            {
+              "id": "sgw-series-nailers-e-g-sgw-s-2161",
+              "name": "SGW Series (Nailers, e.g. SGW S-2161)",
+              "company": "XtraPower Tools"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grinders-saws-welding-machines",
+      "name": "Grinders, Saws & Welding Machines",
+      "groups": [
+        {
+          "id": "angle-grinders-and-metalworking",
+          "name": "Angle Grinders & Metalworking",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/angle-grinders-and-metalworking.png",
+          "products": [
+            {
+              "id": "gws-series-angle-grinders",
+              "name": "GWS Series (Angle Grinders)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "gco-series-metal-cut-off-saws",
+              "name": "GCO Series (Metal Cut-off Saws)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "dcg-series-cordless-grinders",
+              "name": "DCG Series (Cordless Grinders)",
+              "company": "DeWalt"
+            },
+            {
+              "id": "dwe-series-corded-grinders",
+              "name": "DWE Series (Corded Grinders)",
+              "company": "DeWalt"
+            },
+            {
+              "id": "xpt-angle-grinder-range-xpt-501-xpt-502-xpt-505",
+              "name": "XPT Angle Grinder range (XPT 501, XPT 502, XPT 505)",
+              "company": "XtraPower Tools"
+            }
+          ]
+        },
+        {
+          "id": "grinders-general",
+          "name": "Grinders (general)",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/grinders-general.png",
+          "products": [
+            {
+              "id": "dcg-series-cordless-grinders",
+              "name": "DCG Series (Cordless Grinders)",
+              "company": "DeWalt"
+            },
+            {
+              "id": "gws-series-angle-straight-grinders",
+              "name": "GWS Series (Angle/Straight Grinders)",
+              "company": "Bosch Professional"
+            }
+          ]
+        },
+        {
+          "id": "saws-circular-miter-reciprocating-track",
+          "name": "Saws (Circular, Miter, Reciprocating, Track)",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/saws-circular-miter-reciprocating-track.png",
+          "products": [
+            {
+              "id": "gks-series-circular-saws",
+              "name": "GKS Series (Circular Saws)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "gcm-series-miter-saws",
+              "name": "GCM Series (Miter Saws)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "gsa-series-reciprocating-saws",
+              "name": "GSA Series (Reciprocating Saws)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "gkt-series-track-saws",
+              "name": "GKT Series (Track Saws)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "gst-series-jigsaws",
+              "name": "GST Series (Jigsaws)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "dcs-series-circular-miter-reciprocating-track-saws",
+              "name": "DCS Series (Circular, Miter, Reciprocating & Track Saws)",
+              "company": "DeWalt"
+            },
+            {
+              "id": "xpt-miter-saw-range-xpt-477-478-479-481a",
+              "name": "XPT Miter Saw range (XPT 477, 478, 479, 481A)",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "xpt-cut-off-machine-range-xpt-472-475-476",
+              "name": "XPT Cut-off Machine range (XPT 472, 475, 476)",
+              "company": "XtraPower Tools"
+            }
+          ]
+        },
+        {
+          "id": "welding-machines-arc-mig-tig",
+          "name": "Welding Machines (ARC/MIG/TIG)",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/welding-machines-arc-mig-tig.png",
+          "products": [
+            {
+              "id": "arc-welding-machine",
+              "name": "ARC Welding Machine",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "mig-welding-machine",
+              "name": "MIG Welding Machine",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "tig-welding-machine-ranges",
+              "name": "TIG Welding Machine ranges",
+              "company": "XtraPower Tools"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cordless-systems-batteries-finishing-tools",
+      "name": "Cordless Systems, Batteries & Finishing Tools",
+      "groups": [
+        {
+          "id": "cordless-tools-battery-platforms",
+          "name": "Cordless Tools / Battery Platforms",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/cordless-tools-battery-platforms.png",
+          "products": [
+            {
+              "id": "professional-12v-18v-system",
+              "name": "Professional 12V & 18V System",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "biturbo-tools",
+              "name": "BITURBO Tools",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "20v-max-xr-cordless-system",
+              "name": "20V MAX / XR Cordless System",
+              "company": "DeWalt"
+            },
+            {
+              "id": "xp-cordless-tools-range-xpt-482-484-cordless-drills-xpt-485-cordless-impact-wren",
+              "name": "XP Cordless Tools range (XPT 482, 484 Cordless Drills; XPT 485 Cordless Impact Wrench)",
+              "company": "XtraPower Tools"
+            }
+          ]
+        },
+        {
+          "id": "batteries-and-chargers",
+          "name": "Batteries & Chargers",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/batteries-and-chargers.png",
+          "products": [
+            {
+              "id": "procore18v-gba-battery-series",
+              "name": "ProCORE18V & GBA Battery Series",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "gal-charger-series",
+              "name": "GAL Charger Series",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "dcb-series-batteries-chargers",
+              "name": "DCB Series (Batteries & Chargers)",
+              "company": "DeWalt"
+            },
+            {
+              "id": "powerstack-batteries",
+              "name": "POWERSTACK Batteries",
+              "company": "DeWalt"
+            }
+          ]
+        },
+        {
+          "id": "sanders-and-planers",
+          "name": "Sanders & Planers",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/sanders-and-planers.png",
+          "products": [
+            {
+              "id": "gex-series-random-orbit-sanders",
+              "name": "GEX Series (Random Orbit Sanders)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "gho-series-planers",
+              "name": "GHO Series (Planers)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "dcw-series-sanders-planers",
+              "name": "DCW Series (Sanders & Planers)",
+              "company": "DeWalt"
+            }
+          ]
+        },
+        {
+          "id": "polishers",
+          "name": "Polishers",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/polishers.png",
+          "products": [
+            {
+              "id": "dcm-series-polishers",
+              "name": "DCM Series (Polishers)",
+              "company": "DeWalt"
+            }
+          ]
+        },
+        {
+          "id": "routers-and-router-bits",
+          "name": "Routers & Router Bits",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/routers-and-router-bits.jpeg",
+          "products": [
+            {
+              "id": "gkf-pof-series-routers",
+              "name": "GKF / POF Series (Routers)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "dcw-series-compact-fixed-base-routers-e-g-dcw600",
+              "name": "DCW Series (Compact & Fixed-base Routers, e.g. DCW600)",
+              "company": "DeWalt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "heat-glue-lubrication-cleaning-equipment",
+      "name": "Heat, Glue, Lubrication & Cleaning Equipment",
+      "groups": [
+        {
+          "id": "heat-guns-and-glue-guns",
+          "name": "Heat Guns & Glue Guns",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/heat-guns-and-glue-guns.jpeg",
+          "products": [
+            {
+              "id": "ghg-series-heat-guns",
+              "name": "GHG Series (Heat Guns)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "gkp-series-glue-guns",
+              "name": "GKP Series (Glue Guns)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "d26-series-heat-guns",
+              "name": "D26 Series (Heat Guns)",
+              "company": "DeWalt"
+            }
+          ]
+        },
+        {
+          "id": "adhesive-and-lubrication-tools-grease-guns-etc",
+          "name": "Adhesive & Lubrication Tools (grease guns etc.)",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/adhesive-and-lubrication-tools-grease-guns-etc.jpeg",
+          "products": [
+            {
+              "id": "dce-series-grease-guns-adhesive-applicators",
+              "name": "DCE Series (Grease Guns / Adhesive Applicators)",
+              "company": "DeWalt"
+            },
+            {
+              "id": "grease-gun-caulking-gun-range",
+              "name": "Grease Gun & Caulking Gun range",
+              "company": "XtraPower Tools"
+            }
+          ]
+        },
+        {
+          "id": "high-pressure-washers",
+          "name": "High-Pressure Washers",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/high-pressure-washers.png",
+          "products": [
+            {
+              "id": "ghp-series-high-pressure-washers-e-g-fontus-aqt-range",
+              "name": "GHP Series (High-Pressure Washers, e.g. Fontus/AQT range)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "xp-pressure-washer-range",
+              "name": "XP Pressure Washer range",
+              "company": "XtraPower Tools"
+            }
+          ]
+        },
+        {
+          "id": "wet-and-dry-vacuum-cleaners-dust-management",
+          "name": "Wet & Dry Vacuum Cleaners / Dust Management",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/wet-and-dry-vacuum-cleaners-dust-management.png",
+          "products": [
+            {
+              "id": "gas-series-dust-extractors-vacuum-cleaners",
+              "name": "GAS Series (Dust Extractors / Vacuum Cleaners)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "dcv-series-vacuums",
+              "name": "DCV Series (Vacuums)",
+              "company": "DeWalt"
+            },
+            {
+              "id": "xp-wet-dry-vacuum-cleaner",
+              "name": "XP Wet & Dry Vacuum Cleaner",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "xp-heavy-duty-wet-dry-vacuum-cleaner",
+              "name": "XP Heavy Duty Wet & Dry Vacuum Cleaner",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "xpt-540-vacuum-blower",
+              "name": "XPT 540 (Vacuum Blower)",
+              "company": "XtraPower Tools"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "benchtop-air-plumbing-concrete-equipment",
+      "name": "Benchtop, Air, Plumbing & Concrete Equipment",
+      "groups": [
+        {
+          "id": "benchtop-tools-and-benches",
+          "name": "Benchtop Tools & Benches",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/benchtop-tools-and-benches.png",
+          "products": [
+            {
+              "id": "gta-series-workbenches-benchtop-stands",
+              "name": "GTA Series (Workbenches / Benchtop Stands)",
+              "company": "Bosch Professional"
+            }
+          ]
+        },
+        {
+          "id": "air-tools-compressors",
+          "name": "Air Tools / Compressors",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/air-tools-compressors.png",
+          "products": [
+            {
+              "id": "d55-series-air-compressors",
+              "name": "D55 Series (Air Compressors)",
+              "company": "DeWalt"
+            },
+            {
+              "id": "pneumatic-tool-range",
+              "name": "Pneumatic Tool range",
+              "company": "DeWalt"
+            }
+          ]
+        },
+        {
+          "id": "plumbing-tools-pex-expanders-pipe-threaders",
+          "name": "Plumbing Tools (Pex expanders, pipe threaders)",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/plumbing-tools-pex-expanders-pipe-threaders.png",
+          "products": [
+            {
+              "id": "dce-series-cordless-pex-expanders-pipe-threaders",
+              "name": "DCE Series (Cordless PEX Expanders & Pipe Threaders)",
+              "company": "DeWalt"
+            }
+          ]
+        },
+        {
+          "id": "concrete-equipment-vibrators-etc",
+          "name": "Concrete Equipment (vibrators etc.)",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/concrete-equipment-vibrators-etc.png",
+          "products": [
+            {
+              "id": "dce-series-concrete-vibrators",
+              "name": "DCE Series (Concrete Vibrators)",
+              "company": "DeWalt"
+            }
+          ]
+        },
+        {
+          "id": "tool-storage-and-organization-toughsystem",
+          "name": "Tool Storage & Organization / Toughsystem",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/tool-storage-and-organization-toughsystem.png",
+          "products": [
+            {
+              "id": "toughsystem-series-tool-storage-organization",
+              "name": "TOUGHSYSTEM Series (Tool Storage & Organization)",
+              "company": "DeWalt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pliers-clamps-screwdrivers-hammers",
+      "name": "Pliers, Clamps, Screwdrivers & Hammers",
+      "groups": [
+        {
+          "id": "pliers-combination-long-nose-side-cutting",
+          "name": "Pliers (combination, long nose, side cutting)",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/pliers-combination-long-nose-side-cutting.png",
+          "products": [
+            {
+              "id": "combination-pliers",
+              "name": "Combination Pliers",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "long-nose-pliers",
+              "name": "Long Nose Pliers",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "side-cutting-pliers",
+              "name": "Side Cutting Pliers",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "circlip-pliers",
+              "name": "Circlip Pliers",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "water-pump-pliers",
+              "name": "Water Pump Pliers",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "vice-grip-pliers",
+              "name": "Vice Grip Pliers",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "fcp-combination-pliers",
+              "name": "FCP (Combination Pliers)",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "flp-long-nose-pliers",
+              "name": "FLP (Long Nose Pliers)",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "fsp-side-cutting-pliers",
+              "name": "FSP (Side Cutting Pliers)",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "fcb-fcs-circlip-pliers",
+              "name": "FCB/FCS (Circlip Pliers)",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "wbj-water-pump-pliers",
+              "name": "WBJ (Water Pump Pliers)",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "pliers-vde-pliers-range",
+              "name": "Pliers & VDE Pliers range",
+              "company": "Bosch Professional"
+            }
+          ]
+        },
+        {
+          "id": "mini-pliers",
+          "name": "Mini Pliers",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/mini-pliers.png",
+          "products": [
+            {
+              "id": "mini-pliers-range",
+              "name": "Mini Pliers range",
+              "company": "Taparia Tools"
+            }
+          ]
+        },
+        {
+          "id": "vices-and-clamps",
+          "name": "Vices & Clamps",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/vices-and-clamps.png",
+          "products": [
+            {
+              "id": "forged-c-clamps-range",
+              "name": "Forged C-Clamps range",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "lock-installation-kit",
+              "name": "Lock Installation Kit",
+              "company": "XtraPower Tools"
+            }
+          ]
+        },
+        {
+          "id": "screwdrivers-and-sets",
+          "name": "Screwdrivers & Sets",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/screwdrivers-and-sets.png",
+          "products": [
+            {
+              "id": "testers",
+              "name": "Testers",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "screwdrivers-sets-range",
+              "name": "Screwdrivers & Sets range",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "hsd-hexagonal-screwdrivers",
+              "name": "HSD (Hexagonal Screwdrivers)",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "top-tog-two-in-one-screwdrivers",
+              "name": "TOP/TOG (Two-in-One Screwdrivers)",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "ssd-striking-screwdriver",
+              "name": "SSD (Striking Screwdriver)",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "screwdrivers-vde-screwdrivers-range",
+              "name": "Screwdrivers & VDE Screwdrivers range",
+              "company": "Bosch Professional"
+            }
+          ]
+        },
+        {
+          "id": "screwdriver-bits-and-sets",
+          "name": "Screwdriver Bits & Sets",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/screwdriver-bits-and-sets.png",
+          "products": [
+            {
+              "id": "screw-driver-bits-sets-range",
+              "name": "Screw Driver Bits & Sets range",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "screwdriver-bits",
+              "name": "Screwdriver Bits",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "nutsetters-sockets-pro-expert-accessories",
+              "name": "Nutsetters & Sockets (PRO/EXPERT Accessories)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "screw-driver-bits-range",
+              "name": "Screw Driver Bits range",
+              "company": "XtraPower Tools"
+            }
+          ]
+        },
+        {
+          "id": "hammers",
+          "name": "Hammers",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/hammers.png",
+          "products": [
+            {
+              "id": "ball-pein",
+              "name": "Ball Pein",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "cross-pein-claw-hammers",
+              "name": "Cross Pein & Claw Hammers",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "ch-claw-hammers",
+              "name": "CH (Claw Hammers)",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "bp-ball-pein-hammers",
+              "name": "BP (Ball Pein Hammers)",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "cp-cross-pein-hammers",
+              "name": "CP (Cross Pein Hammers)",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "sh-sledge-hammers",
+              "name": "SH (Sledge Hammers)",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "sfh-soft-face-hammers",
+              "name": "SFH (Soft Face Hammers)",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "hammers-range-hand-tools",
+              "name": "Hammers range (Hand Tools)",
+              "company": "Bosch Professional"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spanners-wrenches-torque-tools",
+      "name": "Spanners, Wrenches & Torque Tools",
+      "groups": [
+        {
+          "id": "spanners-and-sets-combination-ring-open-end",
+          "name": "Spanners & Sets (combination, ring, open-end)",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/spanners-and-sets-combination-ring-open-end.png",
+          "products": [
+            {
+              "id": "double-single-open-end",
+              "name": "Double/Single Open End",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "ring",
+              "name": "Ring",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "combination-slogging-spanners",
+              "name": "Combination & Slogging Spanners",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "ds-double-open-end-spanners",
+              "name": "DS (Double Open End Spanners)",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "combination-spanner-range",
+              "name": "Combination Spanner range",
+              "company": "Freemans (FMI)"
+            }
+          ]
+        },
+        {
+          "id": "adjustable-spanners-wrenches",
+          "name": "Adjustable Spanners / Wrenches",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/adjustable-spanners-wrenches.png",
+          "products": [
+            {
+              "id": "adjustable-spanner-soft-grip-chrome-finish-pf-variants",
+              "name": "Adjustable Spanner (Soft Grip, Chrome Finish, PF variants)",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "aw-caw-adjustable-wrenches",
+              "name": "AW / CAW (Adjustable Wrenches)",
+              "company": "Freemans (FMI)"
+            }
+          ]
+        },
+        {
+          "id": "pipe-wrenches",
+          "name": "Pipe Wrenches",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/pipe-wrenches.jpeg",
+          "products": [
+            {
+              "id": "pipe-wrenches-stillson-swedish-pattern",
+              "name": "Pipe Wrenches (Stillson & Swedish pattern)",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "spw-stillson-type-pipe-wrench",
+              "name": "SPW (Stillson-Type Pipe Wrench)",
+              "company": "Freemans (FMI)"
+            }
+          ]
+        },
+        {
+          "id": "torque-wrenches",
+          "name": "Torque Wrenches",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/torque-wrenches.jpeg",
+          "products": [
+            {
+              "id": "torque-wrench-range",
+              "name": "Torque Wrench range",
+              "company": "Taparia Tools"
+            }
+          ]
+        },
+        {
+          "id": "vde-insulated-wrenches",
+          "name": "VDE Insulated Wrenches",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/vde-insulated-wrenches.jpeg",
+          "products": [
+            {
+              "id": "vde-wrenches-range",
+              "name": "VDE Wrenches range",
+              "company": "Bosch Professional"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sockets-allen-keys-ratchets",
+      "name": "Sockets, Allen Keys & Ratchets",
+      "groups": [
+        {
+          "id": "sockets-and-socket-sets",
+          "name": "Sockets & Socket Sets",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/sockets-and-socket-sets.jpeg",
+          "products": [
+            {
+              "id": "sockets",
+              "name": "Sockets",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "socket-accessories-socket-sets-3-8-1-drive",
+              "name": "Socket Accessories & Socket Sets (¼\", 3/8\", ½\", ¾\" & 1\" drive)",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "sockets-allen-keys-range",
+              "name": "Sockets & Allen Keys range",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "drive-t-handle-ratchet-handle",
+              "name": "½\" Drive T-Handle / Ratchet Handle",
+              "company": "Freemans (FMI)"
+            }
+          ]
+        },
+        {
+          "id": "allen-keys-and-sets",
+          "name": "Allen Keys & Sets",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/allen-keys-and-sets.jpeg",
+          "products": [
+            {
+              "id": "allen-keys-sets-range",
+              "name": "Allen Keys & Sets range",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "sockets-allen-keys-range",
+              "name": "Sockets & Allen Keys range",
+              "company": "Freemans (FMI)"
+            }
+          ]
+        },
+        {
+          "id": "ratchets",
+          "name": "Ratchets",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/ratchets.jpeg",
+          "products": [
+            {
+              "id": "ratchets-range-hand-tools",
+              "name": "Ratchets range (Hand Tools)",
+              "company": "Bosch Professional"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cutters-blades-chisels",
+      "name": "Cutters, Blades & Chisels",
+      "groups": [
+        {
+          "id": "cutters-wire-bolt-pipe",
+          "name": "Cutters (wire, bolt, pipe)",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/cutters-blades-chisels.jpeg",
+          "products": [
+            {
+              "id": "cutters-range",
+              "name": "Cutters range",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "fbc-bolt-cutters",
+              "name": "FBC (Bolt Cutters)",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "ws-wire-stripper-cutter",
+              "name": "WS (Wire Stripper & Cutter)",
+              "company": "Freemans (FMI)"
+            }
+          ]
+        },
+        {
+          "id": "hacksaw-blades-cutting-blades",
+          "name": "Hacksaw Blades / Cutting Blades",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/hacksaw-blades-cutting-blades.jpeg",
+          "products": [
+            {
+              "id": "hacksaw-blades",
+              "name": "Hacksaw Blades",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "cutting-blades-range",
+              "name": "Cutting Blades range",
+              "company": "Taparia Tools"
+            }
+          ]
+        },
+        {
+          "id": "utility-knives-and-cutters",
+          "name": "Utility Knives & Cutters",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/utility-knives-and-cutters.jpeg",
+          "products": [
+            {
+              "id": "utility-knives-cutters-range",
+              "name": "Utility Knives & Cutters range",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "knives-vde-knives-range",
+              "name": "Knives & VDE Knives range",
+              "company": "Bosch Professional"
+            }
+          ]
+        },
+        {
+          "id": "chisels",
+          "name": "Chisels",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/chisels.jpeg",
+          "products": [
+            {
+              "id": "chisels-range-incl-pneumatic-chisels",
+              "name": "Chisels range (incl. pneumatic chisels)",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "chisels-pro-expert-accessories",
+              "name": "Chisels (PRO/EXPERT Accessories)",
+              "company": "Bosch Professional"
+            }
+          ]
+        },
+        {
+          "id": "punches",
+          "name": "Punches",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/punches.jpeg",
+          "products": [
+            {
+              "id": "punches-range",
+              "name": "Punches range",
+              "company": "Taparia Tools"
+            }
+          ]
+        },
+        {
+          "id": "gear-pullers",
+          "name": "Gear Pullers",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/gear-pullers.jpeg",
+          "products": [
+            {
+              "id": "gear-pullers-range",
+              "name": "Gear Pullers range",
+              "company": "Taparia Tools"
+            }
+          ]
+        },
+        {
+          "id": "non-sparking-tools",
+          "name": "Non-Sparking Tools",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/non-sparking-tools.jpeg",
+          "products": [
+            {
+              "id": "non-sparking-tools-range",
+              "name": "Non-Sparking Tools range",
+              "company": "Taparia Tools"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tool-storage-sets-accessories",
+      "name": "Tool Storage, Sets & Accessories",
+      "groups": [
+        {
+          "id": "magnetic-products-bit-holders-etc",
+          "name": "Magnetic Products (bit holders etc.)",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/magnetic-products-bit-holders-etc.jpeg",
+          "products": [
+            {
+              "id": "magnetic-products-range",
+              "name": "Magnetic Products range",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "magnetic-bit-holder-range",
+              "name": "Magnetic Bit Holder range",
+              "company": "XtraPower Tools"
+            }
+          ]
+        },
+        {
+          "id": "wheel-spanners-and-sets",
+          "name": "Wheel Spanners & Sets",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/wheel-spanners-and-sets.jpeg",
+          "products": [
+            {
+              "id": "wheel-spanners-sets",
+              "name": "Wheel Spanners & Sets",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "truck-wheel-wrenches",
+              "name": "Truck Wheel Wrenches",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "cross-rim-wrench",
+              "name": "Cross Rim Wrench",
+              "company": "Taparia Tools"
+            }
+          ]
+        },
+        {
+          "id": "vde-insulated-hand-tool-sets",
+          "name": "VDE Insulated Hand-Tool Sets",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/vde-insulated-hand-tool-sets.jpeg",
+          "products": [
+            {
+              "id": "vde-mixed-sets-range",
+              "name": "VDE Mixed Sets range",
+              "company": "Bosch Professional"
+            }
+          ]
+        },
+        {
+          "id": "tool-sets-and-trolleys",
+          "name": "Tool Sets & Trolleys",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/tool-sets-and-trolleys.jpeg",
+          "products": [
+            {
+              "id": "tool-sets",
+              "name": "Tool Sets",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "tools-trolley-range",
+              "name": "Tools Trolley range",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "dwmt-series-mechanics-tool-sets",
+              "name": "DWMT Series (Mechanics Tool Sets)",
+              "company": "DeWalt"
+            },
+            {
+              "id": "toughsystem-storage",
+              "name": "TOUGHSYSTEM Storage",
+              "company": "DeWalt"
+            },
+            {
+              "id": "diy-tool-kit-range",
+              "name": "DIY Tool Kit range",
+              "company": "Freemans (FMI)"
+            }
+          ]
+        },
+        {
+          "id": "grease-guns-oil-cans",
+          "name": "Grease Guns / Oil Cans",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/grease-guns-oil-cans.jpeg",
+          "products": [
+            {
+              "id": "lubricant-solutions-range-grease-guns-oil-cans",
+              "name": "Lubricant Solutions range (Grease Guns, Oil Cans)",
+              "company": "Freemans (FMI)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "measuring-tapes-levels-lasers",
+      "name": "Measuring Tapes, Levels & Lasers",
+      "groups": [
+        {
+          "id": "measuring-tapes-pocket-long-steel-fibreglass",
+          "name": "Measuring Tapes (pocket, long steel, fibreglass)",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "products": [
+            {
+              "id": "steel-fibreglass-measuring-tape-range",
+              "name": "Steel & Fibreglass Measuring Tape range",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "measuring-tape-range",
+              "name": "Measuring Tape range",
+              "company": "XtraPower Tools"
+            }
+          ]
+        },
+        {
+          "id": "spirit-box-section-levels",
+          "name": "Spirit / Box-section Levels",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "products": [
+            {
+              "id": "box-section-spirit-level-range-lifetime-warranty-line",
+              "name": "Box Section Spirit Level range (Lifetime Warranty line)",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "spirit-level-range",
+              "name": "Spirit Level range",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "spirit-level-range",
+              "name": "Spirit Level range",
+              "company": "Taparia Tools"
+            },
+            {
+              "id": "levels-range-hand-tools",
+              "name": "Levels range (Hand Tools)",
+              "company": "Bosch Professional"
+            }
+          ]
+        },
+        {
+          "id": "digital-laser-levels",
+          "name": "Digital / Laser Levels",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "products": [
+            {
+              "id": "gll-series-line-lasers",
+              "name": "GLL Series (Line Lasers)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "digital-spirit-level-range",
+              "name": "Digital Spirit Level range",
+              "company": "Freemans (FMI)"
+            }
+          ]
+        },
+        {
+          "id": "rotation-and-line-lasers-combi-lasers",
+          "name": "Rotation & Line Lasers, Combi Lasers",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "products": [
+            {
+              "id": "grl-series-rotation-lasers",
+              "name": "GRL Series (Rotation Lasers)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "gll-series-line-lasers",
+              "name": "GLL Series (Line Lasers)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "gcl-series-combi-lasers",
+              "name": "GCL Series (Combi Lasers)",
+              "company": "Bosch Professional"
+            }
+          ]
+        },
+        {
+          "id": "laser-distance-meters",
+          "name": "Laser Distance Meters",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "products": [
+            {
+              "id": "glm-series-laser-measures",
+              "name": "GLM Series (Laser Measures)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "laser-distance-meter-range-pro-l-series",
+              "name": "Laser Distance Meter range (Pro-L series)",
+              "company": "Freemans (FMI)"
+            }
+          ]
+        },
+        {
+          "id": "measuring-wheels-mechanical-and-digital",
+          "name": "Measuring Wheels (mechanical & digital)",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "products": [
+            {
+              "id": "digital-measuring-wheel-range",
+              "name": "Digital Measuring Wheel range",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "measuring-wheels-range",
+              "name": "Measuring Wheels range",
+              "company": "Bosch Professional"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "detection-inspection-precision-instruments",
+      "name": "Detection, Inspection & Precision Instruments",
+      "groups": [
+        {
+          "id": "detectors-wall-scanners",
+          "name": "Detectors (wall scanners)",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "products": [
+            {
+              "id": "gms-series-detectors-wall-scanners",
+              "name": "GMS Series (Detectors / Wall Scanners)",
+              "company": "Bosch Professional"
+            }
+          ]
+        },
+        {
+          "id": "thermal-cameras-and-moisture-meters",
+          "name": "Thermal Cameras & Moisture Meters",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "products": [
+            {
+              "id": "gtc-series-thermal-cameras",
+              "name": "GTC Series (Thermal Cameras)",
+              "company": "Bosch Professional"
+            },
+            {
+              "id": "gis-series-infrared-thermometers-moisture-detectors",
+              "name": "GIS Series (Infrared Thermometers / Moisture Detectors)",
+              "company": "Bosch Professional"
+            }
+          ]
+        },
+        {
+          "id": "inspection-cameras",
+          "name": "Inspection Cameras",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "products": [
+            {
+              "id": "gic-series-inspection-cameras",
+              "name": "GIC Series (Inspection Cameras)",
+              "company": "Bosch Professional"
+            }
+          ]
+        },
+        {
+          "id": "electrical-testers",
+          "name": "Electrical Testers",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "products": [
+            {
+              "id": "electrical-testers-range",
+              "name": "Electrical Testers range",
+              "company": "Bosch Professional"
+            }
+          ]
+        },
+        {
+          "id": "vernier-digital-dial-calipers",
+          "name": "Vernier / Digital / Dial Calipers",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "products": [
+            {
+              "id": "vernier",
+              "name": "Vernier",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "digital-dial-caliper-range",
+              "name": "Digital & Dial Caliper range",
+              "company": "Freemans (FMI)"
+            }
+          ]
+        },
+        {
+          "id": "micrometers",
+          "name": "Micrometers",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "products": [
+            {
+              "id": "micrometer-range",
+              "name": "Micrometer range",
+              "company": "Freemans (FMI)"
+            }
+          ]
+        },
+        {
+          "id": "dial-indicators-and-magnetic-stands",
+          "name": "Dial Indicators & Magnetic Stands",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "products": [
+            {
+              "id": "dial-indicator-magnetic-stand-range",
+              "name": "Dial Indicator & Magnetic Stand range",
+              "company": "Freemans (FMI)"
+            }
+          ]
+        },
+        {
+          "id": "digital-protractors-angle-measurers",
+          "name": "Digital Protractors / Angle Measurers",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "products": [
+            {
+              "id": "digital-protractor-range",
+              "name": "Digital Protractor range",
+              "company": "Freemans (FMI)"
+            },
+            {
+              "id": "angle-measurers-inclinometers-range",
+              "name": "Angle Measurers & Inclinometers range",
+              "company": "Bosch Professional"
+            }
+          ]
+        },
+        {
+          "id": "tripods-and-accessories",
+          "name": "Tripods & Accessories",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "products": [
+            {
+              "id": "tripods-range-measuring-tools-accessories",
+              "name": "Tripods range (Measuring Tools Accessories)",
+              "company": "Bosch Professional"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "agricultural-outdoor-power-equipment",
+      "name": "Agricultural & Outdoor Power Equipment",
+      "groups": [
+        {
+          "id": "power-weeders",
+          "name": "Power Weeders",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "products": [
+            {
+              "id": "power-weeders-range",
+              "name": "Power Weeders range",
+              "company": "XtraPower Tools"
+            }
+          ]
+        },
+        {
+          "id": "power-reapers",
+          "name": "Power Reapers",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "products": [
+            {
+              "id": "power-reapers-range",
+              "name": "Power Reapers range",
+              "company": "XtraPower Tools"
+            }
+          ]
+        },
+        {
+          "id": "mill-machines",
+          "name": "Mill Machines",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "products": [
+            {
+              "id": "mill-machine-range",
+              "name": "Mill Machine range",
+              "company": "XtraPower Tools"
+            }
+          ]
+        },
+        {
+          "id": "back-rotary-tillers",
+          "name": "Back Rotary Tillers",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "products": [
+            {
+              "id": "back-rotary-tiller-range",
+              "name": "Back Rotary Tiller range",
+              "company": "XtraPower Tools"
+            }
+          ]
+        },
+        {
+          "id": "water-and-htp-pumps-sprayers",
+          "name": "Water & HTP Pumps / Sprayers",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "products": [
+            {
+              "id": "xp-wp-series-water-pumps-e-g-xp-wp-2-xp-wp-3",
+              "name": "XP-WP Series Water Pumps (e.g. XP-WP-2, XP-WP-3)",
+              "company": "XtraPower Tools"
+            },
+            {
+              "id": "htp-sprayer-range",
+              "name": "HTP Sprayer range",
+              "company": "XtraPower Tools"
+            }
+          ]
+        },
+        {
+          "id": "brush-cutters",
+          "name": "Brush Cutters",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "products": [
+            {
+              "id": "brush-cutter-range-e-g-xtra-power-gold-35cc-4-stroke-brush-cutter",
+              "name": "Brush Cutter range (e.g. XTRA-POWER GOLD 35CC 4-Stroke Brush Cutter)",
+              "company": "XtraPower Tools"
+            }
+          ]
+        },
+        {
+          "id": "chain-saws",
+          "name": "Chain Saws",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "products": [
+            {
+              "id": "xpt-chain-saw-range-e-g-xpt-457-461-462-469-537-cordless-568-585-589",
+              "name": "XPT Chain Saw range (e.g. XPT 457, 461, 462, 469, 537 Cordless, 568, 585, 589)",
+              "company": "XtraPower Tools"
+            }
+          ]
+        },
+        {
+          "id": "engines",
+          "name": "Engines",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "products": [
+            {
+              "id": "engines-range",
+              "name": "Engines range",
+              "company": "XtraPower Tools"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

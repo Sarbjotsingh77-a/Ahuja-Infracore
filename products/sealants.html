@@ -10,6 +10,7 @@
 
   <style>
     /* Base background formatting for all sections */
+    
     .bg-section {
       position: relative !important;
       background-position: center center !important;
@@ -30,9 +31,16 @@
     }
 
     /* 1. DESKTOP BACKGROUND IMAGES (Default) */
-    #hero-section {
-      background-image: linear-gradient(rgba(23,19,15,0.4), rgba(23,19,15,0.4)), url('../assets/products/sealents-h.png') !important;
-    }
+          #hero-section {
+        background-image: linear-gradient(rgba(23,19,15,0.72), rgba(23,19,15,0.72)), url('../assets/products/sealents-hv.png') !important;
+      }
+      #hero-section .breadcrumb,
+      #hero-section .breadcrumb a,
+      #hero-section .eyebrow,
+      #hero-section h1,
+      #hero-section p {
+        color: #fff !important;
+      }
     #overview-section {
       background-image: url('') !important;
       background-color: transparent !important;
@@ -46,11 +54,13 @@
       background-color: transparent !important;
       padding: 70px 0 100px;
     }
-    #cta-section {
-      background-image: linear-gradient(rgba(23,19,15,0.6), rgba(23,19,15,0.6)), url('../assets/cta-bg-desktop.png') !important;
+        #cta-section {
+      background-image: none !important;
+      background-color: var(--brown) !important;
     }
     #footer-section {
-      background-image: linear-gradient(rgba(23,19,15,0.85), rgba(23,19,15,0.85)), url('../assets/footer-bg-desktop.png') !important;
+      background-image: none !important;
+      background-color: var(--dark) !important;
     }
 
     /* 2. MOBILE BACKGROUND IMAGES (Screens <= 768px) */
@@ -70,11 +80,13 @@
       #specs-section {
         background-image: url('../assets/specs-bg-mobile.png') !important;
       }
-      #cta-section {
-        background-image: linear-gradient(rgba(23,19,15,0.6), rgba(23,19,15,0.6)), url('../assets/cta-bg-mobile.png') !important;
+            #cta-section {
+        background-image: none !important;
+        background-color: var(--brown) !important;
       }
       #footer-section {
-        background-image: linear-gradient(rgba(23,19,15,0.85), rgba(23,19,15,0.85)), url('../assets/footer-bg-mobile.png') !important;
+        background-image: none !important;
+        background-color: var(--dark) !important;
       }
     }
   </style>
@@ -103,7 +115,7 @@
       <nav class="nav-links" aria-label="Primary">
         <a href="../index.html">Home</a>
         <div class="has-dropdown">
-          <a href="../products.html" class="active">Products
+          <a href="../products_new.html" class="active">Products
             <svg width="10" height="10" viewBox="0 0 24 24"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
           </a>
           <div class="dropdown">
@@ -114,11 +126,9 @@
           </div>
         </div>
         <a href="../about.html">About Us</a>
+        <a href="../contact.html">Contact Us</a>
       </nav>
       <div class="nav-actions">
-        <a href="mailto:info@ahujainfracore.com?subject=Request%20a%20Quote" class="btn btn-primary">Request a Quote
-          <svg width="14" height="14" viewBox="0 0 24 24"><use href="#icon-arrow"/></svg>
-        </a>
         <button class="menu-toggle" aria-label="Open menu" aria-controls="mobile-panel">
           <span></span><span></span><span></span>
         </button>
@@ -137,22 +147,17 @@
       <li><a href="shuttering.html">Shuttering</a></li>
       <li><a href="power-tools.html">Power Tools</a></li>
       <li><a href="../about.html">About Us</a></li>
+      <li><a href="../contact.html">Contact Us</a></li>
     </ul>
-    <a href="mailto:info@ahujainfracore.com?subject=Request%20a%20Quote" class="btn btn-dark mobile-cta">Request a Quote
-      <svg width="14" height="14" viewBox="0 0 24 24"><use href="#icon-arrow"/></svg>
-    </a>
   </div>
 
   <!-- Hero Section -->
   <section class="page-hero bg-section" id="hero-section">
     <div class="wrap">
-      <p class="breadcrumb"><a href="../index.html">Home</a> &gt; <a href="../products.html">Products</a> &gt; Sealants</p>
+      <p class="breadcrumb"><a href="../index.html">Home</a> &gt; <a href="../products_new.html">Products</a> &gt; Sealants</p>
       <span class="eyebrow">Construction Chemicals</span>
       <h1>Sealants</h1>
       <p>Weatherproof and chemical-resistant sealants engineered for joints, expansion gaps, and waterproofing across every stage of construction.</p>
-      <a href="mailto:info@ahujainfracore.com?subject=Request%20a%20Quote%20-%20Sealants" class="btn btn-primary">Request a Quote
-        <svg width="14" height="14" viewBox="0 0 24 24"><use href="#icon-arrow"/></svg>
-      </a>
     </div>
   </section>
 
@@ -230,9 +235,6 @@
     <div class="wrap">
       <h2>Need Sealants for Your Next Project?</h2>
       <p>Talk to our team for product datasheets, bulk pricing, and on-site application support.</p>
-      <a href="mailto:info@ahujainfracore.com?subject=Request%20a%20Quote%20-%20Sealants" class="btn btn-dark">Request a Quote
-        <svg width="14" height="14" viewBox="0 0 24 24"><use href="#icon-arrow"/></svg>
-      </a>
     </div>
   </section>
 
@@ -241,9 +243,8 @@
     <div class="wrap">
       <div class="footer-grid">
         <div class="footer-brand">
-          <a href="../index.html" class="logo">
-            <svg class="logo-mark" viewBox="0 0 40 40" style="color: var(--gold)"><use href="#icon-logo" /></svg>
-            <span class="logo-text">AHUJA<span>Infracore</span></span>
+          <a href="index.html" class="logo">
+            <img class="logo-mark" src="../assets/logo.png" alt="Ahuja Infracore" />
           </a>
           <p>Building Infrastructure, Building Trust.</p>
           <div class="social-row">
@@ -257,8 +258,9 @@
           <h4>Quick Links</h4>
           <ul>
             <li><a href="../index.html">Home</a></li>
-            <li><a href="../products.html">Products</a></li>
+            <li><a href="../products_new.html">Products</a></li>
             <li><a href="../about.html">About Us</a></li>
+            <li><a href="../contact.html">Contact Us</a></li>
           </ul>
         </div>
         <div class="footer-col">

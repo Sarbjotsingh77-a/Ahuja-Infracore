@@ -1,0 +1,100 @@
+{
+  "brand": "Laxmisafe India",
+  "products": [
+    {
+      "id": "safety-helmet-range-red-yellow",
+      "name": "Safety Helmet range (Red/Yellow)",
+      "image": "assets/brands/product_images/Laxmisafe India/safety-helmet-range-red-yellow.png"
+    },
+    {
+      "id": "safety-goggles-range",
+      "name": "Safety Goggles range",
+      "image": "assets/brands/product_images/Laxmisafe India/safety-goggles-range.png"
+    },
+    {
+      "id": "welding-hand-shield-range",
+      "name": "Welding Hand Shield range",
+      "image": "assets/brands/product_images/Laxmisafe India/welding-hand-shield-range.png"
+    },
+    {
+      "id": "silicon-earplugs-range",
+      "name": "Silicon Earplugs range",
+      "image": "assets/brands/product_images/Laxmisafe India/silicon-earplugs-range.png"
+    },
+    {
+      "id": "nose-mask-range",
+      "name": "Nose Mask range",
+      "image": "assets/brands/product_images/Laxmisafe India/nose-mask-range.png"
+    },
+    {
+      "id": "industrial-gloves-range",
+      "name": "Industrial Gloves range",
+      "image": "assets/brands/product_images/Laxmisafe India/industrial-gloves-range.png"
+    },
+    {
+      "id": "reflective-cross-belt-range",
+      "name": "Reflective Cross Belt range",
+      "image": "assets/brands/product_images/Laxmisafe India/reflective-cross-belt-range.png"
+    },
+    {
+      "id": "knee-pad-range",
+      "name": "Knee Pad range",
+      "image": "assets/brands/product_images/Laxmisafe India/knee-pad-range.png"
+    },
+    {
+      "id": "full-body-safety-belt-range",
+      "name": "Full Body Safety Belt range",
+      "image": "assets/brands/product_images/Laxmisafe India/full-body-safety-belt-range.png"
+    },
+    {
+      "id": "solar-blinker-light-range",
+      "name": "Solar Blinker Light range",
+      "image": "assets/brands/product_images/Laxmisafe India/solar-blinker-light-range.png"
+    },
+    {
+      "id": "traffic-baton-light-range",
+      "name": "Traffic Baton Light range",
+      "image": "assets/brands/product_images/Laxmisafe India/traffic-baton-light-range.png"
+    },
+    {
+      "id": "expandable-barrier-range",
+      "name": "Expandable Barrier range",
+      "image": "assets/brands/product_images/Laxmisafe India/expandable-barrier-range.png"
+    },
+    {
+      "id": "plastic-barricade-chain-range",
+      "name": "Plastic Barricade Chain range",
+      "image": "assets/brands/product_images/Laxmisafe India/plastic-barricade-chain-range.png"
+    },
+    {
+      "id": "safety-convex-mirror-range",
+      "name": "Safety Convex Mirror range",
+      "image": "assets/brands/product_images/Laxmisafe India/safety-convex-mirror-range.png"
+    },
+    {
+      "id": "safety-tape-range",
+      "name": "Safety Tape range",
+      "image": "assets/brands/product_images/Laxmisafe India/safety-tape-range.png"
+    },
+    {
+      "id": "life-jacket-range",
+      "name": "Life Jacket range",
+      "image": "assets/brands/product_images/Laxmisafe India/life-jacket-range.png"
+    },
+    {
+      "id": "eva-raincoat-range",
+      "name": "EVA Raincoat range",
+      "image": "assets/brands/product_images/Laxmisafe India/eva-raincoat-range.png"
+    },
+    {
+      "id": "disposable-rain-poncho-range",
+      "name": "Disposable Rain Poncho range",
+      "image": "assets/brands/product_images/Laxmisafe India/disposable-rain-poncho-range.png"
+    },
+    {
+      "id": "pvc-gum-boot-range",
+      "name": "PVC Gum Boot range",
+      "image": "assets/brands/product_images/Laxmisafe India/pvc-gum-boot-range.png"
+    }
+  ]
+}

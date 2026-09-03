@@ -1,0 +1,120 @@
+{
+  "brand": "DeWalt",
+  "products": [
+    {
+      "id": "dcd-series-cordless-drills-drivers",
+      "name": "DCD Series (Cordless Drills/Drivers)",
+      "image" :"assets/brands/product_images/DeWalt/dcd-series-cordless-drills-drivers.png"
+    },
+    {
+      "id": "dcf-series-impact-drivers-wrenches",
+      "name": "DCF Series (Impact Drivers & Wrenches)",
+      "image" :"assets/brands/product_images/DeWalt/dcf-series-impact-drivers-wrenches.png"
+    },
+    {
+      "id": "dch-series-rotary-hammers-breaker-hammers",
+      "name": "DCH Series (Rotary Hammers & Breaker Hammers)",
+      "image" :"assets/brands/product_images/DeWalt/dch-series-rotary-hammers-breaker-hammers.png"
+    },
+    {
+      "id": "dcn-series-nailers",
+      "name": "DCN Series (Nailers)",
+      "image" :"assets/brands/product_images/DeWalt/dcn-series-nailers.png"
+    },
+    {
+      "id": "dcg-series-cordless-grinders",
+      "name": "DCG Series (Cordless Grinders)",
+      "image" :"assets/brands/product_images/DeWalt/dcg-series-cordless-grinders.png"
+    },
+    {
+      "id": "dwe-series-corded-grinders",
+      "name": "DWE Series (Corded Grinders)",
+      "image" :"assets/brands/product_images/DeWalt/dwe-series-corded-grinders.png"
+    },
+    {
+      "id": "dcs-series-circular-miter-reciprocating-track-saws",
+      "name": "DCS Series (Circular, Miter, Reciprocating & Track Saws)",
+      "image" :"assets/brands/product_images/DeWalt/dcs-series-circular-miter-reciprocating-track-saws.png"
+    },
+    {
+      "id": "20v-max-xr-cordless-system",
+      "name": "20V MAX / XR Cordless System",
+      "image" :"assets/brands/product_images/DeWalt/20v-max-xr-cordless-system.png"
+    },
+    {
+      "id": "dcb-series-batteries-chargers",
+      "name": "DCB Series (Batteries & Chargers)",
+      "image" :"assets/brands/product_images/DeWalt/dcb-series-batteries-chargers.png"
+    },
+    {
+      "id": "powerstack-batteries",
+      "name": "POWERSTACK Batteries",
+      "image" :"assets/brands/product_images/DeWalt/powerstack-batteries.png"
+    },
+    {
+      "id": "dcw-series-sanders-planers",
+      "name": "DCW Series (Sanders & Planers)",
+      "image" :"assets/brands/product_images/DeWalt/dcw-series-sanders-planers.png"
+    },
+    {
+      "id": "dcm-series-polishers",
+      "name": "DCM Series (Polishers)",
+      "image" :"assets/brands/product_images/DeWalt/dcm-series-polishers.png"
+    },
+    {
+      "id": "dcw-series-compact-fixed-base-routers-e-g-dcw600",
+      "name": "DCW Series (Compact & Fixed-base Routers, e.g. DCW600)",
+      "image" :"assets/brands/product_images/DeWalt/dcw-series-compact-fixed-base-routers-e-g-dcw600.png"
+    },
+    {
+      "id": "d26-series-heat-guns",
+      "name": "D26 Series (Heat Guns)",
+      "image" :"assets/brands/product_images/DeWalt/d26-series-heat-guns.png"
+    },
+    {
+      "id": "dce-series-grease-guns-adhesive-applicators",
+      "name": "DCE Series (Grease Guns / Adhesive Applicators)",
+      "image" :"assets/brands/product_images/DeWalt/dce-series-grease-guns-adhesive-applicators.png"
+    },
+    {
+      "id": "dcv-series-vacuums",
+      "name": "DCV Series (Vacuums)",
+      "image" :"assets/brands/product_images/DeWalt/dcv-series-vacuums.png"
+    },
+    {
+      "id": "d55-series-air-compressors",
+      "name": "D55 Series (Air Compressors)",
+      "image" :"assets/brands/product_images/DeWalt/d55-series-air-compressors.png"
+    },
+    {
+      "id": "pneumatic-tool-range",
+      "name": "Pneumatic Tool range",
+      "image" :"assets/brands/product_images/DeWalt/pneumatic-tool-range.png"
+    },
+    {
+      "id": "dce-series-cordless-pex-expanders-pipe-threaders",
+      "name": "DCE Series (Cordless PEX Expanders & Pipe Threaders)",
+      "image" :"assets/brands/product_images/DeWalt/dce-series-cordless-pex-expanders-pipe-threaders.png"
+    },
+    {
+      "id": "dce-series-concrete-vibrators",
+      "name": "DCE Series (Concrete Vibrators)",
+      "image" :"assets/brands/product_images/DeWalt/dce-series-concrete-vibrators.png"
+    },
+    {
+      "id": "toughsystem-series-tool-storage-organization",
+      "name": "TOUGHSYSTEM Series (Tool Storage & Organization)",
+      "image" :"assets/brands/product_images/DeWalt/toughsystem-series-tool-storage-organization.png"
+    },
+    {
+      "id": "dwmt-series-mechanics-tool-sets",
+      "name": "DWMT Series (Mechanics Tool Sets)",
+      "image" :"assets/brands/product_images/DeWalt/dwmt-series-mechanics-tool-sets.png"
+    },
+    {
+      "id": "toughsystem-storage",
+      "name": "TOUGHSYSTEM Storage",
+      "image" :"assets/brands/product_images/DeWalt/toughsystem-storage.png"
+    }
+  ]
+}

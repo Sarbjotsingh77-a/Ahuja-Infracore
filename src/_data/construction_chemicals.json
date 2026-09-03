@@ -1,0 +1,540 @@
+{
+  "category_id": "construction-chemicals-waterproofing",
+  "category_name": "Construction Chemicals & Waterproofing",
+  "category_icon": "🧱",
+  "description": "Construction chemicals and waterproofing solutions for repair, protection, and structural strengthening.",
+  "subcategories": [
+    {
+      "id": "Waterproofing-Solutions",
+      "name": "Waterproofing Solutions",
+      "groups": [
+        {
+          "id": "membrane-coating-waterproofers",
+          "name": "Membrane / Coating Waterproofers",
+          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/membrane-coating-waterproofers.png",
+          "products": [
+            {
+              "id": "CICO-waterproofing-membrane-and-coating-range",
+              "name": "CICO Waterproofing Membrane & Coating range",
+              "company": "CICO Group"
+            },
+            {
+              "id": "nitoproof",
+              "name": "Nitoproof",
+              "company": "Fosroc"
+            },
+            {
+              "id": "proofex",
+              "name": "Proofex",
+              "company": "Fosroc"
+            },
+            {
+              "id": "brushbond-ranges",
+              "name": "Brushbond ranges",
+              "company": "Fosroc"
+            }
+          ]
+        },
+        {
+          "id": "integral-water-repellent-waterproofers",
+          "name": "Integral / Water-repellent Waterproofers",
+          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/integral-water-repellent-waterproofers.png",
+          "products": [
+            {
+              "id": "integral-waterproofing-compound-range",
+              "name": "Integral Waterproofing Compound range",
+              "company": "CICO Group"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Concrete-Additives-Curing",
+      "name": "Concrete Additives & Curing",
+      "groups": [
+        {
+          "id": "concrete-admixtures-and-plasticizers",
+          "name": "Concrete Admixtures & Plasticizers",
+          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/concrete-admixtures-and-plasticizers.png",
+          "products": [
+            {
+              "id": "concrete-admixture-and-plasticizer-range",
+              "name": "Concrete Admixture & Plasticizer range",
+              "company": "CICO Group"
+            },
+            {
+              "id": "conplast",
+              "name": "Conplast",
+              "company": "Fosroc"
+            },
+            {
+              "id": "auramix-ranges",
+              "name": "Auramix ranges",
+              "company": "Fosroc"
+            }
+          ]
+        },
+        {
+          "id": "curing-compounds-and-shuttering-release-agents",
+          "name": "Curing Compounds & Shuttering Release Agents",
+          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/curing-compounds-and-shuttering-release-agents.png",
+          "products": [
+            {
+              "id": "curing-compound-and-shuttering-release-agent-range",
+              "name": "Curing Compound & Shuttering Release Agent range",
+              "company": "CICO Group"
+            },
+            {
+              "id": "concure-range",
+              "name": "Concure range",
+              "company": "Fosroc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Grouts-Flooring-Systems",
+      "name": "Grouts & Flooring Systems",
+      "groups": [
+        {
+          "id": "cementitious-and-epoxy-grouts",
+          "name": "Cementitious & Epoxy Grouts",
+          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/cementitious-and-epoxy-grouts.png",
+          "products": [
+            {
+              "id": "cementitious-and-epoxy-grout-range",
+              "name": "Cementitious & Epoxy Grout range",
+              "company": "CICO Group"
+            },
+            {
+              "id": "conbextra",
+              "name": "Conbextra",
+              "company": "Fosroc"
+            },
+            {
+              "id": "cebex-ranges",
+              "name": "Cebex ranges",
+              "company": "Fosroc"
+            }
+          ]
+        },
+        {
+          "id": "industrial-resin-flooring-systems",
+          "name": "Industrial / Resin Flooring Systems",
+          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/industrial-resin-flooring-systems.png",
+          "products": [
+            {
+              "id": "nitoflor-range",
+              "name": "Nitoflor range",
+              "company": "Fosroc"
+            }
+          ]
+        },
+        {
+          "id": "industrial-flooring-and-grout-for-bolting-base-plates",
+          "name": "Industrial Flooring & Grout for Bolting/Base Plates",
+          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/industrial-flooring-and-grout-for-bolting-base-plates.png",
+          "products": [
+            {
+              "id": "industrial-flooring-and-baseplate-grout-range",
+              "name": "Industrial Flooring & Baseplate Grout range",
+              "company": "CICO Group"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Repair-Mortars-Fast-set-Compounds",
+      "name": "Repair Mortars & Fast-set Compounds",
+      "groups": [
+        {
+          "id": "repair-mortars-and-rendering-compounds",
+          "name": "Repair Mortars & Rendering Compounds",
+          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/repair-mortars-and-rendering-compounds.png",
+          "products": [
+            {
+              "id": "repair-mortar-and-rendering-compound-range",
+              "name": "Repair Mortar & Rendering Compound range",
+              "company": "CICO Group"
+            },
+            {
+              "id": "renderoc",
+              "name": "Renderoc",
+              "company": "Fosroc"
+            },
+            {
+              "id": "nitomortar",
+              "name": "Nitomortar",
+              "company": "Fosroc"
+            },
+            {
+              "id": "patchroc-ranges",
+              "name": "Patchroc ranges",
+              "company": "Fosroc"
+            }
+          ]
+        },
+        {
+          "id": "emergency-plugging-and-fast-set-compounds",
+          "name": "Emergency Plugging & Fast-set Compounds",
+          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/emergency-plugging-and-fast-set-compounds.png",
+          "products": [
+            {
+              "id": "emergency-plugging-compound-range",
+              "name": "Emergency Plugging Compound range",
+              "company": "CICO Group"
+            },
+            {
+              "id": "fast-set-repair-compound-range",
+              "name": "Fast-set Repair Compound range",
+              "company": "Fosroc"
+            }
+          ]
+        },
+        {
+          "id": "epoxy-and-polymer-repair-systems",
+          "name": "Epoxy & Polymer Repair Systems",
+          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/epoxy-and-polymer-repair-systems.png",
+          "products": [
+            {
+              "id": "epoxy-and-polymer-repair-system-range",
+              "name": "Epoxy & Polymer Repair System range",
+              "company": "CICO Group"
+            },
+            {
+              "id": "epoxy-and-polymer-repair-system-range",
+              "name": "Epoxy & Polymer Repair System range",
+              "company": "Fosroc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Sealants-Bonding-Coatings",
+      "name": "Sealants, Bonding & Coatings",
+      "groups": [
+        {
+          "id": "joint-sealants-and-fillers",
+          "name": "Joint Sealants & Fillers",
+          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/joint-sealants-and-fillers.png",
+          "products": [
+            {
+              "id": "nitoseal",
+              "name": "Nitoseal",
+              "company": "Fosroc"
+            },
+            {
+              "id": "nitofill-ranges",
+              "name": "Nitofill ranges",
+              "company": "Fosroc"
+            }
+          ]
+        },
+        {
+          "id": "protective-and-anti-carbonation-coatings",
+          "name": "Protective & Anti-Carbonation Coatings",
+          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/protective-and-anti-carbonation-coatings.png",
+          "products": [
+            {
+              "id": "protective-and-anti-carbonation-coating-range",
+              "name": "Protective & Anti-Carbonation Coating range",
+              "company": "CICO Group"
+            },
+            {
+              "id": "dekguard",
+              "name": "Dekguard",
+              "company": "Fosroc"
+            },
+            {
+              "id": "nitocote-ranges",
+              "name": "Nitocote ranges",
+              "company": "Fosroc"
+            }
+          ]
+        },
+        {
+          "id": "bonding-agents-and-adhesives",
+          "name": "Bonding Agents & Adhesives",
+          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/bonding-agents-and-adhesives.png",
+          "products": [
+            {
+              "id": "nitobond-range",
+              "name": "Nitobond range",
+              "company": "Fosroc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Traffic-Roofing-Deck Systems",
+      "name": "Traffic, Roofing & Deck Systems",
+      "groups": [
+        {
+          "id": "traffic-deck-coatings-and-roofing-systems",
+          "name": "Traffic Deck Coatings & Roofing Systems",
+          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/traffic-deck-coatings-and-roofing-systems.png",
+          "products": [
+            {
+              "id": "trafficguard",
+              "name": "Trafficguard",
+              "company": "Fosroc"
+            },
+            {
+              "id": "roofex-ranges",
+              "name": "Roofex ranges",
+              "company": "Fosroc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Structural-Strengthening-Cathodic-Protection",
+      "name": "Structural Strengthening & Cathodic Protection",
+      "groups": [
+        {
+          "id": "cathodic-protection-galvashield-systems",
+          "name": "Cathodic Protection / Galvashield Systems",
+          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/Structural-Strengthening-Cathodic-Protection.png",
+          "products": [
+            {
+              "id": "galvashield-cathodic-protection-range",
+              "name": "Galvashield Cathodic Protection range",
+              "company": "Fosroc"
+            }
+          ]
+        },
+        {
+          "id": "frp-strengthening-plates-wraps",
+          "name": "FRP Strengthening (plates, wraps)",
+          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/frp-strengthening-plates-wraps.png",
+          "products": [
+            {
+              "id": "nitoplate",
+              "name": "Nitoplate",
+              "company": "Fosroc"
+            },
+            {
+              "id": "nitowrap",
+              "name": "Nitowrap",
+              "company": "Fosroc"
+            },
+            {
+              "id": "structuro-ranges",
+              "name": "Structuro ranges",
+              "company": "Fosroc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Chemical Anchoring & Underground Works",
+      "name": "Chemical Anchoring & Underground Works",
+      "groups": [
+        {
+          "id": "chemical-anchoring-fixing-systems",
+          "name": "Chemical Anchoring / Fixing Systems",
+          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/chemical-anchoring-fixing-systems.png",
+          "products": [
+            {
+              "id": "lokfix-range",
+              "name": "Lokfix range",
+              "company": "Fosroc"
+            },
+            {
+              "id": "FIS V / FIS SB / FIS EM / FIS RC Chemical Fixing range",
+              "name": "FIS V / FIS SB / FIS EM / FIS RC Chemical Fixing range",
+              "company": "Fischer India"
+            }
+          ]
+        },
+        {
+          "id": "tunnel-underground-rock-bolting-products",
+          "name": "Tunnel / Underground / Rock-bolting Products",
+          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/tunnel-underground-rock-bolting-products.png",
+          "products": [
+            {
+              "id": "Tunnel / Underground / Rock-bolting Product range",
+              "name": "Tunnel / Underground / Rock-bolting Product range",
+              "company": "CICO Group"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "galvanized-carbon-steel-wires",
+      "name": "Galvanized & Carbon Steel Wires",
+      "groups": [
+        {
+          "id": "galvanized-wires-electro-and-hot-dip",
+          "name": "Galvanized Wires (electro & hot-dip)",
+          "image":"assets/products_new/Subparts/construction, shuttering & scaffolding/galvanized-wires-electro-and-hot-dip.png",
+          "products": [
+            {
+              "id": "electro-galvanized-wire-range",
+              "name": "Electro Galvanized Wire range",
+              "company": "Bansal Wire Industries"
+            },
+            {
+              "id": "hot-dip-galvanized-wire-range",
+              "name": "Hot Dip Galvanized Wire range",
+              "company": "Bansal Wire Industries"
+            }
+          ]
+        },
+        {
+          "id": "mild-steel-low-carbon-steel-wires",
+          "name": "Mild Steel / Low Carbon Steel Wires",
+          "image":"assets/products_new/Subparts/construction, shuttering & scaffolding/mild-steel-low-carbon-steel-wires.png",
+          "products": [
+            {
+              "id": "low-carbon-steel-wire-range-galvanized-un-galvanized",
+              "name": "Low Carbon Steel Wire range (Galvanized & Un-Galvanized)",
+              "company": "Bansal Wire Industries"
+            }
+          ]
+        },
+        {
+          "id": "high-carbon-steel-wires",
+          "name": "High Carbon Steel Wires",
+          "image":"assets/products_new/Subparts/construction, shuttering & scaffolding/high-carbon-steel-wires.png",
+          "products": [
+            {
+              "id": "high-carbon-steel-wire-range-incl-spring-steel-wire-ball-bearing-wire",
+              "name": "High Carbon Steel Wire range (incl. Spring Steel Wire, Ball Bearing Wire)",
+              "company": "Bansal Wire Industries"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stainless-aluminium-wires",
+      "name": "Stainless & Aluminium Wires",
+      "groups": [
+        {
+          "id": "stainless-steel-wires-and-bars",
+          "name": "Stainless Steel Wires & Bars",
+          "image":"assets/products_new/Subparts/construction, shuttering & scaffolding/stainless-steel-wires-and-bars.png",
+          "products": [
+            {
+              "id": "stainless-steel-wire-range-soft-1-4-hard-1-2-hard-full-hard-finishes",
+              "name": "Stainless Steel Wire range (Soft, 1/4 Hard, 1/2 Hard, Full Hard finishes)",
+              "company": "Bansal Wire Industries"
+            },
+            {
+              "id": "stainless-steel-bright-bar-range",
+              "name": "Stainless Steel Bright Bar range",
+              "company": "Bansal Wire Industries"
+            },
+            {
+              "id": "stainless-steel-filler-wire-range-grades-incl-316l-410-307",
+              "name": "Stainless Steel Filler Wire range (grades incl. 316L, 410, 307)",
+              "company": "Superon Technik"
+            }
+          ]
+        },
+        {
+          "id": "aluminium-alloy-wires-and-wire-mesh",
+          "name": "Aluminium Alloy Wires & Wire Mesh",
+          "image":"assets/products_new/Subparts/construction, shuttering & scaffolding/aluminium-alloy-wires-and-wire-mesh.png",
+          "products": [
+            {
+              "id": "aluminium-alloy-wire-range",
+              "name": "Aluminium Alloy Wire range",
+              "company": "Bansal Wire Industries"
+            },
+            {
+              "id": "aluminium-alloy-wire-mesh-range",
+              "name": "Aluminium Alloy Wire Mesh range",
+              "company": "Bansal Wire Industries"
+            }
+          ]
+        },
+        {
+          "id": "profile-shaped-wires",
+          "name": "Profile / Shaped Wires",
+          "image":"assets/products_new/Subparts/construction, shuttering & scaffolding/profile-shaped-wires.png",
+          "products": [
+            {
+              "id": "profile-shaped-wire-range-flat-half-round-rectangular-trapezoidal-triangular-squ",
+              "name": "Profile / Shaped Wire range (Flat, Half Round, Rectangular, Trapezoidal, Triangular, Square, 'D' Shaped)",
+              "company": "Bansal Wire Industries"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "specialty-wire-products",
+      "name": "Specialty Wire Products",
+      "groups": [
+        {
+          "id": "cable-armouring-wires-and-strips",
+          "name": "Cable Armouring Wires & Strips",
+          "image":"assets/products_new/Subparts/construction, shuttering & scaffolding/cable-armouring-wires-and-strips.png",
+          "products": [
+            {
+              "id": "cable-armouring-wire-strip-range-round-and-formed-sections",
+              "name": "Cable Armouring Wire & Strip range (round and formed sections)",
+              "company": "Bansal Wire Industries"
+            }
+          ]
+        },
+        {
+          "id": "wire-rope-tyre-bead-barbed-wire",
+          "name": "Wire Rope, Tyre Bead, Barbed Wire",
+          "image":"assets/products_new/Subparts/construction, shuttering & scaffolding/wire-rope-tyre-bead-barbed-wire.png",
+          "products": [
+            {
+              "id": "wire-rope-range",
+              "name": "Wire Rope range",
+              "company": "Bansal Wire Industries"
+            },
+            {
+              "id": "tyre-bead-wire-range",
+              "name": "Tyre Bead Wire range",
+              "company": "Bansal Wire Industries"
+            },
+            {
+              "id": "barbed-wire-range",
+              "name": "Barbed Wire range",
+              "company": "Bansal Wire Industries"
+            }
+          ]
+        },
+        {
+          "id": "stainless-steel-scrubbers",
+          "name": "Stainless Steel Scrubbers",
+          "image":"assets/products_new/Subparts/construction, shuttering & scaffolding/stainless-steel-scrubbers.png",
+          "products": [
+            {
+              "id": "stainless-steel-scrubber-range",
+              "name": "Stainless Steel Scrubber range",
+              "company": "Bansal Wire Industries"
+            }
+          ]
+        },
+        {
+          "id": "building-material-wire-based",
+          "name": "Building Material (wire-based)",
+          "image":"assets/products_new/Subparts/construction, shuttering & scaffolding/building-material-wire-based.png",
+          "products": [
+            {
+              "id": "wire-based-building-material-range",
+              "name": "Wire-based Building Material range",
+              "company": "Bansal Wire Industries"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

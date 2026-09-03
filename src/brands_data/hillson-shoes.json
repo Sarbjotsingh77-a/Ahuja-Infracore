@@ -1,0 +1,50 @@
+{
+  "brand": "Hillson Shoes",
+  "products": [
+    {
+      "id": "isi-marked-safety-shoes-range-e-g-nucleus-panther-soccer-dual-density-lines",
+      "name": "ISI Marked Safety Shoes range (e.g. Nucleus, Panther, Soccer Dual Density lines)",
+      "image":"assets/brands/product_images/Hillson Shoes/isi-marked-safety-shoes-range-e-g-nucleus-panther-soccer-dual-density-lines.png"
+    },
+    {
+      "id": "occupational-boots-range",
+      "name": "Occupational Boots range",
+      "image":"assets/brands/product_images/Hillson Shoes/occupational-boots-range.png"
+    },
+    {
+      "id": "protective-boots-range",
+      "name": "Protective Boots range",
+      "image":"assets/brands/product_images/Hillson Shoes/protective-boots-range.png"
+    },
+    {
+      "id": "lf-series-e-g-lf02-ladies-isi-mark-safety-shoes",
+      "name": "LF Series (e.g. LF02 Ladies ISI Mark Safety Shoes)",
+      "image":"assets/brands/product_images/Hillson Shoes/lf-series-e-g-lf02-ladies-isi-mark-safety-shoes.png"
+    },
+    {
+      "id": "gumboots-range-e-g-no-risk-button-boot-collar-boot-welcome-farming-gumboots",
+      "name": "Gumboots range (e.g. No-Risk Button Boot, Collar Boot, Welcome Farming Gumboots)",
+      "image":"assets/brands/product_images/Hillson Shoes/gumboots-range-e-g-no-risk-button-boot-collar-boot-welcome-farming-gumboots.png"
+    },
+    {
+      "id": "clawz-series-e-g-cl-01-cl-03-cl-06-cl-07",
+      "name": "Clawz Series (e.g. CL-01, CL-03, CL-06, CL-07)",
+      "image":"assets/brands/product_images/Hillson Shoes/clawz-series-e-g-cl-01-cl-03-cl-06-cl-07.png"
+    },
+    {
+      "id": "wefly-series-e-g-wf-01-wf-02-wf-03-wf-05",
+      "name": "WeFly Series (e.g. WF-01, WF-02, WF-03, WF-05)",
+      "image":"assets/brands/product_images/Hillson Shoes/wefly-series-e-g-wf-01-wf-02-wf-03-wf-05.png"
+    },
+    {
+      "id": "hillson-plus-range",
+      "name": "Hillson Plus range",
+      "image":"assets/brands/product_images/Hillson Shoes/hillson-plus-range.png"
+    },
+    {
+      "id": "occupational-wear-range",
+      "name": "Occupational Wear range",
+      "image":"assets/brands/product_images/Hillson Shoes/occupational-wear-range.png"
+    }
+  ]
+}
