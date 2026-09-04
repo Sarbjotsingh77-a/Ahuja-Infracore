@@ -1102,7 +1102,7 @@
         {
           "id": "measuring-tapes-pocket-long-steel-fibreglass",
           "name": "Measuring Tapes (pocket, long steel, fibreglass)",
-          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/measuring-tapes-pocket-long-steel-fibreglass.png",
           "products": [
             {
               "id": "steel-fibreglass-measuring-tape-range",
@@ -1119,7 +1119,7 @@
         {
           "id": "spirit-box-section-levels",
           "name": "Spirit / Box-section Levels",
-          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/spirit-box-section-levels.png",
           "products": [
             {
               "id": "box-section-spirit-level-range-lifetime-warranty-line",
@@ -1146,7 +1146,7 @@
         {
           "id": "digital-laser-levels",
           "name": "Digital / Laser Levels",
-          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/digital-laser-levels.png",
           "products": [
             {
               "id": "gll-series-line-lasers",
@@ -1163,7 +1163,7 @@
         {
           "id": "rotation-and-line-lasers-combi-lasers",
           "name": "Rotation & Line Lasers, Combi Lasers",
-          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/rotation-and-line-lasers-combi-lasers.png",
           "products": [
             {
               "id": "grl-series-rotation-lasers",
@@ -1185,7 +1185,7 @@
         {
           "id": "laser-distance-meters",
           "name": "Laser Distance Meters",
-          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/laser-distance-meters.png",
           "products": [
             {
               "id": "glm-series-laser-measures",
@@ -1202,7 +1202,7 @@
         {
           "id": "measuring-wheels-mechanical-and-digital",
           "name": "Measuring Wheels (mechanical & digital)",
-          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/measuring-wheels-mechanical-and-digital.png",
           "products": [
             {
               "id": "digital-measuring-wheel-range",
@@ -1225,7 +1225,7 @@
         {
           "id": "detectors-wall-scanners",
           "name": "Detectors (wall scanners)",
-          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/detectors-wall-scanners.png",
           "products": [
             {
               "id": "gms-series-detectors-wall-scanners",
@@ -1237,7 +1237,7 @@
         {
           "id": "thermal-cameras-and-moisture-meters",
           "name": "Thermal Cameras & Moisture Meters",
-          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/thermal-cameras-and-moisture-meters.png",
           "products": [
             {
               "id": "gtc-series-thermal-cameras",
@@ -1254,7 +1254,7 @@
         {
           "id": "inspection-cameras",
           "name": "Inspection Cameras",
-          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/inspection-cameras.png",
           "products": [
             {
               "id": "gic-series-inspection-cameras",
@@ -1266,7 +1266,7 @@
         {
           "id": "electrical-testers",
           "name": "Electrical Testers",
-          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/electrical-testers.png",
           "products": [
             {
               "id": "electrical-testers-range",
@@ -1278,7 +1278,7 @@
         {
           "id": "vernier-digital-dial-calipers",
           "name": "Vernier / Digital / Dial Calipers",
-          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/vernier-digital-dial-calipers.png",
           "products": [
             {
               "id": "vernier",
@@ -1295,7 +1295,7 @@
         {
           "id": "micrometers",
           "name": "Micrometers",
-          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/micrometers.png",
           "products": [
             {
               "id": "micrometer-range",
@@ -1307,7 +1307,7 @@
         {
           "id": "dial-indicators-and-magnetic-stands",
           "name": "Dial Indicators & Magnetic Stands",
-          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/dial-indicators-and-magnetic-stands.png",
           "products": [
             {
               "id": "dial-indicator-magnetic-stand-range",
@@ -1319,7 +1319,7 @@
         {
           "id": "digital-protractors-angle-measurers",
           "name": "Digital Protractors / Angle Measurers",
-          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/digital-protractors-angle-measurers.png",
           "products": [
             {
               "id": "digital-protractor-range",
@@ -1336,7 +1336,7 @@
         {
           "id": "tripods-and-accessories",
           "name": "Tripods & Accessories",
-          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/tripods-and-accessories.png",
           "products": [
             {
               "id": "tripods-range-measuring-tools-accessories",
@@ -1354,7 +1354,7 @@
         {
           "id": "power-weeders",
           "name": "Power Weeders",
-          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/power-weeders-range.png",
           "products": [
             {
               "id": "power-weeders-range",
@@ -1366,7 +1366,7 @@
         {
           "id": "power-reapers",
           "name": "Power Reapers",
-          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/power-reapers-range.png",
           "products": [
             {
               "id": "power-reapers-range",
@@ -1378,7 +1378,7 @@
         {
           "id": "mill-machines",
           "name": "Mill Machines",
-          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/mill-machine-range.png",
           "products": [
             {
               "id": "mill-machine-range",

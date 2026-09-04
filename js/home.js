@@ -24,20 +24,28 @@ document.addEventListener('DOMContentLoaded', () => {
   const catRow = document.querySelector('.cat-row');
   const catCards = document.querySelectorAll('.cat-card');
   if (catCards.length) {
+    let isTransitioning = false;
+    const TRANSITION_MS = 650; // matches "transition: flex 0.65s" above
+
     const reset = () => {
+      if (isTransitioning) return;
       catCards.forEach(c => c.classList.remove('active'));
-      // Keep first active by default
       if (catCards[0]) catCards[0].classList.add('active');
     };
+
     catCards.forEach(card => {
       const activate = () => {
+        if (isTransitioning || card.classList.contains('active')) return;
+        isTransitioning = true;
         catCards.forEach(c => c.classList.remove('active'));
         card.classList.add('active');
+        setTimeout(() => { isTransitioning = false; }, TRANSITION_MS);
       };
       card.addEventListener('mouseenter', activate);
       card.addEventListener('focus', activate);
       card.addEventListener('touchstart', activate, { passive: true });
     });
+
     if (catRow) {
       catRow.addEventListener('mouseleave', reset);
       catRow.addEventListener('focusout', (e) => {

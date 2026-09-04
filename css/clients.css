@@ -108,21 +108,21 @@
 
 .clients-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(5, 1fr);
   gap: 20px;
 }
 
 .client-card {
-  background: var(--light-cream);
+  background: #ffffff;
   border: 1px solid var(--gold);
   border-radius: 4px;
-  padding: 12px;
+  padding: 10px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   gap: 16px;
-  min-height: 220px;
+  min-height: 160px;
   transition: transform 0.25s var(--ease), box-shadow 0.25s var(--ease);
 }
 
@@ -159,7 +159,7 @@
 
 .client-card--logo img {
   max-width: 100%;
-  max-height: 190px;
+  max-height: 100px;
   width: auto;
   height: auto;
   object-fit: contain;
