@@ -129,137 +129,137 @@
     {
       "id": "htp-sprayer-range",
       "name": "HTP Sprayer range",
-      "image" :"assets/brands/product_images/XtraPower Tools/.png"
+      "image" :"assets/brands/product_images/XtraPower Tools/htp-sprayer-range.png"
     },
     {
       "id": "brush-cutter-range-e-g-xtra-power-gold-35cc-4-stroke-brush-cutter",
       "name": "Brush Cutter range (e.g. XTRA-POWER GOLD 35CC 4-Stroke Brush Cutter)",
-      "image" :"assets/brands/product_images/XtraPower Tools/.png"
+      "image" :"assets/brands/product_images/XtraPower Tools/brush-cutter-range-e-g-xtra-power-gold-35cc-4-stroke-brush-cutter.png"
     },
     {
       "id": "xpt-chain-saw-range-e-g-xpt-457-461-462-469-537-cordless-568-585-589",
       "name": "XPT Chain Saw range (e.g. XPT 457, 461, 462, 469, 537 Cordless, 568, 585, 589)",
-      "image" :"assets/brands/product_images/XtraPower Tools/.png"
+      "image" :"assets/brands/product_images/XtraPower Tools/xpt-chain-saw-range-e-g-xpt-457-461-462-469-537-cordless-568-585-589.png"
     },
     {
       "id": "engines-range",
       "name": "Engines range",
-      "image" :"assets/brands/product_images/XtraPower Tools/.png"
+      "image" :"assets/brands/product_images/XtraPower Tools/engines-range.png"
     },
     {
       "id": "cut-off-wheel-range",
       "name": "Cut Off Wheel range",
-      "image" :"assets/brands/product_images/XtraPower Tools/.png"
+      "image" :"assets/brands/product_images/XtraPower Tools/cut-off-wheel-range.png"
     },
     {
       "id": "wa-wheel",
       "name": "WA Wheel",
-      "image" :"assets/brands/product_images/XtraPower Tools/.png"
+      "image" :"assets/brands/product_images/XtraPower Tools/wa-wheel.png"
     },
     {
       "id": "gc-wheel-range",
       "name": "GC Wheel range",
-      "image" :"assets/brands/product_images/XtraPower Tools/.png"
+      "image" :"assets/brands/product_images/XtraPower Tools/gc-wheel-range.png"
     },
     {
       "id": "gc-wheel",
       "name": "GC Wheel",
-      "image" :"assets/brands/product_images/XtraPower Tools/.png"
+      "image" :"assets/brands/product_images/XtraPower Tools/gc-wheel.png"
     },
     {
       "id": "dc-wheel-range",
       "name": "DC Wheel range",
-      "image" :"assets/brands/product_images/XtraPower Tools/.png"
+      "image" :"assets/brands/product_images/XtraPower Tools/dc-wheel-range.png"
     },
     {
       "id": "flap-disc",
       "name": "Flap Disc",
-      "image" :"assets/brands/product_images/XtraPower Tools/.png"
+      "image" :"assets/brands/product_images/XtraPower Tools/flap-disc.png"
     },
     {
       "id": "flap-wheel-range",
       "name": "Flap Wheel range",
-      "image" :"assets/brands/product_images/XtraPower Tools/.png"
+      "image" :"assets/brands/product_images/XtraPower Tools/flap-wheel-range.png"
     },
     {
       "id": "non-woven-wheel",
       "name": "Non Woven Wheel",
-      "image" :"assets/brands/product_images/XtraPower Tools/.png"
+      "image" :"assets/brands/product_images/XtraPower Tools/non-woven-wheel.png"
     },
     {
       "id": "non-woven-pad-range",
       "name": "Non Woven Pad range",
-      "image" :"assets/brands/product_images/XtraPower Tools/.png"
+      "image" :"assets/brands/product_images/XtraPower Tools/non-woven-pad-range.png"
     },
     {
       "id": "polishing-pad",
       "name": "Polishing Pad",
-      "image" :"assets/brands/product_images/XtraPower Tools/.png"
+      "image" :"assets/brands/product_images/XtraPower Tools/polishing-pad.png"
     },
     {
       "id": "backing-pad-range",
       "name": "Backing Pad range",
-      "image" :"assets/brands/product_images/XtraPower Tools/.png"
+      "image" :"assets/brands/product_images/XtraPower Tools/backing-pad-range.png"
     },
     {
       "id": "sand-paper-range",
       "name": "Sand Paper range",
-      "image" :"assets/brands/product_images/XtraPower Tools/.png"
+      "image" :"assets/brands/product_images/XtraPower Tools/sand-paper-range.png"
     },
     {
       "id": "diamond-saw-blade-range",
       "name": "Diamond Saw Blade range",
-      "image" :"assets/brands/product_images/XtraPower Tools/.png"
+      "image" :"assets/brands/product_images/XtraPower Tools/diamond-saw-blade-range.png"
     },
     {
       "id": "tct-saw-blade-range",
       "name": "TCT Saw Blade range",
-      "image" :"assets/brands/product_images/XtraPower Tools/.png"
+      "image" :"assets/brands/product_images/XtraPower Tools/tct-saw-blade-range.png"
     },
     {
       "id": "hole-saw",
       "name": "Hole Saw",
-      "image" :"assets/brands/product_images/XtraPower Tools/.png"
+      "image" :"assets/brands/product_images/XtraPower Tools/hole-saw.png"
     },
     {
-      "id": "jig-saw-blade-range",
+      "id": "jig-saw-blade-rang0e",
       "name": "Jig Saw Blade range",
-      "image" :"assets/brands/product_images/XtraPower Tools/.png"
+      "image" :"assets/brands/product_images/XtraPower Tools/jig-saw-blade-rang0e.png"
     },
     {
       "id": "drill-bits",
       "name": "Drill Bits",
-      "image" :"assets/brands/product_images/XtraPower Tools/.png"
+      "image" :"assets/brands/product_images/XtraPower Tools/drill-bits.png"
     },
     {
       "id": "hss-step-drill-bits",
       "name": "HSS Step Drill Bits",
-      "image" :"assets/brands/product_images/XtraPower Tools/.png"
+      "image" :"assets/brands/product_images/XtraPower Tools/hss-step-drill-bits.png"
     },
     {
       "id": "wood-flat-bit-range",
       "name": "Wood Flat Bit range",
-      "image" :"assets/brands/product_images/XtraPower Tools/.png"
+      "image" :"assets/brands/product_images/XtraPower Tools/wood-flat-bit-range.png"
     },
     {
       "id": "core-bits",
       "name": "Core Bits",
-      "image" :"assets/brands/product_images/XtraPower Tools/.png"
+      "image" :"assets/brands/product_images/XtraPower Tools/core-bits.png"
     },
     {
       "id": "core-drill-range",
       "name": "Core Drill range",
-      "image" :"assets/brands/product_images/XtraPower Tools/.png"
+      "image" :"assets/brands/product_images/XtraPower Tools/core-drill-range.png"
     },
     {
       "id": "cup-wheel-brush-range",
       "name": "Cup & Wheel Brush range",
-      "image" :"assets/brands/product_images/XtraPower Tools/.png"
+      "image" :"assets/brands/product_images/XtraPower Tools/cup-wheel-brush-range.png"
     },
     {
       "id": "diamond-stone-range",
       "name": "Diamond Stone range",
-      "image" :"assets/brands/product_images/XtraPower Tools/.png"
+      "image" :"assets/brands/product_images/XtraPower Tools/diamond-stone-range.png"
     }
   ]
 }

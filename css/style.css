@@ -2,7 +2,7 @@
    AHUJA INFRACORE — Shared Styles
    ========================================================================== */
 
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Inter:wght@400;500;600&family=Playfair+Display:ital,wght@0,600;0,700;1,600;1,700&display=swap');
 
 :root{
   --dark:#17130f;
@@ -18,6 +18,7 @@
 
   --font-display:'Oswald', sans-serif;
   --font-body:'Inter', sans-serif;
+  --font-serif:'Playfair Display', serif;
 
   --nav-h:88px;
   --ease:cubic-bezier(.22,.61,.36,1);

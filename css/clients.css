@@ -32,6 +32,7 @@
   grid-template-columns: 1fr .9fr;
   min-height: 660px;
   overflow: hidden;
+  background: url("../assets/clients/hero_bg.png") center / cover no-repeat;
 }
 
 .clients-hero-copy {
@@ -41,6 +42,7 @@
   flex-direction: column;
   justify-content: center;
   padding: 64px 5vw 70px;
+  background: linear-gradient(115deg, var(--dark) 0%, var(--deep-brown) 48%, rgba(18,14,11,.92) 100%);
 }
 
 .clients-hero .eyebrow {
@@ -55,7 +57,7 @@
 }
 
 .clients-hero h1 {
-  font-family: var(--font-display);
+  font-family: var(--font-body);
   font-size: clamp(3.5rem, 6.2vw, 6.2rem);
   line-height: .92;
   margin: 0 0 24px;
@@ -66,6 +68,7 @@
 }
 
 .clients-hero h1 span {
+  font-family: var(--font-display);
   color: var(--gold);
   text-shadow: 0 0 35px rgba(184,135,74,.12);
 }
@@ -165,10 +168,10 @@
   position: absolute;
   inset: 0;
   z-index: 3;
-  background-image: url("./assets/clients/hero_bg.png");
+  background-image: url("../assets/clients/hero_bg.png");
   background-size: cover;
   background-position: center;
-  clip-path: polygon(56.6% 0, 60% 0, 44.4% 100%, 41% 100%);
+  clip-path: polygon(56.6% 0, 90% 0, 74.4% 100%, 41% 100%);
   filter: saturate(1.08) contrast(1.1) brightness(1.06);
 }
 
@@ -194,7 +197,7 @@
 }
 
 .hero-line--2 {
-  clip-path: polygon(60% 0, 60.6% 0, 45% 100%, 44.4% 100%);
+  clip-path: polygon(90% 0, 90.6% 0, 75% 100%, 74.4% 100%);
 }
 
 .hero-tagline {
@@ -342,7 +345,7 @@
 }
 
 .partners-head-text h2 {
-  font-family: var(--font-display);
+  font-family: var(--font-serif);
   font-size: clamp(2.3rem, 4.5vw, 4rem);
   color: var(--dark);
   margin: 0 0 13px;
@@ -351,7 +354,7 @@
 }
 
 .partners-head-text h2 em {
-  font-style: normal;
+  font-style: italic;
   color: var(--brown);
 }
 
@@ -493,7 +496,7 @@
 }
 
 .clients-cta-text h2 {
-  font-family: var(--font-display);
+  font-family: var(--font-serif);
   font-size: clamp(2rem, 3.7vw, 3.25rem);
   line-height: 1;
   color: var(--white);
