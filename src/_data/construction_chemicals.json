@@ -11,7 +11,7 @@
         {
           "id": "membrane-coating-waterproofers",
           "name": "Membrane / Coating Waterproofers",
-          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/membrane-coating-waterproofers.png",
+          "image": "assets/products_new/Subparts/construction chemicals & waterproofing/membrane-coating-waterproofers.png",
           "products": [
             {
               "id": "CICO-waterproofing-membrane-and-coating-range",
@@ -32,13 +32,18 @@
               "id": "brushbond-ranges",
               "name": "Brushbond ranges",
               "company": "Fosroc"
+            },
+            {
+              "id": "pye-products",
+              "name": "PYE Products",
+              "company": "PYE"
             }
           ]
         },
         {
           "id": "integral-water-repellent-waterproofers",
           "name": "Integral / Water-repellent Waterproofers",
-          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/integral-water-repellent-waterproofers.png",
+          "image": "assets/products_new/Subparts/construction chemicals & waterproofing/integral-water-repellent-waterproofers.png",
           "products": [
             {
               "id": "integral-waterproofing-compound-range",
@@ -56,7 +61,7 @@
         {
           "id": "concrete-admixtures-and-plasticizers",
           "name": "Concrete Admixtures & Plasticizers",
-          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/concrete-admixtures-and-plasticizers.png",
+          "image": "assets/products_new/Subparts/construction chemicals & waterproofing/concrete-admixtures-and-plasticizers.png",
           "products": [
             {
               "id": "concrete-admixture-and-plasticizer-range",
@@ -78,7 +83,7 @@
         {
           "id": "curing-compounds-and-shuttering-release-agents",
           "name": "Curing Compounds & Shuttering Release Agents",
-          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/curing-compounds-and-shuttering-release-agents.png",
+          "image": "assets/products_new/Subparts/construction chemicals & waterproofing/curing-compounds-and-shuttering-release-agents.png",
           "products": [
             {
               "id": "curing-compound-and-shuttering-release-agent-range",
@@ -101,7 +106,7 @@
         {
           "id": "cementitious-and-epoxy-grouts",
           "name": "Cementitious & Epoxy Grouts",
-          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/cementitious-and-epoxy-grouts.png",
+          "image": "assets/products_new/Subparts/construction chemicals & waterproofing/cementitious-and-epoxy-grouts.png",
           "products": [
             {
               "id": "cementitious-and-epoxy-grout-range",
@@ -123,7 +128,7 @@
         {
           "id": "industrial-flooring-and-grout-for-bolting-base-plates",
           "name": "Industrial Flooring & Grout for Bolting/Base Plates",
-          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/industrial-flooring-and-grout-for-bolting-base-plates.png",
+          "image": "assets/products_new/Subparts/construction chemicals & waterproofing/industrial-flooring-and-grout-for-bolting-base-plates.png",
           "products": [
             {
               "id": "industrial-flooring-and-baseplate-grout-range",
@@ -141,7 +146,7 @@
         {
           "id": "repair-mortars-and-rendering-compounds",
           "name": "Repair Mortars & Rendering Compounds",
-          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/repair-mortars-and-rendering-compounds.png",
+          "image": "assets/products_new/Subparts/construction chemicals & waterproofing/repair-mortars-and-rendering-compounds.png",
           "products": [
             {
               "id": "repair-mortar-and-rendering-compound-range",
@@ -168,7 +173,7 @@
         {
           "id": "emergency-plugging-and-fast-set-compounds",
           "name": "Emergency Plugging & Fast-set Compounds",
-          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/emergency-plugging-and-fast-set-compounds.png",
+          "image": "assets/products_new/Subparts/construction chemicals & waterproofing/emergency-plugging-and-fast-set-compounds.png",
           "products": [
             {
               "id": "emergency-plugging-compound-range",
@@ -185,7 +190,7 @@
         {
           "id": "epoxy-and-polymer-repair-systems",
           "name": "Epoxy & Polymer Repair Systems",
-          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/epoxy-and-polymer-repair-systems.png",
+          "image": "assets/products_new/Subparts/construction chemicals & waterproofing/epoxy-and-polymer-repair-systems.png",
           "products": [
             {
               "id": "epoxy-and-polymer-repair-system-range",
@@ -208,7 +213,7 @@
         {
           "id": "joint-sealants-and-fillers",
           "name": "Joint Sealants & Fillers",
-          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/joint-sealants-and-fillers.png",
+          "image": "assets/products_new/Subparts/construction chemicals & waterproofing/joint-sealants-and-fillers.png",
           "products": [
             {
               "id": "nitoseal",
@@ -225,7 +230,7 @@
         {
           "id": "protective-and-anti-carbonation-coatings",
           "name": "Protective & Anti-Carbonation Coatings",
-          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/protective-and-anti-carbonation-coatings.png",
+          "image": "assets/products_new/Subparts/construction chemicals & waterproofing/protective-and-anti-carbonation-coatings.png",
           "products": [
             {
               "id": "protective-and-anti-carbonation-coating-range",
@@ -241,13 +246,23 @@
               "id": "nitocote-ranges",
               "name": "Nitocote ranges",
               "company": "Fosroc"
+            },
+            {
+              "id": "aerol-products",
+              "name": "Aerol Products",
+              "company": "Aerol"
+            },
+            {
+              "id": "spray-colored-paint",
+              "name": "Spray Colored Paint",
+              "company": "Aerol"
             }
           ]
         },
         {
           "id": "bonding-agents-and-adhesives",
           "name": "Bonding Agents & Adhesives",
-          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/bonding-agents-and-adhesives.png",
+          "image": "assets/products_new/Subparts/construction chemicals & waterproofing/bonding-agents-and-adhesives.png",
           "products": [
             {
               "id": "nitobond-range",
@@ -265,7 +280,7 @@
         {
           "id": "chemical-anchoring-fixing-systems",
           "name": "Chemical Anchoring / Fixing Systems",
-          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/chemical-anchoring-fixing-systems.png",
+          "image": "assets/products_new/Subparts/construction chemicals & waterproofing/chemical-anchoring-fixing-systems.png",
           "products": [
             {
               "id": "lokfix-range",
@@ -282,7 +297,7 @@
         {
           "id": "tunnel-underground-rock-bolting-products",
           "name": "Tunnel / Underground / Rock-bolting Products",
-          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/tunnel-underground-rock-bolting-products.png",
+          "image": "assets/products_new/Subparts/construction chemicals & waterproofing/tunnel-underground-rock-bolting-products.png",
           "products": [
             {
               "id": "Tunnel / Underground / Rock-bolting Product range",
@@ -300,7 +315,7 @@
         {
           "id": "galvanized-wires-electro-and-hot-dip",
           "name": "Galvanized Wires (electro & hot-dip)",
-          "image":"assets/products_new/Subparts/construction, shuttering & scaffolding/galvanized-wires-electro-and-hot-dip.png",
+          "image": "assets/products_new/Subparts/construction, shuttering & scaffolding/galvanized-wires-electro-and-hot-dip.png",
           "products": [
             {
               "id": "electro-galvanized-wire-range",
@@ -317,7 +332,7 @@
         {
           "id": "mild-steel-low-carbon-steel-wires",
           "name": "Mild Steel / Low Carbon Steel Wires",
-          "image":"assets/products_new/Subparts/construction, shuttering & scaffolding/mild-steel-low-carbon-steel-wires.png",
+          "image": "assets/products_new/Subparts/construction, shuttering & scaffolding/mild-steel-low-carbon-steel-wires.png",
           "products": [
             {
               "id": "low-carbon-steel-wire-range-galvanized-un-galvanized",
@@ -329,7 +344,7 @@
         {
           "id": "high-carbon-steel-wires",
           "name": "High Carbon Steel Wires",
-          "image":"assets/products_new/Subparts/construction, shuttering & scaffolding/high-carbon-steel-wires.png",
+          "image": "assets/products_new/Subparts/construction, shuttering & scaffolding/high-carbon-steel-wires.png",
           "products": [
             {
               "id": "high-carbon-steel-wire-range-incl-spring-steel-wire-ball-bearing-wire",
@@ -347,7 +362,7 @@
         {
           "id": "stainless-steel-wires-and-bars",
           "name": "Stainless Steel Wires & Bars",
-          "image":"assets/products_new/Subparts/construction, shuttering & scaffolding/stainless-steel-wires-and-bars.png",
+          "image": "assets/products_new/Subparts/construction, shuttering & scaffolding/stainless-steel-wires-and-bars.png",
           "products": [
             {
               "id": "stainless-steel-wire-range-soft-1-4-hard-1-2-hard-full-hard-finishes",
@@ -369,7 +384,7 @@
         {
           "id": "aluminium-alloy-wires-and-wire-mesh",
           "name": "Aluminium Alloy Wires & Wire Mesh",
-          "image":"assets/products_new/Subparts/construction, shuttering & scaffolding/aluminium-alloy-wires-and-wire-mesh.png",
+          "image": "assets/products_new/Subparts/construction, shuttering & scaffolding/aluminium-alloy-wires-and-wire-mesh.png",
           "products": [
             {
               "id": "aluminium-alloy-wire-range",
@@ -386,7 +401,7 @@
         {
           "id": "profile-shaped-wires",
           "name": "Profile / Shaped Wires",
-          "image":"assets/products_new/Subparts/construction, shuttering & scaffolding/profile-shaped-wires.png",
+          "image": "assets/products_new/Subparts/construction, shuttering & scaffolding/profile-shaped-wires.png",
           "products": [
             {
               "id": "profile-shaped-wire-range-flat-half-round-rectangular-trapezoidal-triangular-squ",
@@ -404,7 +419,7 @@
         {
           "id": "cable-armouring-wires-and-strips",
           "name": "Cable Armouring Wires & Strips",
-          "image":"assets/products_new/Subparts/construction, shuttering & scaffolding/cable-armouring-wires-and-strips.png",
+          "image": "assets/products_new/Subparts/construction, shuttering & scaffolding/cable-armouring-wires-and-strips.png",
           "products": [
             {
               "id": "cable-armouring-wire-strip-range-round-and-formed-sections",
@@ -416,7 +431,7 @@
         {
           "id": "wire-rope-tyre-bead-barbed-wire",
           "name": "Wire Rope, Tyre Bead, Barbed Wire",
-          "image":"assets/products_new/Subparts/construction, shuttering & scaffolding/wire-rope-tyre-bead-barbed-wire.png",
+          "image": "assets/products_new/Subparts/construction, shuttering & scaffolding/wire-rope-tyre-bead-barbed-wire.png",
           "products": [
             {
               "id": "wire-rope-range",
@@ -438,7 +453,7 @@
         {
           "id": "stainless-steel-scrubbers",
           "name": "Stainless Steel Scrubbers",
-          "image":"assets/products_new/Subparts/construction, shuttering & scaffolding/stainless-steel-scrubbers.png",
+          "image": "assets/products_new/Subparts/construction, shuttering & scaffolding/stainless-steel-scrubbers.png",
           "products": [
             {
               "id": "stainless-steel-scrubber-range",
@@ -450,7 +465,7 @@
         {
           "id": "building-material-wire-based",
           "name": "Building Material (wire-based)",
-          "image":"assets/products_new/Subparts/construction, shuttering & scaffolding/building-material-wire-based.png",
+          "image": "assets/products_new/Subparts/construction, shuttering & scaffolding/building-material-wire-based.png",
           "products": [
             {
               "id": "wire-based-building-material-range",

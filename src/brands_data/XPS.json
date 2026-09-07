@@ -1,0 +1,65 @@
+{
+  "brand": "XPS",
+  "products": [
+    {
+      "id": "socket-head-cap-screws",
+      "name": "Socket Head Cap Screws",
+      "image": "assets/brands/product_images/XPS/xps-socket-head-cap-screws.png"
+    },
+    {
+      "id": "socket-countersunk-head-csk-screws",
+      "name": "Socket Counter Sunk Head (CSK) Screws",
+      "image": "assets/brands/product_images/XPS/xps-socket-csk-head-screws.png"
+    },
+    {
+      "id": "socket-set-screws",
+      "name": "Socket Set Screws",
+      "image": "assets/brands/product_images/XPS/xps-socket-set-screws.png"
+    },
+    {
+      "id": "button-head-cap-screws",
+      "name": "Button Head Cap Screws",
+      "image": "assets/brands/product_images/XPS/xps-button-head-cap-screws.png"
+    },
+    {
+      "id": "hex-nuts",
+      "name": "Hex Nuts",
+      "image": "assets/brands/product_images/XPS/xps-hex-nuts.png"
+    },
+    {
+      "id": "hex-head-bolts-screws",
+      "name": "Hex Head Bolts / Screws",
+      "image": "assets/brands/product_images/XPS/xps-hex-head-bolts-screws.png"
+    },
+    {
+      "id": "hexagon-wrenches-allen-keys",
+      "name": "Hexagon Wrenches / Allen Keys",
+      "image": "assets/brands/product_images/XPS/xps-hexagon-wrenches-allen-keys.png"
+    },
+    {
+      "id": "special-fasteners",
+      "name": "Special Fasteners",
+      "image": "assets/brands/product_images/XPS/xps-special-fasteners.png"
+    },
+    {
+      "id": "allen-bolts",
+      "name": "Allen Bolts",
+      "image": "assets/brands/product_images/XPS/xps-allen-bolts.png"
+    },
+    {
+      "id": "hex-bolts",
+      "name": "Hex Bolts",
+      "image": "assets/brands/product_images/XPS/xps-hex-bolts.png"
+    },
+    {
+      "id": "csk-screws",
+      "name": "CSK Screws",
+      "image": "assets/brands/product_images/XPS/xps-csk-screws.png"
+    },
+    {
+      "id": "grub-screws",
+      "name": "Grub Screws",
+      "image": "assets/brands/product_images/XPS/xps-grub-screws.png"
+    }
+  ]
+}

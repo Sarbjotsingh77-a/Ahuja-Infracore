@@ -11,7 +11,7 @@
         {
           "id": "safety-helmets",
           "name": "Safety Helmets",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/safety-helmets.png",
+          "image": "assets/products_new/Subparts/safety, ppe & road safety/safety-helmets.png",
           "products": [
             {
               "id": "hsd-series",
@@ -47,6 +47,11 @@
               "id": "helmets-range-hand-tools-ppe-accessories",
               "name": "Helmets range (Hand Tools/PPE accessories)",
               "company": "Bosch Professional"
+            },
+            {
+              "id": "venus-products",
+              "name": "Venus Products",
+              "company": "Venus"
             }
           ]
         }
@@ -59,7 +64,7 @@
         {
           "id": "safety-goggles-glasses-chemical-splash-goggles",
           "name": "Safety Goggles / Glasses / Chemical Splash Goggles",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/safety-goggles-glasses-chemical-splash-goggles.png",
+          "image": "assets/products_new/Subparts/safety, ppe & road safety/safety-goggles-glasses-chemical-splash-goggles.png",
           "products": [
             {
               "id": "hp-safety-goggles-range",
@@ -86,7 +91,7 @@
         {
           "id": "face-shields-welding-shields",
           "name": "Face Shields / Welding Shields",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/face-shields-welding-shields.png",
+          "image": "assets/products_new/Subparts/safety, ppe & road safety/face-shields-welding-shields.png",
           "products": [
             {
               "id": "hp-face-shields-range",
@@ -119,7 +124,7 @@
         {
           "id": "ear-plugs-and-ear-muffs",
           "name": "Ear Plugs & Ear Muffs",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/ear-plugs-and-ear-muffs.png",
+          "image": "assets/products_new/Subparts/safety, ppe & road safety/ear-plugs-and-ear-muffs.png",
           "products": [
             {
               "id": "hp-ear-muffs-range",
@@ -146,7 +151,7 @@
         {
           "id": "nose-masks-respirators",
           "name": "Nose Masks / Respirators",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/nose-masks-respirators.png",
+          "image": "assets/products_new/Subparts/safety, ppe & road safety/nose-masks-respirators.png",
           "products": [
             {
               "id": "hp-nose-masks-range",
@@ -174,7 +179,7 @@
         {
           "id": "industrial-safety-gloves",
           "name": "Industrial / Safety Gloves",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/industrial-safety-gloves.png",
+          "image": "assets/products_new/Subparts/safety, ppe & road safety/industrial-safety-gloves.png",
           "products": [
             {
               "id": "hp-safety-gloves-range",
@@ -201,7 +206,7 @@
         {
           "id": "protective-workwear-coveralls-cover-all-suits",
           "name": "Protective Workwear / Coveralls / Cover-all Suits",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/protective-workwear-coveralls-cover-all-suits.png",
+          "image": "assets/products_new/Subparts/safety, ppe & road safety/protective-workwear-coveralls-cover-all-suits.png",
           "products": [
             {
               "id": "coverall-protective-workwear-range",
@@ -224,7 +229,7 @@
         {
           "id": "safety-jackets-reflective-cross-belts",
           "name": "Safety Jackets / Reflective Cross Belts",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/safety-jackets-reflective-cross-belts.png",
+          "image": "assets/products_new/Subparts/safety, ppe & road safety/safety-jackets-reflective-cross-belts.png",
           "products": [
             {
               "id": "safety-jacket-range",
@@ -241,7 +246,7 @@
         {
           "id": "knee-pads",
           "name": "Knee Pads",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/knee-pads.png",
+          "image": "assets/products_new/Subparts/safety, ppe & road safety/knee-pads.png",
           "products": [
             {
               "id": "knee-pad-range",
@@ -259,7 +264,7 @@
         {
           "id": "full-body-harnesses",
           "name": "Full Body Harnesses",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/full-body-harnesses.png",
+          "image": "assets/products_new/Subparts/safety, ppe & road safety/full-body-harnesses.png",
           "products": [
             {
               "id": "safety-harness-range",
@@ -296,7 +301,7 @@
         {
           "id": "lanyards",
           "name": "Lanyards",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/lanyards.png",
+          "image": "assets/products_new/Subparts/safety, ppe & road safety/lanyards.png",
           "products": [
             {
               "id": "lanyards-range",
@@ -323,7 +328,7 @@
         {
           "id": "fall-arrestors-retractable-blocks",
           "name": "Fall Arrestors / Retractable Blocks",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/fall-arrestors-retractable-blocks.png",
+          "image": "assets/products_new/Subparts/safety, ppe & road safety/fall-arrestors-retractable-blocks.png",
           "products": [
             {
               "id": "retractable-fall-arrester-range",
@@ -356,7 +361,7 @@
         {
           "id": "confined-space-entry-rope-access-and-rescue-kits",
           "name": "Confined Space Entry / Rope Access & Rescue Kits",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/confined-space-entry-rope-access-and-rescue-kits.png",
+          "image": "assets/products_new/Subparts/safety, ppe & road safety/confined-space-entry-rope-access-and-rescue-kits.png",
           "products": [
             {
               "id": "rescue-descent-gear-range",
@@ -393,7 +398,7 @@
         {
           "id": "safety-fan-nets-load-arresters",
           "name": "Safety Fan Nets / Load Arresters",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/safety-fan-nets-load-arresters.png",
+          "image": "assets/products_new/Subparts/safety, ppe & road safety/safety-fan-nets-load-arresters.png",
           "products": [
             {
               "id": "safety-fan-net-range",
@@ -411,7 +416,7 @@
         {
           "id": "gas-detectors",
           "name": "Gas Detectors",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/gas-detectors.png",
+          "image": "assets/products_new/Subparts/safety, ppe & road safety/gas-detectors.png",
           "products": [
             {
               "id": "gas-detector-range",
@@ -423,7 +428,7 @@
         {
           "id": "solar-warning-lights-and-blinkers",
           "name": "Solar Warning Lights & Blinkers",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/solar-warning-lights-and-blinkers.png",
+          "image": "assets/products_new/Subparts/safety, ppe & road safety/solar-warning-lights-and-blinkers.png",
           "products": [
             {
               "id": "solar-blinker-light-range",
@@ -441,7 +446,7 @@
         {
           "id": "traffic-cones-barriers-batons-and-convex-mirrors",
           "name": "Traffic Cones, Barriers, Batons & Convex Mirrors",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/traffic-cones-barriers-batons-and-convex-mirrors.png",
+          "image": "assets/products_new/Subparts/safety, ppe & road safety/traffic-cones-barriers-batons-and-convex-mirrors.png",
           "products": [
             {
               "id": "traffic-baton-light-range",
@@ -468,7 +473,7 @@
         {
           "id": "safety-tapes-retro-reflective-and-caution",
           "name": "Safety Tapes (Retro-reflective & Caution)",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/safety-tapes-retro-reflective-and-caution.png",
+          "image": "assets/products_new/Subparts/safety, ppe & road safety/safety-tapes-retro-reflective-and-caution.png",
           "products": [
             {
               "id": "safety-tape-range",
@@ -486,7 +491,7 @@
         {
           "id": "life-jackets-and-lifebuoys",
           "name": "Life Jackets & Lifebuoys",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/life-jackets-and-lifebuoys.png",
+          "image": "assets/products_new/Subparts/safety, ppe & road safety/life-jackets-and-lifebuoys.png",
           "products": [
             {
               "id": "life-jacket-range",
@@ -498,7 +503,7 @@
         {
           "id": "eva-raincoats-and-ponchos",
           "name": "EVA Raincoats & Ponchos",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/eva-raincoats-and-ponchos.png",
+          "image": "assets/products_new/Subparts/safety, ppe & road safety/eva-raincoats-and-ponchos.png",
           "products": [
             {
               "id": "eva-raincoat-range",
@@ -521,7 +526,7 @@
         {
           "id": "isi-marked-safety-shoes",
           "name": "ISI-Marked Safety Shoes",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/isi-marked-safety-shoes.png",
+          "image": "assets/products_new/Subparts/safety, ppe & road safety/isi-marked-safety-shoes.png",
           "products": [
             {
               "id": "isi-marked-safety-shoes-range-e-g-nucleus-panther-soccer-dual-density-lines",
@@ -538,7 +543,7 @@
         {
           "id": "occupational-boots",
           "name": "Occupational Boots",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/occupational-boots.png",
+          "image": "assets/products_new/Subparts/safety, ppe & road safety/occupational-boots.png",
           "products": [
             {
               "id": "occupational-boots-range",
@@ -550,7 +555,7 @@
         {
           "id": "protective-boots",
           "name": "Protective Boots",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/protective-boots.png",
+          "image": "assets/products_new/Subparts/safety, ppe & road safety/protective-boots.png",
           "products": [
             {
               "id": "protective-boots-range",
@@ -568,7 +573,7 @@
         {
           "id": "ladies-safety-shoes",
           "name": "Ladies Safety Shoes",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/ladies-safety-shoes.png",
+          "image": "assets/products_new/Subparts/safety, ppe & road safety/ladies-safety-shoes.png",
           "products": [
             {
               "id": "lf-series-e-g-lf02-ladies-isi-mark-safety-shoes",
@@ -580,7 +585,7 @@
         {
           "id": "gum-boots-rain-boots",
           "name": "Gum Boots / Rain Boots",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/gum-boots-rain-boots.png",
+          "image": "assets/products_new/Subparts/safety, ppe & road safety/gum-boots-rain-boots.png",
           "products": [
             {
               "id": "gumboots-range-e-g-no-risk-button-boot-collar-boot-welcome-farming-gumboots",
@@ -597,7 +602,7 @@
         {
           "id": "clawz-wefly-hillson-plus-ranges",
           "name": "Clawz / WeFly / Hillson Plus Ranges",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/clawz-wefly-hillson-plus-ranges.png",
+          "image": "assets/products_new/Subparts/safety, ppe & road safety/clawz-wefly-hillson-plus-ranges.png",
           "products": [
             {
               "id": "clawz-series-e-g-cl-01-cl-03-cl-06-cl-07",
@@ -619,7 +624,7 @@
         {
           "id": "occupational-wear-apparel",
           "name": "Occupational Wear (apparel)",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/occupational-wear-apparel.png",
+          "image": "assets/products_new/Subparts/safety, ppe & road safety/occupational-wear-apparel.png",
           "products": [
             {
               "id": "occupational-wear-range",

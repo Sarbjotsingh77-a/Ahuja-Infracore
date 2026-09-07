@@ -1,0 +1,45 @@
+{
+  "brand": "Luckey Fasteners",
+  "products": [
+    {
+      "id": "luckey-ms-hook-fasteners",
+      "name": "MS Hook Fasteners",
+      "image": "assets/brands/product_images/Luckey Fasteners/luckey-ms-hook-fasteners.png"
+    },
+    {
+      "id": "luckey-pin-type-fasteners",
+      "name": "Pin Type Fasteners",
+      "image": "assets/brands/product_images/Luckey Fasteners/luckey-pin-type-fasteners.png"
+    },
+    {
+      "id": "luckey-ms-hex-fasteners",
+      "name": "MS Hex Fasteners",
+      "image": "assets/brands/product_images/Luckey Fasteners/luckey-ms-hex-fasteners.png"
+    },
+    {
+      "id": "hex-bolts",
+      "name": "Hex Bolts",
+      "image": "assets/brands/product_images/Luckey Fasteners/luckey-hex-bolts.png"
+    },
+    {
+      "id": "rawl-bolts",
+      "name": "Rawl Bolts",
+      "image": "assets/brands/product_images/Luckey Fasteners/luckey-rawl-bolts.png"
+    },
+    {
+      "id": "foundation-bolts",
+      "name": "Foundation Bolts",
+      "image": "assets/brands/product_images/Luckey Fasteners/luckey-foundation-bolts.png"
+    },
+    {
+      "id": "anchor-fasteners",
+      "name": "Anchor Fasteners",
+      "image": "assets/brands/product_images/Luckey Fasteners/luckey-anchor-fasteners.png"
+    },
+    {
+      "id": "pin-anchors",
+      "name": "Pin Anchors",
+      "image": "assets/brands/product_images/Luckey Fasteners/luckey-pin-anchors.png"
+    }
+  ]
+}

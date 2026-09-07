@@ -11,7 +11,7 @@
         {
           "id": "mild-carbon-steel-electrodes",
           "name": "Mild / Carbon Steel Electrodes",
-          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/mild-carbon-steel-electrodes.png",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/mild-carbon-steel-electrodes.png",
           "products": [
             {
               "id": "mild-steel-electrode-range",
@@ -28,7 +28,7 @@
         {
           "id": "stainless-steel-electrodes",
           "name": "Stainless Steel Electrodes",
-          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/stainless-steel-electrodes.png",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/stainless-steel-electrodes.png",
           "products": [
             {
               "id": "s-s-electrodes-range-e-g-e316l",
@@ -45,7 +45,7 @@
         {
           "id": "hardfacing-electrodes",
           "name": "Hardfacing Electrodes",
-          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/hardfacing-electrodes.png",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/hardfacing-electrodes.png",
           "products": [
             {
               "id": "mangan-hard-facing-electrodes-range-h-f-electrodes-250r-350r-650r",
@@ -62,7 +62,7 @@
         {
           "id": "low-alloy-steel-cast-iron-inconel-electrodes",
           "name": "Low Alloy Steel / Cast Iron / Inconel Electrodes",
-          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/low-alloy-steel-cast-iron-inconel-electrodes.png",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/low-alloy-steel-cast-iron-inconel-electrodes.png",
           "products": [
             {
               "id": "cast-iron-welding-electrodes",
@@ -85,7 +85,7 @@
         {
           "id": "mig-flux-cored-wires",
           "name": "MIG / Flux-Cored Wires",
-          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/mig-flux-cored-wires.png",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/mig-flux-cored-wires.png",
           "products": [
             {
               "id": "mig-wire-range-double-deoxidized-copper-coated-carbon-steel",
@@ -102,7 +102,7 @@
         {
           "id": "stainless-steel-filler-wire",
           "name": "Stainless Steel Filler Wire",
-          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/stainless-steel-filler-wire.png",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/stainless-steel-filler-wire.png",
           "products": [
             {
               "id": "stainless-steel-filler-wire-range-grades-incl-316l-410-307",
@@ -119,7 +119,7 @@
         {
           "id": "brazing-alloys-and-rods-silver-copper",
           "name": "Brazing Alloys & Rods (silver, copper)",
-          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/brazing-alloys-and-rods-silver-copper.png",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/brazing-alloys-and-rods-silver-copper.png",
           "products": [
             {
               "id": "high-ag-brazing-alloys-cadmium-free-cadmium-bearing-grades",
@@ -152,7 +152,7 @@
         {
           "id": "repair-cladding-electrodes-cr-b-paste",
           "name": "Repair / Cladding Electrodes, CR-B Paste",
-          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/repair-cladding-electrodes-cr-b-paste.png",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/repair-cladding-electrodes-cr-b-paste.png",
           "products": [
             {
               "id": "repair-joining-electrode",
@@ -174,7 +174,7 @@
         {
           "id": "gouging-carbons-and-cutting-electrodes",
           "name": "Gouging Carbons & Cutting Electrodes",
-          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/gouging-carbons-and-cutting-electrodes.png",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/gouging-carbons-and-cutting-electrodes.png",
           "products": [
             {
               "id": "gouging-carbons",
@@ -197,7 +197,7 @@
         {
           "id": "welding-machines-arc-mig-tig",
           "name": "Welding Machines (ARC/MIG/TIG)",
-          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/welding-machines-arc-mig-tig.png",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/welding-machines-arc-mig-tig.png",
           "products": [
             {
               "id": "arc-welding-machine",
@@ -219,7 +219,7 @@
         {
           "id": "electrode-ovens-pipe-stands-cylinder-mig-carts",
           "name": "Electrode Ovens, Pipe Stands, Cylinder/MIG Carts",
-          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/electrode-ovens-pipe-stands-cylinder-mig-carts.png",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/electrode-ovens-pipe-stands-cylinder-mig-carts.png",
           "products": [
             {
               "id": "electrode-ovens",
@@ -237,6 +237,17 @@
               "company": "Superon Technik"
             }
           ]
+        },
+        {
+          "id": "welding-accessories",
+          "name": "Welding Accessories",
+          "products": [
+            {
+              "id": "booster-welding-accessories",
+              "name": "Welding Accessories",
+              "company": "Booster"
+            }
+          ]
         }
       ]
     },
@@ -247,7 +258,7 @@
         {
           "id": "anti-spatter-spray-cleaning-solutions-die-penetrant-kits",
           "name": "Anti-Spatter Spray, Cleaning Solutions, DIE Penetrant Kits",
-          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/anti-spatter-spray-cleaning-solutions-die-penetrant-kits.png",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/anti-spatter-spray-cleaning-solutions-die-penetrant-kits.png",
           "products": [
             {
               "id": "anti-spatter-spray",
@@ -275,7 +286,7 @@
         {
           "id": "cut-off-cutting-wheels",
           "name": "Cut-off / Cutting Wheels",
-          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/cut-off-cutting-wheels.png",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/cut-off-cutting-wheels.png",
           "products": [
             {
               "id": "cut-off-wheel-range",
@@ -302,7 +313,7 @@
         {
           "id": "grinding-wheels-discs",
           "name": "Grinding Wheels / Discs",
-          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/grinding-wheels-discs.png",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/grinding-wheels-discs.png",
           "products": [
             {
               "id": "fgd-power-flexible-grinding-wheels",
@@ -344,7 +355,7 @@
         {
           "id": "dc-wheel-wa-wheel-gc-wheel",
           "name": "DC Wheel / WA Wheel / GC Wheel",
-          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/dc-wheel-wa-wheel-gc-wheel.png",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/dc-wheel-wa-wheel-gc-wheel.png",
           "products": [
             {
               "id": "wa-wheel",
@@ -387,7 +398,7 @@
         {
           "id": "flap-discs-flap-wheels",
           "name": "Flap Discs / Flap Wheels",
-          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/flap-discs-flap-wheels.png",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/flap-discs-flap-wheels.png",
           "products": [
             {
               "id": "flap-disc",
@@ -429,7 +440,7 @@
         {
           "id": "non-woven-wheels-pads",
           "name": "Non-Woven Wheels / Pads",
-          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/non-woven-wheels-pads.png",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/non-woven-wheels-pads.png",
           "products": [
             {
               "id": "non-woven-wheel",
@@ -456,7 +467,7 @@
         {
           "id": "felt-wheels-buffing-pads",
           "name": "Felt Wheels / Buffing Pads",
-          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/felt-wheels-buffing-pads.png",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/felt-wheels-buffing-pads.png",
           "products": [
             {
               "id": "felt-wheel-m24-range",
@@ -473,7 +484,7 @@
         {
           "id": "polishing-pads-backing-pads",
           "name": "Polishing Pads / Backing Pads",
-          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/polishing-pads-backing-pads.png",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/polishing-pads-backing-pads.png",
           "products": [
             {
               "id": "polishing-pad",
@@ -501,7 +512,7 @@
         {
           "id": "sanding-discs-belts-and-sandpaper",
           "name": "Sanding Discs, Belts & Sandpaper",
-          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/sanding-discs-belts-and-sandpaper.png",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/sanding-discs-belts-and-sandpaper.png",
           "products": [
             {
               "id": "sanding-discs",
@@ -529,7 +540,7 @@
         {
           "id": "diamond-saw-blades-marble-cutting-blades",
           "name": "Diamond Saw Blades (Marble Cutting Blades)",
-          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/diamond-saw-blades-marble-cutting-blades.png",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/diamond-saw-blades-marble-cutting-blades.png",
           "products": [
             {
               "id": "diamond-saw-blade-range",
@@ -561,7 +572,7 @@
         {
           "id": "tct-saw-blades",
           "name": "TCT Saw Blades",
-          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/tct-saw-blades.png",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/tct-saw-blades.png",
           "products": [
             {
               "id": "tct-saw-blade-range",
@@ -583,7 +594,7 @@
         {
           "id": "hole-saws-and-jig-saw-blades",
           "name": "Hole Saws & Jig Saw Blades",
-          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/hole-saws-and-jig-saw-blades.png",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/hole-saws-and-jig-saw-blades.png",
           "products": [
             {
               "id": "hole-saw",
@@ -611,7 +622,7 @@
         {
           "id": "drill-bits-masonry-wood-hss-sds",
           "name": "Drill Bits (masonry, wood, HSS, SDS)",
-          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/drill-bits-masonry-wood-hss-sds.png",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/drill-bits-masonry-wood-hss-sds.png",
           "products": [
             {
               "id": "drill-bits",
@@ -638,7 +649,7 @@
         {
           "id": "core-bits-core-drills",
           "name": "Core Bits / Core Drills",
-          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/core-bits-core-drills.png",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/core-bits-core-drills.png",
           "products": [
             {
               "id": "core-bits",
@@ -665,7 +676,7 @@
         {
           "id": "wire-cup-and-wheel-brushes",
           "name": "Wire Cup & Wheel Brushes",
-          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/wire-cup-and-wheel-brushes.png",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/wire-cup-and-wheel-brushes.png",
           "products": [
             {
               "id": "cup-wheel-brush-range",
@@ -687,7 +698,7 @@
         {
           "id": "diamond-stone-diamond-technology",
           "name": "Diamond Stone / Diamond Technology",
-          "image" : "assets/products_new/Subparts/welding, cutting & industrial consumables/diamond-stone-diamond-technology.png",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/diamond-stone-diamond-technology.png",
           "products": [
             {
               "id": "diamond-stone-range",
@@ -698,6 +709,17 @@
               "id": "diamond-technology-range",
               "name": "Diamond Technology range",
               "company": "Bosch Professional"
+            }
+          ]
+        },
+        {
+          "id": "carbides-and-inserts",
+          "name": "Carbides & Inserts",
+          "products": [
+            {
+              "id": "taegotec-carbides-inserts",
+              "name": "Carbides and Inserts",
+              "company": "Taegotec"
             }
           ]
         }

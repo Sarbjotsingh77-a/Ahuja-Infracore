@@ -7,7 +7,7 @@
     {
       "id": "shuttering-accessories-in-house-range",
       "name": "Shuttering Accessories (In-House Range)",
-      "image":"assets/products_new/Subparts/construction, shuttering & scaffolding/shuttering-accessories-in-house-range.png",
+      "image": "assets/products_new/Subparts/construction, shuttering & scaffolding/shuttering-accessories-in-house-range.png",
       "products": [
         {
           "id": "rapid-clamp",
@@ -70,6 +70,322 @@
           "company": "Ahuja Infracore"
         }
       ]
+    },
+    {
+      "id": "scaffolding",
+      "name": "Scaffolding",
+      "groups": [
+        {
+          "id": "scaffolding-systems",
+          "name": "Scaffolding Systems",
+          "image": "assets/products_new/Subparts/construction, shuttering & scaffolding/scaffolding-systems.png",
+          "products": [
+            {
+              "id": "cuplock-scaffolding",
+              "name": "Cuplock Scaffolding",
+              "company": "Ahuja Infracore"
+            },
+            {
+              "id": "tube-and-clamp-scaffolding",
+              "name": "Tube & Clamp Scaffolding",
+              "company": "Ahuja Infracore"
+            },
+            {
+              "id": "standard-scaffolding",
+              "name": "Standard Scaffolding",
+              "company": "Ahuja Infracore"
+            },
+            {
+              "id": "ms-scaffolding",
+              "name": "MS Scaffolding",
+              "company": "Ahuja Infracore"
+            },
+            {
+              "id": "challi-scaffolding",
+              "name": "Challi Scaffolding",
+              "company": "Ahuja Infracore"
+            },
+            {
+              "id": "mobile-scaffolding",
+              "name": "Mobile Scaffolding",
+              "company": "Ahuja Infracore"
+            },
+            {
+              "id": "aluminium-scaffolding",
+              "name": "Aluminium Scaffolding",
+              "company": ""
+            },
+            {
+              "id": "aluminium-mobile-scaffolding",
+              "name": "Aluminium Mobile Scaffolding",
+              "company": ""
+            },
+            {
+              "id": "aluminium-scaffolding-towers",
+              "name": "Aluminium Scaffolding Towers",
+              "company": ""
+            },
+            {
+              "id": "aluminium-ladders",
+              "name": "Aluminium Ladders",
+              "company": ""
+            },
+            {
+              "id": "walkway-platforms",
+              "name": "Walkway Platforms",
+              "company": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scaffolding-components",
+      "name": "Scaffolding Components",
+      "groups": [
+        {
+          "id": "scaffolding-parts-accessories",
+          "name": "Scaffolding Parts & Acessories",
+          "image": "assets/products_new/Subparts/construction, shuttering & scaffolding/scaffolding-parts-accessories.png",
+          "products": [
+            {
+              "id": "ledgers",
+              "name": "Ledgers",
+              "company": "Ahuja Infracore"
+            },
+            {
+              "id": "clamps",
+              "name": "Clamps",
+              "company": "Ahuja Infracore"
+            },
+            {
+              "id": "base-jacks",
+              "name": "Base Jacks",
+              "company": "Ahuja Infracore"
+            },
+            {
+              "id": "u-jacks",
+              "name": "U Jacks",
+              "company": "Ahuja Infracore"
+            },
+            {
+              "id": "joint-pins",
+              "name": "Joint Pins",
+              "company": "Ahuja Infracore"
+            },
+            {
+              "id": "ms-pipes",
+              "name": "M.S. Pipes",
+              "company": "Ahuja Infracore"
+            },
+            {
+              "id": "bracing-pipes",
+              "name": "Bracing Pipes",
+              "company": "Ahuja Infracore"
+            },
+            {
+              "id": "transoms",
+              "name": "Transoms",
+              "company": "Ahuja Infracore"
+            },
+            {
+              "id": "adjustable-jacks",
+              "name": "Adjustable Jacks",
+              "company": "Ahuja Infracore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shuttering-formwork",
+      "name": "Shuttering / Formwork",
+      "groups": [
+        {
+          "id": "formwork-solutions",
+          "name": "Formwork Solutions",
+          "image": "assets/products_new/Subparts/construction, shuttering & scaffolding/formwork-solutions.png",
+          "products": [
+            {
+              "id": "ms-shuttering",
+              "name": "MS Shuttering",
+              "company": "Ahuja Infracore"
+            },
+            {
+              "id": "ms-formwork",
+              "name": "MS Formwork",
+              "company": "Ahuja Infracore"
+            },
+            {
+              "id": "steel-shuttering-plates",
+              "name": "Steel Shuttering Plates",
+              "company": "Ahuja Infracore"
+            },
+            {
+              "id": "aluminium-formwork",
+              "name": "Aluminium Formwork",
+              "company": "Ahuja Infracore"
+            },
+            {
+              "id": "aluminium-vertical-formwork",
+              "name": "Aluminium Vertical Formwork",
+              "company": "Ahuja Infracore"
+            },
+            {
+              "id": "monolithic-formwork-system",
+              "name": "Monolithic Formwork System",
+              "company": "Ahuja Infracore"
+            },
+            {
+              "id": "aluminium-deck-panel-formwork",
+              "name": "Aluminium Deck Panel Formwork",
+              "company": "Ahuja Infracore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shuttering-components",
+      "name": "Shuttering Components",
+      "groups": [
+        {
+          "id": "shuttering-parts-accessories",
+          "name": "Shuttering Parts & Accessories",
+          "image": "assets/products_new/Subparts/construction, shuttering & scaffolding/shuttering-parts-accessories.png",
+          "products": [
+            {
+              "id": "tele-props",
+              "name": "Tele Props",
+              "company": "Ahuja Infracore"
+            },
+            {
+              "id": "ms-channels",
+              "name": "MS Channels",
+              "company": "Ahuja Infracore"
+            },
+            {
+              "id": "acrow-spans",
+              "name": "Acrow Spans",
+              "company": "Ahuja Infracore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mechanical-specialty-fasteners",
+      "name": "Mechanical & Specialty Fasteners",
+      "groups": [
+        {
+          "id": "fasteners-and-fixings",
+          "name": "Fasteners & Fixings",
+          "image": "assets/products_new/Subparts/construction, shuttering & scaffolding/fasteners-and-fixings.png",
+          "products": [
+            {
+              "id": "xps-socket-head-cap-screws",
+              "name": "Socket Head Cap Screws",
+              "company": "XPS"
+            },
+            {
+              "id": "xps-socket-csk-head-screws",
+              "name": "Socket Counter Sunk Head (CSK) Screws",
+              "company": "XPS"
+            },
+            {
+              "id": "xps-socket-set-screws",
+              "name": "Socket Set Screws",
+              "company": "XPS"
+            },
+            {
+              "id": "xps-button-head-cap-screws",
+              "name": "Button Head Cap Screws",
+              "company": "XPS"
+            },
+            {
+              "id": "xps-hex-nuts",
+              "name": "Hex Nuts",
+              "company": "XPS"
+            },
+            {
+              "id": "xps-hex-head-bolts-screws",
+              "name": "Hex Head Bolts / Screws",
+              "company": "XPS"
+            },
+            {
+              "id": "xps-special-fasteners",
+              "name": "Special Fasteners",
+              "company": "XPS"
+            },
+            {
+              "id": "xps-allen-bolts",
+              "name": "Allen Bolts",
+              "company": "XPS"
+            },
+            {
+              "id": "xps-hex-bolts",
+              "name": "Hex Bolts",
+              "company": "XPS"
+            },
+            {
+              "id": "xps-csk-screws",
+              "name": "CSK Screws",
+              "company": "XPS"
+            },
+            {
+              "id": "xps-grub-screws",
+              "name": "Grub Screws",
+              "company": "XPS"
+            },
+            {
+              "id": "luckey-ms-hook-fasteners",
+              "name": "MS Hook Fasteners",
+              "company": "Luckey Fasteners"
+            },
+            {
+              "id": "luckey-pin-type-fasteners",
+              "name": "Pin Type Fasteners",
+              "company": "Luckey Fasteners"
+            },
+            {
+              "id": "luckey-ms-hex-fasteners",
+              "name": "MS Hex Fasteners",
+              "company": "Luckey Fasteners"
+            },
+            {
+              "id": "luckey-hex-bolts",
+              "name": "Hex Bolts",
+              "company": "Luckey Fasteners"
+            },
+            {
+              "id": "luckey-rawl-bolts",
+              "name": "Rawl Bolts",
+              "company": "Luckey Fasteners"
+            },
+            {
+              "id": "luckey-foundation-bolts",
+              "name": "Foundation Bolts",
+              "company": "Luckey Fasteners"
+            },
+            {
+              "id": "luckey-anchor-fasteners",
+              "name": "Anchor Fasteners",
+              "company": "Luckey Fasteners"
+            },
+            {
+              "id": "luckey-pin-anchors",
+              "name": "Pin Anchors",
+              "company": "Luckey Fasteners"
+            },
+            {
+              "id": "xps-self-drilling-screws",
+              "name": "Self Drilling Screws",
+              "company": "XPS"
+            }
+          ]
+        }
+      ]
     }
+    
   ]
 }
