@@ -957,18 +957,6 @@
           ]
         },
         {
-          "id": "punches",
-          "name": "Punches",
-          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/punches.jpeg",
-          "products": [
-            {
-              "id": "punches-range",
-              "name": "Punches range",
-              "company": "Taparia Tools"
-            }
-          ]
-        },
-        {
           "id": "gear-pullers",
           "name": "Gear Pullers",
           "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/gear-pullers.jpeg",
@@ -976,18 +964,6 @@
             {
               "id": "gear-pullers-range",
               "name": "Gear Pullers range",
-              "company": "Taparia Tools"
-            }
-          ]
-        },
-        {
-          "id": "non-sparking-tools",
-          "name": "Non-Sparking Tools",
-          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/non-sparking-tools.jpeg",
-          "products": [
-            {
-              "id": "non-sparking-tools-range",
-              "name": "Non-Sparking Tools range",
               "company": "Taparia Tools"
             }
           ]
@@ -1034,18 +1010,6 @@
               "id": "cross-rim-wrench",
               "name": "Cross Rim Wrench",
               "company": "Taparia Tools"
-            }
-          ]
-        },
-        {
-          "id": "vde-insulated-hand-tool-sets",
-          "name": "VDE Insulated Hand-Tool Sets",
-          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/vde-insulated-hand-tool-sets.jpeg",
-          "products": [
-            {
-              "id": "vde-mixed-sets-range",
-              "name": "VDE Mixed Sets range",
-              "company": "Bosch Professional"
             }
           ]
         },
@@ -1118,23 +1082,13 @@
         },
         {
           "id": "spirit-box-section-levels",
-          "name": "Spirit / Box-section Levels",
+          "name": "Box-section Levels",
           "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/spirit-box-section-levels.png",
           "products": [
             {
               "id": "box-section-spirit-level-range-lifetime-warranty-line",
               "name": "Box Section Spirit Level range (Lifetime Warranty line)",
               "company": "Freemans (FMI)"
-            },
-            {
-              "id": "spirit-level-range",
-              "name": "Spirit Level range",
-              "company": "XtraPower Tools"
-            },
-            {
-              "id": "spirit-level-range",
-              "name": "Spirit Level range",
-              "company": "Taparia Tools"
             },
             {
               "id": "levels-range-hand-tools",
@@ -1352,54 +1306,6 @@
       "name": "Agricultural & Outdoor Power Equipment",
       "groups": [
         {
-          "id": "power-weeders",
-          "name": "Power Weeders",
-          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/power-weeders-range.png",
-          "products": [
-            {
-              "id": "power-weeders-range",
-              "name": "Power Weeders range",
-              "company": "XtraPower Tools"
-            }
-          ]
-        },
-        {
-          "id": "power-reapers",
-          "name": "Power Reapers",
-          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/power-reapers-range.png",
-          "products": [
-            {
-              "id": "power-reapers-range",
-              "name": "Power Reapers range",
-              "company": "XtraPower Tools"
-            }
-          ]
-        },
-        {
-          "id": "mill-machines",
-          "name": "Mill Machines",
-          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/mill-machine-range.png",
-          "products": [
-            {
-              "id": "mill-machine-range",
-              "name": "Mill Machine range",
-              "company": "XtraPower Tools"
-            }
-          ]
-        },
-        {
-          "id": "back-rotary-tillers",
-          "name": "Back Rotary Tillers",
-          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
-          "products": [
-            {
-              "id": "back-rotary-tiller-range",
-              "name": "Back Rotary Tiller range",
-              "company": "XtraPower Tools"
-            }
-          ]
-        },
-        {
           "id": "water-and-htp-pumps-sprayers",
           "name": "Water & HTP Pumps / Sprayers",
           "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
@@ -1436,18 +1342,6 @@
             {
               "id": "xpt-chain-saw-range-e-g-xpt-457-461-462-469-537-cordless-568-585-589",
               "name": "XPT Chain Saw range (e.g. XPT 457, 461, 462, 469, 537 Cordless, 568, 585, 589)",
-              "company": "XtraPower Tools"
-            }
-          ]
-        },
-        {
-          "id": "engines",
-          "name": "Engines",
-          "image" : "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
-          "products": [
-            {
-              "id": "engines-range",
-              "name": "Engines range",
               "company": "XtraPower Tools"
             }
           ]

@@ -33,12 +33,12 @@
     },
     {
       "id": "mini-pliers-range",
-      "name": "Mini Pliers range",
+      "name": "Mini Pliers",
       "image" :"assets/brands/product_images/Taparia Tools/mini-pliers-range.png"
     },
     {
       "id": "forged-c-clamps-range",
-      "name": "Forged C-Clamps range",
+      "name": "Forged C-Clamps",
       "image" :"assets/brands/product_images/Taparia Tools/forged-c-clamps-range.png"
     },
     {
@@ -48,12 +48,12 @@
     },
     {
       "id": "screwdrivers-sets-range",
-      "name": "Screwdrivers & Sets range",
+      "name": "Screwdrivers & Sets",
       "image" :"assets/brands/product_images/Taparia Tools/screwdrivers-sets-range.png"
     },
     {
       "id": "screw-driver-bits-sets-range",
-      "name": "Screw Driver Bits & Sets range",
+      "name": "Screw Driver Bits & Sets",
       "image" :"assets/brands/product_images/Taparia Tools/screw-driver-bits-sets-range.png"
     },
     {
@@ -83,17 +83,17 @@
     },
     {
       "id": "adjustable-spanner-soft-grip-chrome-finish-pf-variants",
-      "name": "Adjustable Spanner (Soft Grip, Chrome Finish, PF variants)",
+      "name": "Adjustable Spanner",
       "image" :"assets/brands/product_images/Taparia Tools/adjustable-spanner-soft-grip-chrome-finish-pf-variants.png"
     },
     {
       "id": "pipe-wrenches-stillson-swedish-pattern",
-      "name": "Pipe Wrenches (Stillson & Swedish pattern)",
+      "name": "Pipe Wrenches",
       "image" :"assets/brands/product_images/Taparia Tools/pipe-wrenches-stillson-swedish-pattern.png"
     },
     {
       "id": "torque-wrench-range",
-      "name": "Torque Wrench range",
+      "name": "Torque Wrench",
       "image" :"assets/brands/product_images/Taparia Tools/torque-wrench-range.png"
     },
     {
@@ -103,17 +103,17 @@
     },
     {
       "id": "socket-accessories-socket-sets-3-8-1-drive",
-      "name": "Socket Accessories & Socket Sets (¼\", 3/8\", ½\", ¾\" & 1\" drive)",
+      "name": "Socket Accessories & Socket Sets",
       "image" :"assets/brands/product_images/Taparia Tools/socket-accessories-socket-sets-3-8-1-drive.png"
     },
     {
       "id": "allen-keys-sets-range",
-      "name": "Allen Keys & Sets range",
+      "name": "Allen Keys & Sets",
       "image" :"assets/brands/product_images/Taparia Tools/allen-keys-sets-range.png"
     },
     {
       "id": "cutters-range",
-      "name": "Cutters range",
+      "name": "Cutters",
       "image" :"assets/brands/product_images/Taparia Tools/cutters-range.png"
     },
     {
@@ -123,32 +123,32 @@
     },
     {
       "id": "cutting-blades-range",
-      "name": "Cutting Blades range",
+      "name": "Cutting Blades",
       "image" :"assets/brands/product_images/Taparia Tools/cutting-blades-range.png"
     },
     {
       "id": "chisels-range-incl-pneumatic-chisels",
-      "name": "Chisels range (incl. pneumatic chisels)",
+      "name": "Chisels",
       "image" :"assets/brands/product_images/Taparia Tools/chisels-range-incl-pneumatic-chisels.png"
     },
     {
       "id": "punches-range",
-      "name": "Punches range",
+      "name": "Punches",
       "image" :"assets/brands/product_images/Taparia Tools/punches-range.png"
     },
     {
       "id": "gear-pullers-range",
-      "name": "Gear Pullers range",
+      "name": "Gear Pullers",
       "image" :"assets/brands/product_images/Taparia Tools/gear-pullers-range.png"
     },
     {
       "id": "non-sparking-tools-range",
-      "name": "Non-Sparking Tools range",
+      "name": "Non-Sparking Tools",
       "image" :"assets/brands/product_images/Taparia Tools/non-sparking-tools-range.png"
     },
     {
       "id": "magnetic-products-range",
-      "name": "Magnetic Products range",
+      "name": "Magnetic Products",
       "image" :"assets/brands/product_images/Taparia Tools/magnetic-products-range.png"
     },
     {
@@ -173,12 +173,12 @@
     },
     {
       "id": "tools-trolley-range",
-      "name": "Tools Trolley range",
+      "name": "Tools Trolley",
       "image" :"assets/brands/product_images/Taparia Tools/tools-trolley-range.png"
     },
     {
       "id": "spirit-level-range",
-      "name": "Spirit Level range",
+      "name": "Spirit Level",
       "image" :"assets/brands/product_images/Taparia Tools/spirit-level-range.png"
     }
   ]

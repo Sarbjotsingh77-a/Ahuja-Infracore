@@ -3,32 +3,32 @@
   "products": [
     {
       "id": "xpt-impact-drill-range-xpt-422-xpt-427-xpt-527",
-      "name": "XPT Impact Drill range (XPT 422, XPT 427, XPT 527)",
+      "name": "XPT Impact Drill",
       "image" :"assets/brands/product_images/XtraPower Tools/xpt-impact-drill-range-xpt-422-xpt-427-xpt-527.png"
     },
     {
       "id": "ic-series-cordless-impact-drill",
-      "name": "IC Series (Cordless Impact Drill)",
+      "name": "IC Series",
       "image" :"assets/brands/product_images/XtraPower Tools/ic-series-cordless-impact-drill.png"
     },
     {
       "id": "sgw-series-nailers-e-g-sgw-s-2161",
-      "name": "SGW Series (Nailers, e.g. SGW S-2161)",
+      "name": "SGW Series",
       "image" :"assets/brands/product_images/XtraPower Tools/sgw-series-nailers-e-g-sgw-s-2161.png"
     },
     {
       "id": "xpt-angle-grinder-range-xpt-501-xpt-502-xpt-505",
-      "name": "XPT Angle Grinder range (XPT 501, XPT 502, XPT 505)",
+      "name": "XPT Angle Grinder",
       "image" :"assets/brands/product_images/XtraPower Tools/xpt-angle-grinder-range-xpt-501-xpt-502-xpt-505.png"
     },
     {
       "id": "xpt-miter-saw-range-xpt-477-478-479-481a",
-      "name": "XPT Miter Saw range (XPT 477, 478, 479, 481A)",
+      "name": "XPT Miter Saw",
       "image" :"assets/brands/product_images/XtraPower Tools/xpt-miter-saw-range-xpt-477-478-479-481a.png"
     },
     {
       "id": "xpt-cut-off-machine-range-xpt-472-475-476",
-      "name": "XPT Cut-off Machine range (XPT 472, 475, 476)",
+      "name": "XPT Cut-off Machine",
       "image" :"assets/brands/product_images/XtraPower Tools/xpt-cut-off-machine-range-xpt-472-475-476.png"
     },
     {
@@ -43,22 +43,22 @@
     },
     {
       "id": "tig-welding-machine-ranges",
-      "name": "TIG Welding Machine ranges",
+      "name": "TIG Welding Machine",
       "image" :"assets/brands/product_images/XtraPower Tools/tig-welding-machine-ranges.png"
     },
     {
       "id": "xp-cordless-tools-range-xpt-482-484-cordless-drills-xpt-485-cordless-impact-wren",
-      "name": "XP Cordless Tools range (XPT 482, 484 Cordless Drills; XPT 485 Cordless Impact Wrench)",
+      "name": "XP Cordless Tools",
       "image" :"assets/brands/product_images/XtraPower Tools/xp-cordless-tools-range-xpt-482-484-cordless-drills-xpt-485-cordless-impact-wren.png"
     },
     {
       "id": "grease-gun-caulking-gun-range",
-      "name": "Grease Gun & Caulking Gun range",
+      "name": "Grease Gun & Caulking Gun",
       "image" :"assets/brands/product_images/XtraPower Tools/grease-gun-caulking-gun-range.png"
     },
     {
       "id": "xp-pressure-washer-range",
-      "name": "XP Pressure Washer range",
+      "name": "XP Pressure Washer",
       "image" :"assets/brands/product_images/XtraPower Tools/xp-pressure-washer-range.png"
     },
     {
@@ -73,7 +73,7 @@
     },
     {
       "id": "xpt-540-vacuum-blower",
-      "name": "XPT 540 (Vacuum Blower)",
+      "name": "XPT 540",
       "image" :"assets/brands/product_images/XtraPower Tools/xpt-540-vacuum-blower.png"
     },
     {
@@ -83,72 +83,72 @@
     },
     {
       "id": "screw-driver-bits-range",
-      "name": "Screw Driver Bits range",
+      "name": "Screw Driver Bits",
       "image" :"assets/brands/product_images/XtraPower Tools/screw-driver-bits-range.png"
     },
     {
       "id": "magnetic-bit-holder-range",
-      "name": "Magnetic Bit Holder range",
+      "name": "Magnetic Bit Holder",
       "image" :"assets/brands/product_images/XtraPower Tools/magnetic-bit-holder-range.png"
     },
     {
       "id": "measuring-tape-range",
-      "name": "Measuring Tape range",
+      "name": "Measuring Tape",
       "image" :"assets/brands/product_images/XtraPower Tools/measuring-tape-range.png"
     },
     {
       "id": "spirit-level-range",
-      "name": "Spirit Level range",
+      "name": "Spirit Level",
       "image" :"assets/brands/product_images/XtraPower Tools/spirit-level-range.png"
     },
     {
       "id": "power-weeders-range",
-      "name": "Power Weeders range",
+      "name": "Power Weeders",
       "image" :"assets/brands/product_images/XtraPower Tools/power-weeders-range.png"
     },
     {
       "id": "power-reapers-range",
-      "name": "Power Reapers range",
+      "name": "Power Reapers",
       "image" :"assets/brands/product_images/XtraPower Tools/power-reapers-range.png"
     },
     {
       "id": "mill-machine-range",
-      "name": "Mill Machine range",
+      "name": "Mill Machine",
       "image" :"assets/brands/product_images/XtraPower Tools/mill-machine-range.png"
     },
     {
       "id": "back-rotary-tiller-range",
-      "name": "Back Rotary Tiller range",
+      "name": "Back Rotary Tiller",
       "image" :"assets/brands/product_images/XtraPower Tools/back-rotary-tiller-range.png"
     },
     {
       "id": "xp-wp-series-water-pumps-e-g-xp-wp-2-xp-wp-3",
-      "name": "XP-WP Series Water Pumps (e.g. XP-WP-2, XP-WP-3)",
+      "name": "XP-WP Series Water Pumps",
       "image" :"assets/brands/product_images/XtraPower Tools/xp-wp-series-water-pumps-e-g-xp-wp-2-xp-wp-3.png"
     },
     {
       "id": "htp-sprayer-range",
-      "name": "HTP Sprayer range",
+      "name": "HTP Sprayer",
       "image" :"assets/brands/product_images/XtraPower Tools/htp-sprayer-range.png"
     },
     {
       "id": "brush-cutter-range-e-g-xtra-power-gold-35cc-4-stroke-brush-cutter",
-      "name": "Brush Cutter range (e.g. XTRA-POWER GOLD 35CC 4-Stroke Brush Cutter)",
+      "name": "Brush Cutter",
       "image" :"assets/brands/product_images/XtraPower Tools/brush-cutter-range-e-g-xtra-power-gold-35cc-4-stroke-brush-cutter.png"
     },
     {
       "id": "xpt-chain-saw-range-e-g-xpt-457-461-462-469-537-cordless-568-585-589",
-      "name": "XPT Chain Saw range (e.g. XPT 457, 461, 462, 469, 537 Cordless, 568, 585, 589)",
+      "name": "XPT Chain Saw",
       "image" :"assets/brands/product_images/XtraPower Tools/xpt-chain-saw-range-e-g-xpt-457-461-462-469-537-cordless-568-585-589.png"
     },
     {
       "id": "engines-range",
-      "name": "Engines range",
+      "name": "Engines",
       "image" :"assets/brands/product_images/XtraPower Tools/engines-range.png"
     },
     {
       "id": "cut-off-wheel-range",
-      "name": "Cut Off Wheel range",
+      "name": "Cut Off Wheel",
       "image" :"assets/brands/product_images/XtraPower Tools/cut-off-wheel-range.png"
     },
     {
@@ -158,7 +158,7 @@
     },
     {
       "id": "gc-wheel-range",
-      "name": "GC Wheel range",
+      "name": "GC Wheel",
       "image" :"assets/brands/product_images/XtraPower Tools/gc-wheel-range.png"
     },
     {
@@ -168,7 +168,7 @@
     },
     {
       "id": "dc-wheel-range",
-      "name": "DC Wheel range",
+      "name": "DC Wheel",
       "image" :"assets/brands/product_images/XtraPower Tools/dc-wheel-range.png"
     },
     {
@@ -178,7 +178,7 @@
     },
     {
       "id": "flap-wheel-range",
-      "name": "Flap Wheel range",
+      "name": "Flap Wheel",
       "image" :"assets/brands/product_images/XtraPower Tools/flap-wheel-range.png"
     },
     {
@@ -188,7 +188,7 @@
     },
     {
       "id": "non-woven-pad-range",
-      "name": "Non Woven Pad range",
+      "name": "Non Woven Pad",
       "image" :"assets/brands/product_images/XtraPower Tools/non-woven-pad-range.png"
     },
     {
@@ -198,22 +198,22 @@
     },
     {
       "id": "backing-pad-range",
-      "name": "Backing Pad range",
+      "name": "Backing Pad",
       "image" :"assets/brands/product_images/XtraPower Tools/backing-pad-range.png"
     },
     {
       "id": "sand-paper-range",
-      "name": "Sand Paper range",
+      "name": "Sand Paper",
       "image" :"assets/brands/product_images/XtraPower Tools/sand-paper-range.png"
     },
     {
       "id": "diamond-saw-blade-range",
-      "name": "Diamond Saw Blade range",
+      "name": "Diamond Saw Blade",
       "image" :"assets/brands/product_images/XtraPower Tools/diamond-saw-blade-range.png"
     },
     {
       "id": "tct-saw-blade-range",
-      "name": "TCT Saw Blade range",
+      "name": "TCT Saw Blade",
       "image" :"assets/brands/product_images/XtraPower Tools/tct-saw-blade-range.png"
     },
     {
@@ -223,7 +223,7 @@
     },
     {
       "id": "jig-saw-blade-rang0e",
-      "name": "Jig Saw Blade range",
+      "name": "Jig Saw Blade",
       "image" :"assets/brands/product_images/XtraPower Tools/jig-saw-blade-rang0e.png"
     },
     {
@@ -238,7 +238,7 @@
     },
     {
       "id": "wood-flat-bit-range",
-      "name": "Wood Flat Bit range",
+      "name": "Wood Flat Bit",
       "image" :"assets/brands/product_images/XtraPower Tools/wood-flat-bit-range.png"
     },
     {
@@ -248,17 +248,17 @@
     },
     {
       "id": "core-drill-range",
-      "name": "Core Drill range",
+      "name": "Core Drill",
       "image" :"assets/brands/product_images/XtraPower Tools/core-drill-range.png"
     },
     {
       "id": "cup-wheel-brush-range",
-      "name": "Cup & Wheel Brush range",
+      "name": "Cup & Wheel Brush",
       "image" :"assets/brands/product_images/XtraPower Tools/cup-wheel-brush-range.png"
     },
     {
       "id": "diamond-stone-range",
-      "name": "Diamond Stone range",
+      "name": "Diamond Stone",
       "image" :"assets/brands/product_images/XtraPower Tools/diamond-stone-range.png"
     }
   ]

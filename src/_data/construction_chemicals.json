@@ -121,18 +121,6 @@
           ]
         },
         {
-          "id": "industrial-resin-flooring-systems",
-          "name": "Industrial / Resin Flooring Systems",
-          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/industrial-resin-flooring-systems.png",
-          "products": [
-            {
-              "id": "nitoflor-range",
-              "name": "Nitoflor range",
-              "company": "Fosroc"
-            }
-          ]
-        },
-        {
           "id": "industrial-flooring-and-grout-for-bolting-base-plates",
           "name": "Industrial Flooring & Grout for Bolting/Base Plates",
           "image":"assets/products_new/Subparts/construction chemicals & waterproofing/industrial-flooring-and-grout-for-bolting-base-plates.png",
@@ -264,69 +252,6 @@
             {
               "id": "nitobond-range",
               "name": "Nitobond range",
-              "company": "Fosroc"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "Traffic-Roofing-Deck Systems",
-      "name": "Traffic, Roofing & Deck Systems",
-      "groups": [
-        {
-          "id": "traffic-deck-coatings-and-roofing-systems",
-          "name": "Traffic Deck Coatings & Roofing Systems",
-          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/traffic-deck-coatings-and-roofing-systems.png",
-          "products": [
-            {
-              "id": "trafficguard",
-              "name": "Trafficguard",
-              "company": "Fosroc"
-            },
-            {
-              "id": "roofex-ranges",
-              "name": "Roofex ranges",
-              "company": "Fosroc"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "Structural-Strengthening-Cathodic-Protection",
-      "name": "Structural Strengthening & Cathodic Protection",
-      "groups": [
-        {
-          "id": "cathodic-protection-galvashield-systems",
-          "name": "Cathodic Protection / Galvashield Systems",
-          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/Structural-Strengthening-Cathodic-Protection.png",
-          "products": [
-            {
-              "id": "galvashield-cathodic-protection-range",
-              "name": "Galvashield Cathodic Protection range",
-              "company": "Fosroc"
-            }
-          ]
-        },
-        {
-          "id": "frp-strengthening-plates-wraps",
-          "name": "FRP Strengthening (plates, wraps)",
-          "image":"assets/products_new/Subparts/construction chemicals & waterproofing/frp-strengthening-plates-wraps.png",
-          "products": [
-            {
-              "id": "nitoplate",
-              "name": "Nitoplate",
-              "company": "Fosroc"
-            },
-            {
-              "id": "nitowrap",
-              "name": "Nitowrap",
-              "company": "Fosroc"
-            },
-            {
-              "id": "structuro-ranges",
-              "name": "Structuro ranges",
               "company": "Fosroc"
             }
           ]

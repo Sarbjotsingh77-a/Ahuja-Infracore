@@ -28,21 +28,23 @@
 
 .clients-hero-inner {
   position: relative;
-  display: grid;
-  grid-template-columns: 1fr .9fr;
   min-height: 660px;
   overflow: hidden;
-  background: url("../assets/clients/hero_bg.png") center / cover no-repeat;
 }
 
+/* Full-width dark panel holding the headline/copy — clipped along the
+   SAME diagonal as the gold line below, so the two can never mismatch */
 .clients-hero-copy {
-  position: relative;
+  position: absolute;
+  inset: 0;
   z-index: 4;
+  width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
   padding: 64px 5vw 70px;
   background: linear-gradient(115deg, var(--dark) 0%, var(--deep-brown) 48%, rgba(18,14,11,.92) 100%);
+  clip-path: polygon(0 0, 56% 0, 41% 100%, 0 100%);
 }
 
 .clients-hero .eyebrow {
@@ -120,62 +122,19 @@
   line-height: 1.45;
 }
 
-/* Diagonal construction image */
+/* Full-bleed construction photo — plain, untinted, fills the whole box.
+   What's visible of it is decided entirely by what's clipped/drawn on
+   top (the copy panel to the left, the gold lines on top of that). */
 .clients-hero-media {
-  position: relative;
-  z-index: 1;
-  overflow: hidden;
-  clip-path: polygon(27% 0, 100% 0, 100% 100%, 7% 100%);
-  margin-left: -7%;
-}
-
-.clients-hero-media img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center;
-  display: block;
-  filter: saturate(.92) contrast(1.06);
-}
-
-.clients-hero-media::before {
-  content: "";
   position: absolute;
   inset: 0;
   z-index: 1;
-  background:
-    linear-gradient(90deg, rgba(23,19,15,.94) 0%, rgba(23,19,15,.52) 27%, rgba(23,19,15,.12) 55%, rgba(23,19,15,.22) 100%),
-    linear-gradient(180deg, rgba(23,19,15,.08), rgba(23,19,15,.34));
-}
-
-.clients-hero-media::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  z-index: 2;
-  background: linear-gradient(118deg, transparent 0 31%, rgba(184,135,74,.2) 31.1%, transparent 31.5%);
-  pointer-events: none;
-}
-
-/* ---------- Two parallel gold seam lines with the photo showing
-   through, undimmed, in the strip between them ---------- */
-
-/* the bright "window" strip: a second copy of the same photo, placed
-   above the dark overlay (::before/::after above) and clipped to a
-   thin diagonal band so it reads as a crisp, un-tinted slice of the
-   image sitting between the two gold lines */
-.hero-window {
-  position: absolute;
-  inset: 0;
-  z-index: 3;
   background-image: url("../assets/clients/hero_bg.png");
   background-size: cover;
   background-position: center;
-  clip-path: polygon(56.6% 0, 90% 0, 74.4% 100%, 41% 100%);
-  filter: saturate(1.08) contrast(1.1) brightness(1.06);
 }
 
-/* the two gold strokes framing the window, each its own thin
+/* the two gold strokes framing the seam, each its own thin
    parallelogram parallel to the diagonal cut */
 .hero-line {
   position: absolute;
@@ -198,6 +157,18 @@
 
 .hero-line--2 {
   clip-path: polygon(90% 0, 90.6% 0, 75% 100%, 74.4% 100%);
+}
+
+/* Blurred zone — everything to the right of the second gold line */
+.hero-blur-right {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  background-image: url("../assets/clients/hero_bg.png");
+  background-size: cover;
+  background-position: center;
+  clip-path: polygon(90.6% 0, 100% 0, 100% 100%, 75% 100%);
+  filter: blur(7px) saturate(0.9) brightness(0.9);
 }
 
 .hero-tagline {
@@ -411,7 +382,7 @@
 
 .client-card {
   background: rgba(255,255,255,.86);
-  border: 1px solid rgba(184,135,74,.32);
+  border: 2px solid rgba(184,135,74,.32);
   border-radius: 3px;
   padding: 17px 18px;
   display: flex;
@@ -614,7 +585,6 @@
 /* ---------- RESPONSIVE ---------- */
 @media (max-width: 1100px) {
   .clients-hero-inner {
-    grid-template-columns: 1fr .9fr;
     min-height: 560px;
   }
 
@@ -638,22 +608,21 @@
 
 @media (max-width: 991px) {
   .clients-hero-inner {
-    grid-template-columns: 1fr;
     min-height: auto;
   }
 
   .clients-hero-copy {
+    position: relative;
+    clip-path: none;
     min-height: 500px;
     padding: 75px 7vw 55px;
   }
 
   .clients-hero-media {
-    clip-path: none;
-    margin-left: 0;
+    position: relative;
     height: 360px;
   }
 
-  .hero-window,
   .hero-line {
     display: none;
   }

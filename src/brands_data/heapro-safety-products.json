@@ -5,11 +5,10 @@
       "id": "hsd-series",
       "name": "HSD Series",
       "image" :"assets/brands/product_images/Heapro Safety Products/hsd-series.png"
-
     },
     {
       "id": "er-01-class-e-electrical",
-      "name": "ER-01 (Class E Electrical)",
+      "name": "ER-01",
       "image" :"assets/brands/product_images/Heapro Safety Products/er-01-class-e-electrical.png"
     },
     {
@@ -24,12 +23,12 @@
     },
     {
       "id": "hp-safety-goggles-range",
-      "name": "HP Safety Goggles range",
+      "name": "HP Safety Goggles",
       "image" :"assets/brands/product_images/Heapro Safety Products/hp-safety-goggles-range.png"
     },
     {
       "id": "hp-face-shields-range",
-      "name": "HP Face Shields range",
+      "name": "HP Face Shields",
       "image" :"assets/brands/product_images/Heapro Safety Products/hp-face-shields-range.png"
     },
     {
@@ -39,87 +38,87 @@
     },
     {
       "id": "hp-ear-muffs-range",
-      "name": "HP Ear Muffs range",
+      "name": "HP Ear Muffs",
       "image" :"assets/brands/product_images/Heapro Safety Products/hp-ear-muffs-range.png"
     },
     {
       "id": "hp-ear-plugs-range",
-      "name": "HP Ear Plugs range",
+      "name": "HP Ear Plugs",
       "image" :"assets/brands/product_images/Heapro Safety Products/hp-ear-plugs-range.png"
     },
     {
       "id": "hp-nose-masks-range",
-      "name": "HP Nose Masks range",
+      "name": "HP Nose Masks",
       "image" :"assets/brands/product_images/Heapro Safety Products/hp-nose-masks-range.png"
     },
     {
       "id": "hp-safety-gloves-range",
-      "name": "HP Safety Gloves range",
+      "name": "HP Safety Gloves",
       "image" :"assets/brands/product_images/Heapro Safety Products/hp-safety-gloves-range.png"
     },
     {
       "id": "hand-gloves-range",
-      "name": "Hand Gloves range",
+      "name": "Hand Gloves",
       "image" :"assets/brands/product_images/Heapro Safety Products/hand-gloves-range.png"
     },
     {
       "id": "cover-all-suit-range",
-      "name": "Cover-all Suit range",
+      "name": "Cover-all Suit",
       "image" :"assets/brands/product_images/Heapro Safety Products/cover-all-suit-range.png"
     },
     {
       "id": "safety-jacket-range",
-      "name": "Safety Jacket range",
+      "name": "Safety Jacket",
       "image" :"assets/brands/product_images/Heapro Safety Products/safety-jacket-range.png"
     },
     {
       "id": "safety-harness-range",
-      "name": "Safety Harness range",
+      "name": "Safety Harness",
       "image" :"assets/brands/product_images/Heapro Safety Products/safety-harness-range.png"
     },
     {
       "id": "lanyards-range",
-      "name": "Lanyards range",
+      "name": "Lanyards",
       "image" :"assets/brands/product_images/Heapro Safety Products/lanyards-range.png"
     },
     {
       "id": "retractable-fall-arrester-range",
-      "name": "Retractable Fall Arrester range",
+      "name": "Retractable Fall Arrester",
       "image" :"assets/brands/product_images/Heapro Safety Products/retractable-fall-arrester-range.png"
     },
     {
       "id": "wire-rope-grab-range",
-      "name": "Wire Rope Grab range",
+      "name": "Wire Rope Grab",
       "image" :"assets/brands/product_images/Heapro Safety Products/wire-rope-grab-range.png"
     },
     {
       "id": "connector-auto-lock-oval-triangular-range",
-      "name": "Connector (Auto Lock Oval / Triangular) range",
+      "name": "Connector (Auto Lock Oval / Triangular)",
       "image" :"assets/brands/product_images/Heapro Safety Products/connector-auto-lock-oval-triangular-range.png"
     },
     {
       "id": "rescue-kit-range",
-      "name": "Rescue Kit range",
+      "name": "Rescue Kit",
       "image" :"assets/brands/product_images/Heapro Safety Products/rescue-kit-range.png"
     },
     {
       "id": "tower-kit-range",
-      "name": "Tower Kit range",
+      "name": "Tower Kit",
       "image" :"assets/brands/product_images/Heapro Safety Products/tower-kit-range.png"
     },
     {
       "id": "kernmantle-rope-range",
-      "name": "Kernmantle Rope range",
+      "name": "Kernmantle Rope",
       "image" :"assets/brands/product_images/Heapro Safety Products/kernmantle-rope-range.png"
     },
     {
       "id": "polyamide-ropes-range",
-      "name": "Polyamide Ropes range",
+      "name": "Polyamide Ropes",
       "image" :"assets/brands/product_images/Heapro Safety Products/polyamide-ropes-range.png"
     },
     {
       "id": "hi-series-safety-shoes-e-g-hi-701-hi-901-hi-901c-composite-toe",
-      "name": "HI Series Safety Shoes (e.g. HI-701, HI-901, HI-901C Composite Toe)",
+      "name": "HI Series Safety Shoes",
       "image" :"assets/brands/product_images/Heapro Safety Products/hi-series-safety-shoes-e-g-hi-701-hi-901-hi-901c-composite-toe.png"
     }
   ]

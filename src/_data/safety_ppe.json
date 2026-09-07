@@ -350,58 +350,6 @@
       ]
     },
     {
-      "id": "connectors-anchorage-systems",
-      "name": "Connectors & Anchorage Systems",
-      "groups": [
-        {
-          "id": "hooks-karabiners-and-connectors",
-          "name": "Hooks, Karabiners & Connectors",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/hooks-karabiners-and-connectors.png",
-          "products": [
-            {
-              "id": "connector-auto-lock-oval-triangular-range",
-              "name": "Connector (Auto Lock Oval / Triangular) range",
-              "company": "Heapro Safety Products"
-            },
-            {
-              "id": "hooks-karabiners-range",
-              "name": "Hooks & Karabiners range",
-              "company": "Karam Safety"
-            }
-          ]
-        },
-        {
-          "id": "anchorage-devices-temporary-anchorage-lines",
-          "name": "Anchorage Devices / Temporary Anchorage Lines",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/anchorage-devices-temporary-anchorage-lines.png",
-          "products": [
-            {
-              "id": "anchorage-device-range",
-              "name": "Anchorage Device range",
-              "company": "Karam Safety"
-            },
-            {
-              "id": "temporary-horizontal-life-line-range",
-              "name": "Temporary Horizontal Life Line range",
-              "company": "Karam Safety"
-            }
-          ]
-        },
-        {
-          "id": "fixed-line-systems",
-          "name": "Fixed Line Systems",
-          "image":"assets/products_new/Subparts/safety, ppe & road safety/fixed-line-systems.png",
-          "products": [
-            {
-              "id": "fixed-line-system-range",
-              "name": "Fixed Line System range",
-              "company": "Karam Safety"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "confined-space-rescue-gear",
       "name": "Confined Space & Rescue Gear",
       "groups": [

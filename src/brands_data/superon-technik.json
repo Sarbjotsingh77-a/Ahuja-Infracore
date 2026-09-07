@@ -3,17 +3,17 @@
   "products": [
     {
       "id": "super-optimal-series-e-g-super-optimal-7016",
-      "name": "SUPER OPTIMAL Series (e.g. SUPER OPTIMAL 7016)",
+      "name": "SUPER OPTIMAL Series",
       "image": "assets/brands/product_images/Superon Technik/super-optimal-series-e-g-super-optimal-7016.png"
     },
     {
       "id": "stainless-steel-stick-electrode-range",
-      "name": "Stainless Steel Stick Electrode range",
+      "name": "Stainless Steel Stick Electrode",
       "image": "assets/brands/product_images/Superon Technik/stainless-steel-stick-electrode-range.png"
     },
     {
       "id": "hard-facing-tubular-electrodes-range",
-      "name": "Hard Facing Tubular Electrodes range",
+      "name": "Hard Facing Tubular Electrodes",
       "image": "assets/brands/product_images/Superon Technik/hard-facing-tubular-electrodes-range.png"
     },
     {
@@ -23,22 +23,22 @@
     },
     {
       "id": "nickel-alloy-cast-iron-electrode-range",
-      "name": "Nickel Alloy / Cast Iron Electrode range",
+      "name": "Nickel Alloy / Cast Iron Electrode",
       "image": "assets/brands/product_images/Superon Technik/nickel-alloy-cast-iron-electrode-range.png"
     },
     {
       "id": "welding-filler-wire-supermig-range",
-      "name": "Welding Filler Wire / SUPERMIG range",
+      "name": "Welding Filler Wire / SUPERMIG",
       "image": "assets/brands/product_images/Superon Technik/welding-filler-wire-supermig-range.png"
     },
     {
       "id": "stainless-steel-filler-wire-range-grades-incl-316l-410-307",
-      "name": "Stainless Steel Filler Wire range (grades incl. 316L, 410, 307)",
+      "name": "Stainless Steel Filler Wire",
       "image": "assets/brands/product_images/Superon Technik/stainless-steel-filler-wire-range-grades-incl-316l-410-307.png"
     },
     {
       "id": "high-ag-brazing-alloys-cadmium-free-cadmium-bearing-grades",
-      "name": "High Ag Brazing Alloys (Cadmium-Free & Cadmium-Bearing Grades)",
+      "name": "High Ag Brazing Alloys",
       "image": "assets/brands/product_images/Superon Technik/high-ag-brazing-alloys-cadmium-free-cadmium-bearing-grades.png"
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "id": "fluxes-pastes-range",
-      "name": "Fluxes & Pastes range",
+      "name": "Fluxes & Pastes",
       "image": "assets/brands/product_images/Superon Technik/fluxes-pastes-range.png"
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "id": "cr-b-paste-range",
-      "name": "CR-B Paste range",
+      "name": "CR-B Paste",
       "image": "assets/brands/product_images/Superon Technik/cr-b-paste-range.png"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "id": "gouging-cutting-electrodes-range-e-g-super-power-cut-100",
-      "name": "Gouging/Cutting Electrodes range (e.g. Super Power Cut 100)",
+      "name": "Gouging/Cutting Electrodes",
       "image": "assets/brands/product_images/Superon Technik/gouging-cutting-electrodes-range-e-g-super-power-cut-100.png"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "id": "cylinder-carts-mig-carts-range",
-      "name": "Cylinder Carts & MIG Carts range",
+      "name": "Cylinder Carts & MIG Carts",
       "image": "assets/brands/product_images/Superon Technik/cylinder-carts-mig-carts-range.png"
     },
     {
@@ -108,42 +108,42 @@
     },
     {
       "id": "die-penetrant-test-kit-range",
-      "name": "DIE Penetrant Test Kit range",
+      "name": "DIE Penetrant Test Kit",
       "image": "assets/brands/product_images/Superon Technik/die-penetrant-test-kit-range.png"
     },
     {
       "id": "superorange-cutting-wheel-range",
-      "name": "SuperOrange Cutting Wheel range",
+      "name": "SuperOrange Cutting Wheel",
       "image": "assets/brands/product_images/Superon Technik/superorange-cutting-wheel-range.png"
     },
     {
       "id": "superorange-grinding-discs-range",
-      "name": "SuperOrange Grinding Discs range",
+      "name": "SuperOrange Grinding Discs",
       "image": "assets/brands/product_images/Superon Technik/superorange-grinding-discs-range.png"
     },
     {
       "id": "superorange-flap-disc-range",
-      "name": "SuperOrange Flap Disc range",
+      "name": "SuperOrange Flap Disc",
       "image": "assets/brands/product_images/Superon Technik/superorange-flap-disc-range.png"
     },
     {
       "id": "non-woven-abrasives-range",
-      "name": "Non-Woven Abrasives range",
+      "name": "Non-Woven Abrasives",
       "image": "assets/brands/product_images/Superon Technik/non-woven-abrasives-range.png"
     },
     {
       "id": "buffing-polishing-wheel-range",
-      "name": "Buffing / Polishing Wheel range",
+      "name": "Buffing / Polishing Wheel",
       "image": "assets/brands/product_images/Superon Technik/buffing-polishing-wheel-range.png"
     },
     {
       "id": "polishing-pad-range",
-      "name": "Polishing Pad range",
+      "name": "Polishing Pad",
       "image": "assets/brands/product_images/Superon Technik/polishing-pad-range.png"
     },
     {
       "id": "wire-brush-range",
-      "name": "Wire Brush range",
+      "name": "Wire Brush",
       "image": "assets/brands/product_images/Superon Technik/wire-brush-range.png"
     }
   ]

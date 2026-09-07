@@ -46,6 +46,53 @@ document.addEventListener('DOMContentLoaded', () => {
     },
 
     {
+  stateId: "pb",
+  stateName: "Punjab",
+  offices: [
+    { name: "Ludhiana", zone: "North Zone Office", address: "Ludhiana, Punjab, India", phone: "+91 12345 00000", email: "ludhiana@ahujainfracore.com", hours: "Mon – Sat: 9:00 AM – 6:00 PM" },
+    { name: "Jalandhar", zone: "North Zone Office", address: "Jalandhar, Punjab, India", phone: "+91 12345 00000", email: "jalandhar@ahujainfracore.com", hours: "Mon – Sat: 9:00 AM – 6:00 PM" },
+    { name: "Patiala", zone: "North Zone Office", address: "Patiala, Punjab, India", phone: "+91 12345 00000", email: "patiala@ahujainfracore.com", hours: "Mon – Sat: 9:00 AM – 6:00 PM" },
+    { name: "Bathinda", zone: "North Zone Office", address: "Bathinda, Punjab, India", phone: "+91 12345 00000", email: "bathinda@ahujainfracore.com", hours: "Mon – Sat: 9:00 AM – 6:00 PM" },
+    { name: "Mohali", zone: "North Zone Office", address: "Mohali, Punjab, India", phone: "+91 12345 00000", email: "mohali@ahujainfracore.com", hours: "Mon – Sat: 9:00 AM – 6:00 PM" },
+    { name: "Ropar", zone: "North Zone Office", address: "Ropar, Punjab, India", phone: "+91 12345 00000", email: "ropar@ahujainfracore.com", hours: "Mon – Sat: 9:00 AM – 6:00 PM" }
+  ]
+},
+{
+  stateId: "rj",
+  stateName: "Rajasthan",
+  offices: [
+    { name: "Jaipur", zone: "North Zone Office", address: "Jaipur, Rajasthan, India", phone: "+91 12345 00000", email: "jaipur@ahujainfracore.com", hours: "Mon – Sat: 9:00 AM – 6:00 PM" },
+    { name: "Kota", zone: "North Zone Office", address: "Kota, Rajasthan, India", phone: "+91 12345 00000", email: "kota@ahujainfracore.com", hours: "Mon – Sat: 9:00 AM – 6:00 PM" },
+    { name: "Jodhpur", zone: "North Zone Office", address: "Jodhpur, Rajasthan, India", phone: "+91 12345 00000", email: "jodhpur@ahujainfracore.com", hours: "Mon – Sat: 9:00 AM – 6:00 PM" },
+    { name: "Bikaner", zone: "North Zone Office", address: "Bikaner, Rajasthan, India", phone: "+91 12345 00000", email: "bikaner@ahujainfracore.com", hours: "Mon – Sat: 9:00 AM – 6:00 PM" }
+  ]
+},
+{
+  stateId: "up",
+  stateName: "Uttar Pradesh",
+  offices: [
+    { name: "Kanpur", zone: "North Zone Office", address: "Kanpur, Uttar Pradesh, India", phone: "+91 12345 00000", email: "kanpur@ahujainfracore.com", hours: "Mon – Sat: 9:00 AM – 6:00 PM" },
+    { name: "Ghaziabad", zone: "North Zone Office", address: "Ghaziabad, Uttar Pradesh, India", phone: "+91 12345 00000", email: "ghaziabad@ahujainfracore.com", hours: "Mon – Sat: 9:00 AM – 6:00 PM" },
+    { name: "Noida", zone: "North Zone Office", address: "Noida, Uttar Pradesh, India", phone: "+91 12345 00000", email: "noida@ahujainfracore.com", hours: "Mon – Sat: 9:00 AM – 6:00 PM" },
+    { name: "Lucknow", zone: "North Zone Office", address: "Lucknow, Uttar Pradesh, India", phone: "+91 12345 00000", email: "lucknow@ahujainfracore.com", hours: "Mon – Sat: 9:00 AM – 6:00 PM" },
+    { name: "Prayagraj", zone: "North Zone Office", address: "Prayagraj, Uttar Pradesh, India", phone: "+91 12345 00000", email: "prayagraj@ahujainfracore.com", hours: "Mon – Sat: 9:00 AM – 6:00 PM" },
+    { name: "Meerut", zone: "North Zone Office", address: "Meerut, Uttar Pradesh, India", phone: "+91 12345 00000", email: "meerut@ahujainfracore.com", hours: "Mon – Sat: 9:00 AM – 6:00 PM" }
+  ]
+},
+{
+  stateId: "br",
+  stateName: "Bihar",
+  offices: [
+    { name: "Bhagalpur", zone: "East Zone Office", address: "Bhagalpur, Bihar, India", phone: "+91 12345 00000", email: "bhagalpur@ahujainfracore.com", hours: "Mon – Sat: 9:00 AM – 6:00 PM" },
+    { name: "Banka", zone: "East Zone Office", address: "Banka, Bihar, India", phone: "+91 12345 00000", email: "banka@ahujainfracore.com", hours: "Mon – Sat: 9:00 AM – 6:00 PM" },
+    { name: "Bounsi", zone: "East Zone Office", address: "Bounsi, Bihar, India", phone: "+91 12345 00000", email: "bounsi@ahujainfracore.com", hours: "Mon – Sat: 9:00 AM – 6:00 PM" },
+    { name: "Darbhanga", zone: "East Zone Office", address: "Darbhanga, Bihar, India", phone: "+91 12345 00000", email: "darbhanga@ahujainfracore.com", hours: "Mon – Sat: 9:00 AM – 6:00 PM" },
+    { name: "Patna", zone: "East Zone Office", address: "Patna, Bihar, India", phone: "+91 12345 00000", email: "patna@ahujainfracore.com", hours: "Mon – Sat: 9:00 AM – 6:00 PM" },
+    { name: "Purnia", zone: "East Zone Office", address: "Purnia, Bihar, India", phone: "+91 12345 00000", email: "purnia@ahujainfracore.com", hours: "Mon – Sat: 9:00 AM – 6:00 PM" }
+  ]
+},
+
+    {
       stateId: "hr",
       stateName: "Haryana",
       offices: [
