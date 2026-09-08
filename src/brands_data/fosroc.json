@@ -42,11 +42,6 @@
       "image" :"assets/brands/product_images/Fosroc/cebex-ranges.png"
     },
     {
-      "id": "nitoflor-range",
-      "name": "Nitoflor",
-      "image" :"assets/brands/product_images/Fosroc/nitoflor-range.png"
-    },
-    {
       "id": "renderoc",
       "name": "Renderoc",
       "image" :"assets/brands/product_images/Fosroc/renderoc.png"
@@ -95,36 +90,6 @@
       "id": "nitobond-range",
       "name": "Nitobond",
       "image" :"assets/brands/product_images/Fosroc/nitobond-range.png"
-    },
-    {
-      "id": "trafficguard",
-      "name": "Trafficguard",
-      "image" :"assets/brands/product_images/Fosroc/trafficguard.png"
-    },
-    {
-      "id": "roofex-ranges",
-      "name": "Roofex",
-      "image" :"assets/brands/product_images/Fosroc/roofex-ranges.png"
-    },
-    {
-      "id": "galvashield-cathodic-protection-range",
-      "name": "Galvashield Cathodic Protection",
-      "image" :"assets/brands/product_images/Fosroc/galvashield-cathodic-protection-range.png"
-    },
-    {
-      "id": "nitoplate",
-      "name": "Nitoplate",
-      "image" :"assets/brands/product_images/Fosroc/nitoplate.png"
-    },
-    {
-      "id": "nitowrap",
-      "name": "Nitowrap",
-      "image" :"assets/brands/product_images/Fosroc/nitowrap.png"
-    },
-    {
-      "id": "structuro-ranges",
-      "name": "Structuro",
-      "image" :"assets/brands/product_images/Fosroc/structuro-ranges.png"
     },
     {
       "id": "lokfix-range",
