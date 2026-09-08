@@ -241,11 +241,12 @@
         {
           "id": "welding-accessories",
           "name": "Welding Accessories",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/welding-accessories.png",
           "products": [
             {
               "id": "booster-welding-accessories",
               "name": "Welding Accessories",
-              "company": "Booster"
+              "company": "XPS"
             }
           ]
         }
@@ -715,11 +716,12 @@
         {
           "id": "carbides-and-inserts",
           "name": "Carbides & Inserts",
+          "image": "assets/products_new/Subparts/welding, cutting & industrial consumables/carbides-and-inserts.png",
           "products": [
             {
               "id": "taegotec-carbides-inserts",
               "name": "Carbides and Inserts",
-              "company": "Taegotec"
+              "company": ""
             }
           ]
         }

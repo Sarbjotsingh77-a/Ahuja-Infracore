@@ -1313,7 +1313,7 @@
         {
           "id": "water-and-htp-pumps-sprayers",
           "name": "Water & HTP Pumps / Sprayers",
-          "image": "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "image": "assets/products_new/Subparts/power tools, hand tools & measuring tools/water-and-htp-pumps-sprayers.png",
           "products": [
             {
               "id": "xp-wp-series-water-pumps-e-g-xp-wp-2-xp-wp-3",
@@ -1330,7 +1330,7 @@
         {
           "id": "brush-cutters",
           "name": "Brush Cutters",
-          "image": "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "image": "assets/products_new/Subparts/power tools, hand tools & measuring tools/brush-cutters.png",
           "products": [
             {
               "id": "brush-cutter-range-e-g-xtra-power-gold-35cc-4-stroke-brush-cutter",
@@ -1342,7 +1342,7 @@
         {
           "id": "chain-saws",
           "name": "Chain Saws",
-          "image": "assets/products_new/Subparts/power tools, hand tools & measuring tools/.png",
+          "image": "assets/products_new/Subparts/power tools, hand tools & measuring tools/chain-saws.png",
           "products": [
             {
               "id": "xpt-chain-saw-range-e-g-xpt-457-461-462-469-537-cordless-568-585-589",
