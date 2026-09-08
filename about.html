@@ -274,6 +274,24 @@
           stroke-width="1.5"
         />
       </symbol>
+      <symbol id="icon-people" viewBox="0 0 24 24">
+  <circle cx="9" cy="8" r="3" fill="none" stroke="currentColor" stroke-width="1.6" />
+  <path d="M3.5 20c0-3 2.5-5 5.5-5s5.5 2 5.5 5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" />
+  <circle cx="17" cy="9" r="2.4" fill="none" stroke="currentColor" stroke-width="1.5" />
+  <path d="M15.2 20c.2-2.4 1.9-4.2 4.3-4.2" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
+</symbol>
+<symbol id="icon-target" viewBox="0 0 24 24">
+  <circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.5" />
+  <circle cx="12" cy="12" r="5" fill="none" stroke="currentColor" stroke-width="1.5" />
+  <circle cx="12" cy="12" r="1.5" fill="currentColor" />
+</symbol>
+<symbol id="icon-trend" viewBox="0 0 24 24">
+  <path d="M3 17l6-6 4 4 8-9" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M15 6h6v6" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+</symbol>
+<symbol id="icon-quote-mark" viewBox="0 0 40 32">
+  <path d="M4 32V19.5C4 10 9.5 3 18 0l2.4 4.8C14.6 7.2 11.5 11 11 16h9v16H4Z" fill="currentColor" />
+</symbol>
     </svg>
 
     <header class="navbar">
@@ -422,42 +440,54 @@
                 "Safe, efficient construction doesn't happen by accident. It is
                 engineered from raw materials up."
               </blockquote>
-              <cite>— Board of Directors</cite>
+              — Founder
             </div>
           </div>
           <div class="leadership-cards">
             <div class="member-card">
-              <div class="member-image">
-                <img
-                  src="./assets/profile.avif"
-                  alt="Harsh Ahuja - Managing Director"
-                />
+              <div class="member-card-top">
+                <div class="member-image">
+                  <img
+                    src="./assets/Mr. Himanshu.png"
+                    alt="Mr. Himanshu (Founder & CEO)"
+                  />
+                </div>
+                <div class="member-details">
+                  <span class="member-rule"></span>
+                  <h3>Mr. Himanshu</h3>
+                  <span class="member-role">Founder</span>
+                  <p>
+                    Overseeing the core vision, strategic partnerships, and
+                    fabrication plant expansions across India.
+                  </p>
+                  <div class="member-stats">
+                    <div class="member-stat">
+                      <svg><use href="#icon-people" /></svg>
+                      <span>People<br />First</span>
+                    </div>
+                    <div class="member-stat">
+                      <svg><use href="#icon-target" /></svg>
+                      <span>Sustainable<br />Growth</span>
+                    </div>
+                    <div class="member-stat">
+                      <svg><use href="#icon-trend" /></svg>
+                      <span>Stronger<br />India</span>
+                    </div>
+                  </div>
+                </div>
               </div>
-              <div class="member-details">
-                <h3>Ahuja</h3>
-                <span>Managing Director</span>
-                <p>
-                  Overseeing the core vision, strategic partnerships, and
-                  fabrication plant expansions across India.
-                </p>
+              <div class="member-quote-banner">
+                <blockquote>
+                  Building today for a safer,<br />stronger tomorrow.
+                </blockquote>
+                <svg class="quote-mark"><use href="#icon-quote-mark" /></svg>
               </div>
             </div>
-            <div class="member-card">
-              <div class="member-image">
-                <img
-                  src="./assets/profile.avif"
-                  alt="Neha Ahuja - Director of Operations"
-                />
-              </div>
-              <div class="member-details">
-                <h3>Ahuja</h3>
-                <span>Director of Operations</span>
-                <p>
-                  Directing global logistics, vendor onboarding, and automated
-                  inventory systems.
-                </p>
-              </div>
-            </div>
+
+            <!-- TO ADD ANOTHER TEAM MEMBER: copy the .member-card block above,
+                change the image, name, role, description and quote text.
+                It will automatically sit side-by-side (desktop) or stack
+                below (mobile) thanks to the existing .leadership-cards flex CSS. -->
           </div>
         </div>
       </div>
