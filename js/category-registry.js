@@ -1,15 +1,3 @@
-// ==========================================================
-// category-registry.js
-// Single source of truth for every category on the site.
-// Used by category-page.js, subcategory-page.js and subpart-page.js
-// so all three page types stay in sync automatically.
-//
-// TO ADD A NEW CATEGORY IN THE FUTURE:
-//   Add one entry below (copy an existing one, change the key —
-//   this becomes the "cat=" slug used in every URL on the site —
-//   and update its 4 values). No other file needs to change.
-// ==========================================================
-
 const CATEGORY_REGISTRY = {
   "construction-shuttering": {
     jsonPath: "src/_data/construction_shuttering.json",

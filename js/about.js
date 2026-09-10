@@ -46,15 +46,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
   /* ---------- GSAP ScrollTrigger Reveals & Parallax ---------- */
   if (window.gsap && window.ScrollTrigger && !reduceMotion) {
-    // Process section trigger
-    gsap.from('.process-section .section-head > *', {
-      y: 30, opacity: 0, stagger: 0.1, duration: 0.8, ease: 'power3.out',
-      scrollTrigger: { trigger: '.process-section', start: 'top 75%' }
-    });
-    gsap.from('.process-step', {
-      y: 30, opacity: 0, stagger: 0.1, duration: 0.6, ease: 'power3.out',
-      scrollTrigger: { trigger: '.process-grid', start: 'top 82%' }
-    });
 
     // Leadership triggers
     gsap.from('.leadership-intro > *', {
@@ -77,7 +68,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Footer triggers
-    gsap.from('.footer-cols > *', {
+    gsap.from('.footer-grid > *', {
       y: 24, opacity: 0, stagger: 0.1, duration: 0.7, ease: 'power3.out',
       scrollTrigger: { trigger: 'footer', start: 'top 85%' }
     });
