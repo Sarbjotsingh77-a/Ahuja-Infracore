@@ -15,6 +15,7 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/contact-modal.css" />
     <link rel="stylesheet" href="css/brands.css" />
   </head>
   <body>
@@ -229,6 +230,9 @@
           <a href="clients.html">Our Clients</a>
           <a href="about.html">About Us</a>
           <a href="contact.html">Contact Us</a>
+          <button type="button" id="getInTouchBtn" class="btn btn-primary">
+            Get in Touch
+          </button>
         </nav>
         <button class="menu-toggle" aria-label="Menu">
           <span></span>
@@ -250,6 +254,11 @@
         <li><a href="clients.html">Our Clients</a></li>
         <li><a href="about.html">About Us</a></li>
         <li><a href="contact.html">Contact Us</a></li>
+        <li>
+          <button type="button" id="getInTouchBtn" class="btn btn-primary">
+            Get in Touch
+          </button>
+        </li>
       </ul>
     </div>
 
@@ -449,11 +458,16 @@
           data-brand="XtraPower Tools"
           data-json="xtrapower-tools.json"
         >
-        
           <div class="brand-logo-box">
             <img
               src="assets/logos/xtra-power-tools.png"
               alt="XtraPower Tools"
+              style="
+                width: 85%;
+                height: auto;
+                max-height: 90px;
+                object-fit: contain;
+              "
             />
           </div>
         </button>
@@ -474,7 +488,29 @@
           data-json="Luckey-Fasteners.json"
         >
           <div class="brand-logo-box">
-            <img src="assets/logos/Luckey-Fasteners.png" alt="Luckey Fasteners" />
+            <img
+              src="assets/logos/Luckey-Fasteners.png"
+              alt="Luckey Fasteners"
+            />
+          </div>
+        </button>
+        <button
+          type="button"
+          class="brand-card"
+          data-brand="Taegutec Private Limited"
+          data-json="taegutec.json"
+        >
+          <div class="brand-logo-box">
+            <img
+              src="assets/logos/taegutec.jpg"
+              alt="Taegutec"
+              style="
+                width: 85%;
+                height: auto;
+                max-height: 90px;
+                object-fit: contain;
+              "
+            />
           </div>
         </button>
       </div>
@@ -661,6 +697,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
     <script src="js/main.js"></script>
+    <script src="js/category-registry.js"></script>
+    <script src="js/contact-modal.js"></script>
+    <script src="js/drive-images.js"></script>
     <script src="js/brands.js"></script>
   </body>
 </html>

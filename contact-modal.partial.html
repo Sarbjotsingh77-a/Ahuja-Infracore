@@ -1,0 +1,51 @@
+<!-- ==========================================================================
+  contact-modal.html
+  Injected into every page by js/contact-modal.js — you don't need to
+  paste this into your HTML files yourself.
+========================================================================== -->
+<div class="cm-overlay" id="contactModalOverlay" hidden>
+  <div class="cm-modal" role="dialog" aria-modal="true" aria-labelledby="cmTitle">
+    <button type="button" class="cm-close" id="contactModalClose" aria-label="Close">&times;</button>
+
+    <h2 id="cmTitle">Get in Touch</h2>
+    <p class="cm-subtitle">Tell us what you're looking for and we'll get back to you shortly.</p>
+
+    <form id="contactModalForm" novalidate>
+      <div class="cm-field">
+        <label for="cmName">Full Name *</label>
+        <input type="text" id="cmName" name="name" required placeholder="Your name" autocomplete="name">
+      </div>
+
+      <div class="cm-field-row">
+        <div class="cm-field">
+          <label for="cmPhone">Contact Number *</label>
+          <input type="tel" id="cmPhone" name="phone" required placeholder="10-digit mobile number"
+                 autocomplete="tel" inputmode="numeric" maxlength="10" pattern="[0-9]{10}">
+        </div>
+        <div class="cm-field">
+          <label for="cmEmail">Email *</label>
+          <input type="email" id="cmEmail" name="email" required placeholder="you@example.com" autocomplete="email">
+        </div>
+      </div>
+
+      <div class="cm-field">
+        <label>Requirements</label>
+
+        <div class="cm-chips" id="cmChips"></div>
+
+        <div class="cm-browser">
+          <div class="cm-breadcrumb" id="cmBreadcrumb"></div>
+          <div class="cm-list" id="cmList" tabindex="0"></div>
+        </div>
+      </div>
+
+      <div class="cm-field">
+        <label for="cmComments">Comments <span class="cm-field-optional">(optional)</span></label>
+        <textarea id="cmComments" name="comments" placeholder="Any additional details you'd like to share..."></textarea>
+      </div>
+
+      <button type="submit" class="btn btn-primary cm-submit">Submit Requirement</button>
+      <p class="cm-status" id="cmStatus" aria-live="polite"></p>
+    </form>
+  </div>
+</div>

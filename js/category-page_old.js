@@ -52,17 +52,7 @@ async function loadCategoryData() {
     document.getElementById("category-description").textContent = data.description || "";
     document.title = `${data.category_name} | Ahuja Infracore`;
 
-    // NEW: load the Drive map once, then pre-compute each subcategory's
-    // thumbnail as a real Drive URL, instead of building a local
-    // "assets/..." path inline inside renderGrid().
-    const driveMap = await DriveImages.load();
-    allSubcategories = (data.subcategories || []).map((subcat) => ({
-      ...subcat,
-      _thumbUrl: DriveImages.resolve(
-        driveMap,
-        `assets/products_new/category/${CURRENT_CONFIG.imageFolder}/${toFileName(subcat.name)}.png`
-      ),
-    }));
+    allSubcategories = data.subcategories || [];
     renderGrid(allSubcategories);
     updateCount(allSubcategories.length, allSubcategories.length);
 
@@ -100,7 +90,7 @@ function renderGrid(subcategories) {
       <a class="subcat-card" href="${FAMILY_PAGE}?cat=${encodeURIComponent(CURRENT_CAT_SLUG)}&sub=${encodeURIComponent(subcat.id)}">
         <div class="subcat-card-img">
           <img
-            src="${subcat._thumbUrl}"
+            src="assets/products_new/category/${CURRENT_CONFIG.imageFolder}/${toFileName(subcat.name)}.png"
             alt="${escapeHTML(subcat.name)}"
             onerror="console.error('Image failed:', this.src); this.parentElement.innerHTML = '<div style=\\'font-size:10px;padding:8px;color:#b00;word-break:break-all;\\'>Missing: ' + this.src + '</div>'; this.onerror=null;"
           />

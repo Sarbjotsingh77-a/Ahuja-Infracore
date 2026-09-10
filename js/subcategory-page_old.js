@@ -1,4 +1,23 @@
-
+// ==========================================================
+// subcategory-page.js
+// Drives subcategory.html — ONE common page reused for every
+// subcategory of every category on the site.
+//
+// URL shape:  subcategory.html?cat=<category-slug>&sub=<subcategory-id>
+//
+// Shows a grid of "subpart" cards (the finer groupings inside a
+// subcategory, e.g. "Steel Fixings", "Standard Fixings"...).
+// Clicking a card goes to subpart.html to show that subpart's
+// product table.
+//
+// Subcategories that have no further grouping (a flat `products`
+// array) get a single synthetic "General" card instead, so the
+// page works the same way for every subcategory without special
+// casing anywhere else on the site.
+//
+// Relies on CATEGORY_REGISTRY / helpers from category-registry.js,
+// which must be loaded before this file.
+// ==========================================================
 
 const SUBPART_PAGE = "subpart.html";
 
@@ -20,7 +39,6 @@ async function loadSubcategoryData() {
   try {
     const { config, data } = await fetchCategoryData(catSlug);
     const subcat = findSubcategory(data, subId);
-    const driveMap = await DriveImages.load(); // NEW: load the Drive path map
 
     if (!subcat) {
       showNotFound("This product family could not be found in " + escapeHTML(data.category_name) + ".");
@@ -40,16 +58,7 @@ async function loadSubcategoryData() {
     const titleTag = document.getElementById("page-title-tag");
     if (titleTag) titleTag.textContent = `${subcat.name} | Ahuja Infracore`;
 
-    allSubparts = getSubparts(subcat).map(part => {
-      const localHref = `assets/products_new/product-sheets/${catSlug}/${subId}/${toFileName(part.name)}.pdf`;
-      return {
-        ...part,
-        catSlug,
-        subId,
-        image: part.image ? DriveImages.resolve(driveMap, part.image) : part.image,
-        _pdfHref: DriveImages.resolveFile(driveMap, localHref), // NEW: resolved PDF link
-      };
-    });
+    allSubparts = getSubparts(subcat).map(part => ({ ...part, catSlug, subId }));
     renderGrid(allSubparts);
     updateCount(allSubparts.length, allSubparts.length);
 
@@ -80,7 +89,7 @@ function renderGrid(subparts) {
   noResults.style.display = "none";
   grid.innerHTML = subparts.map(part => {
     const count = part.products.length;
-    const href = part._pdfHref;
+    const href = `assets/products_new/product-sheets/${part.catSlug}/${part.subId}/${toFileName(part.name)}.pdf`;
     const iconHtml = part.image
       ? `<div class="subcat-card-icon subcat-card-icon-img">
           <img src="${part.image}" alt="${escapeHTML(part.name)}" loading="lazy"

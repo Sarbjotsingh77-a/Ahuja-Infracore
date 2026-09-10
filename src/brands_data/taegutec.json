@@ -1,0 +1,10 @@
+{
+  "brand": "Taegutec",
+  "products": [
+    {
+      "id": "carbides-inserts",
+      "name": "Carbides & Inserts",
+      "image": "assets/brands/product_images/Taegutec/carbides-inserts.png"
+    }
+  ]
+}

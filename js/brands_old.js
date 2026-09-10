@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
     return fallback;
   }
 
-  function renderProducts(brandName, products, driveMap) {
+  function renderProducts(brandName, products) {
     productsTitle.textContent = `${brandName} — Products`;
 
     if (!products.length) {
@@ -44,8 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
     } else {
       productsGrid.innerHTML = products.map(p => {
         const name = pick(p, ['name', 'title', 'product_name'], 'Product');
-        const rawImage = pick(p, ['image', 'img', 'photo', 'src'], '');
-        const image = rawImage ? DriveImages.resolve(driveMap, rawImage) : '';
+        const image = pick(p, ['image', 'img', 'photo', 'src'], '');
         return `
           <div class="product-card">
             <div class="product-image-box">
@@ -75,8 +74,7 @@ document.addEventListener('DOMContentLoaded', () => {
     productsSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
 
     if (cache.has(jsonFile)) {
-      const cached = cache.get(jsonFile);
-      renderProducts(brandName, cached.products, cached.driveMap);
+      renderProducts(brandName, cache.get(jsonFile));
       return;
     }
 
@@ -85,9 +83,8 @@ document.addEventListener('DOMContentLoaded', () => {
       if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
       const data = await res.json();
       const products = normalizeList(data);
-      const driveMap = await DriveImages.load(); // NEW: load the Drive path map
-      cache.set(jsonFile, { products, driveMap });
-      renderProducts(brandName, products, driveMap);
+      cache.set(jsonFile, products);
+      renderProducts(brandName, products);
     } catch (err) {
       productsTitle.textContent = `${brandName} — Products`;
       productsGrid.innerHTML = `<p class="brand-products-empty">Couldn't load products for ${brandName} right now.</p>`;

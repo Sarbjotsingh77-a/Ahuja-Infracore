@@ -24,14 +24,27 @@
   content: '';
   position: absolute;
   inset: 0;
-  background: linear-gradient(90deg, rgba(23,19,15,0.58) 0%, rgba(23,19,15,0.45) 45%, rgba(23,19,15,0.2) 75%, rgba(23,19,15,0.3) 100%);
+  background: linear-gradient(
+    90deg,
+    rgba(23, 19, 15, 0.62) 0%,
+    rgba(23, 19, 15, 0.48) 35%,
+    rgba(23, 19, 15, 0.22) 65%,
+    rgba(23, 19, 15, 0.14) 100%
+  );
   z-index: 1;
 }
+
 .about-hero-bg::after {
   content: '';
   position: absolute;
   inset: 0;
-  background: linear-gradient(180deg, rgba(23,19,15,0.25) 0%, rgba(23,19,15,0) 25%, rgba(23,19,15,0) 75%, rgba(23,19,15,0.35) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(23, 19, 15, 0.58) 0%,
+    rgba(23, 19, 15, 0.18) 22%,
+    rgba(23, 19, 15, 0) 60%,
+    rgba(23, 19, 15, 0.28) 100%
+  );
   z-index: 1;
 }
 .about-hero-main {
@@ -56,7 +69,7 @@
   color: var(--gold);
 }
 .about-hero-content p {
-  color: rgba(238,225,210,0.85);
+  color: rgba(238,225,210,0.95);
   font-size: 1rem;
   line-height: 1.6;
   margin-bottom: 30px;
@@ -64,7 +77,7 @@
 }
 .breadcrumb {
   font-size: 0.78rem;
-  color: rgba(238,225,210,0.5);
+  color: rgba(238,225,210,0.7);
   margin-bottom: 18px;
   text-transform: uppercase;
   letter-spacing: 0.05em;
@@ -78,7 +91,7 @@
 }
 
 /* ---------- Our Process Section ---------- */
-.process-section {
+/* .process-section {
   background: var(--cream);
   display: flex;
   align-items: center;
@@ -151,9 +164,8 @@
   color: var(--muted);
   line-height: 1.5;
   margin: 0;
-}
+} */
 
-/* ---------- Leadership Section ---------- */
 /* ---------- Leadership Section ---------- */
 .leadership-section {
   background: var(--white);
@@ -306,7 +318,7 @@
 }
 .member-quote-banner {
   position: relative;
-  background: var(--brown);
+  background: var(--accent);
   padding: 26px 32px;
   overflow: hidden;
 }
