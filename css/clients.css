@@ -570,17 +570,7 @@
     var(--dark);
 }
 
-.site-footer::after {
-  content: "";
-  position: absolute;
-  right: 4%;
-  bottom: 0;
-  width: 210px;
-  height: 210px;
-  border: 1px solid rgba(184,135,74,.08);
-  transform: rotate(45deg);
-  pointer-events: none;
-}
+
 
 /* ---------- RESPONSIVE ---------- */
 @media (max-width: 1100px) {

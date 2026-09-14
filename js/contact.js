@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
       offices: [
                 {
           name: "North Delhi",
-          zone: "North Zone Office",
+          zone: "North Zone",
           address: "New Delhi, India",
           phone: "+91 12345 67891",
           email: "delhi@ahujainfracore.com",
@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
           name: "Okhla Enclave",
-          zone: "South Zone Office",
+          zone: "South Zone",
           address: "Okhla Enclave, New Delhi, India",
           phone: "+91 12345 67892",
           email: "okhla@ahujainfracore.com",
@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
           name: "Narela",
-          zone: "North Zone Office",
+          zone: "North Zone",
           address: "Narela, New Delhi, India",
           phone: "+91 12345 67893",
           email: "narela@ahujainfracore.com",
@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
           name: "Wazirpur",
-          zone: "North Zone Office",
+          zone: "North Zone",
           address: "Wazirpur, New Delhi, India",
           phone: "+91 12345 67894",
           email: "wazirpur@ahujainfracore.com",
@@ -999,7 +999,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (!stateData || !detailsContainer) return;
 
     let namesHtml = `<div class="office-names-box">`;
-    namesHtml += `<span class="office-names-heading">${stateData.stateName} Offices</span>`;
+    namesHtml += `<span class="office-names-heading">${stateData.stateName}</span>`;
     namesHtml += `<div class="office-names-list">`;
         stateData.offices.forEach(office => {
       namesHtml += `<span class="office-name-pill"><span class="office-name-dot"></span><span class="office-name-text">${office.name}</span></span>`;

@@ -103,9 +103,10 @@
     resetBrowserToCategories();
   }
 
-  function openModal() {
+    function openModal() {
     injectModal().then(() => {
       overlay.hidden = false;
+      document.documentElement.style.overflow = "hidden";
       document.body.style.overflow = "hidden";
     });
   }
@@ -113,6 +114,7 @@
   function closeModal() {
     if (overlay) {
       overlay.hidden = true;
+      document.documentElement.style.overflow = "";
       document.body.style.overflow = "";
     }
   }
