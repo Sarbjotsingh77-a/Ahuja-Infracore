@@ -121,8 +121,6 @@
 }
 @media (min-width: 1024px) {
   .contact-main-grid {
-    height: calc(100vh - var(--nav-h) - 40px);
-    max-height: 760px;
     grid-template-rows: 1fr;
   }
 }
@@ -236,12 +234,12 @@
 .info-cards{
   display:grid;
   grid-template-columns:1fr 1fr;
-  gap:16px;
+  gap:14px;
 }
 .info-block{
   display:flex;
   gap:16px;
-  padding:22px;
+  padding:18px 22px;
   border:1px solid var(--beige);
   border-radius:10px;
   background:var(--light-cream);
@@ -274,8 +272,8 @@
 .info-block-full{grid-column:1 / -1;}
 
 .contact-closing-text{
-  margin-top:auto;
-  padding:28px;
+  margin-top:16px;
+  padding:22px 28px;
   background:var(--light-cream);
   border:1px solid var(--beige);
   border-radius:10px;
@@ -381,12 +379,11 @@
 
 .locations-left {
   display: grid;
-  grid-template-columns: 1fr 1fr; /* Equal width for both state list & office details block */
+  grid-template-columns: 1fr 1fr;
   gap: 30px;
   width: 100%;
 }
 
-/* States List Sidebar (Scrollable up to Jharkhand) */
 .states-list {
   display: flex;
   flex-direction: column;
@@ -394,15 +391,14 @@
   background: var(--cream);
   padding: 10px 0;
   border-radius: 4px;
-  height: 480px;              /* Fixed height displaying ~9-10 visible state rows */
-  max-height: 480px;          /* Prevents expanding beyond target height */
+  height: 480px;
+  max-height: 480px;
   overflow-y: auto;
   scroll-behavior: smooth;
   width: 100%;
   box-sizing: border-box;
 }
 
-/* Custom Scrollbar for States List */
 .states-list::-webkit-scrollbar {
   width: 5px;
 }
@@ -447,7 +443,6 @@
   color: var(--brown);
 }
 
-/* Hover & Active States */
 .state-item:hover {
   background: var(--light-cream);
   color: var(--brown);
@@ -464,7 +459,7 @@
   color: var(--brown);
   font-weight: 600;
   border-left: 3px solid var(--brown);
-  padding-left: 21px; /* adjusts for border spacing */
+  padding-left: 21px;
 }
 
 .state-item.active .state-indicator {
@@ -482,7 +477,6 @@
   color: black;
 }
 
-/* Office Details — single box, names only */
 .office-details-container {
   display: flex;
   flex-direction: column;
@@ -498,7 +492,7 @@
   width: 100%;
   height: 100%;
   box-sizing: border-box;
-  overflow-y: auto; /* scrolls only on the rare state with more than ~10 offices */
+  overflow-y: auto;
 }
 
 .office-names-heading {
@@ -514,24 +508,24 @@
 .office-names-list {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 16px 8px; /* Reduced horizontal gap from 12px to 8px */
+  gap: 16px 8px;
   align-items: start;
 }
 
 .office-name-pill {
   display: flex;
   align-items: flex-start;
-  gap: 6px; /* Reduced gap between dot and text */
+  gap: 6px;
   min-width: 0;
   color: var(--dark);
-  font-size: 0.78rem; /* Scaled down slightly from 0.82rem so long words fit on one line */
+  font-size: 0.78rem;
   font-weight: 650;
-  padding: 4px 2px; /* Reduced side padding so text has maximum available width */
+  padding: 4px 2px;
   border-radius: 4px;
   text-transform: uppercase;
   border: 1px solid transparent;
   transition: border-color 0.3s ease, transform 0.3s ease;
-  white-space: nowrap; /* Forces text like FARRUKNAGAR to remain on one single line */
+  white-space: nowrap;
 }
 
 .office-name-dot {
@@ -546,7 +540,7 @@
 .office-name-text {
   min-width: 0;
   line-height: 1.35;
-  white-space: normal; /* Allows multi-word items like DWARKA EXPRESSWAY to still wrap if needed */
+  white-space: normal;
 }
 
 .office-name-pill:hover {
@@ -554,7 +548,6 @@
   transform: translateY(-2px);
 }
 
-/* Map Right Column */
 .locations-right {
   position: sticky;
   top: 110px;
@@ -572,7 +565,6 @@
   display: block;
 }
 
-/* State SVG Paths styling */
 .state-path {
   fill: #e8dccb;
   stroke: var(--white);
@@ -592,7 +584,6 @@
   stroke-width: 1.5px;
 }
 
-/* Markers styling */
 .map-marker {
   cursor: pointer;
   outline: none;
@@ -646,7 +637,6 @@
   max-width:720px;
 }
 
-/* Responsive: stack on small screens */
 @media (max-width: 480px) {
   .stats-strip {
     flex-direction: column;
@@ -657,8 +647,6 @@
   }
 }
 
-/* RESPONSIVE */
-
 @media (max-width:1280px){
   .trust-grid{grid-template-columns:repeat(3,1fr);row-gap:36px;}
   .trust-item:nth-child(4){border-left:none;padding-left:0;}
@@ -666,7 +654,6 @@
 
 @media (max-width:1023px){
 
-  /* ---- Hero: fill the viewport on tablet/mobile ---- */
   .page-hero.contact-hero{
     min-height:100svh;
     min-height:100vh; 
@@ -696,7 +683,6 @@
     justify-content: center;
   }
 
-  /* ---- Locations: stack states list above office cards ---- */
   .locations-container {
     grid-template-columns: 1fr;
     gap: 40px;
@@ -709,7 +695,6 @@
     position: static;
   }
 
-  /* ---- Map: give it real size instead of the desktop 70%/flex-end crop ---- */
   .map-wrapper{
     justify-content:center;
     border-radius:6px;
@@ -729,7 +714,6 @@
 
   .form-row{grid-template-columns:1fr;}
   .contact-cta-card{padding:22px;margin-top:26px;}
-  /* ---- Trust strip: restyle as compact cards instead of bare columns ---- */
   .contact-trust{padding:48px 0;}
   .trust-grid{grid-template-columns:repeat(2,1fr);gap:14px;}
 
@@ -757,11 +741,9 @@
   .trust-item h3{font-size:.8rem;margin-bottom:6px;}
   .trust-item p{font-size:.74rem;}
 
-    /* ---- Presence section: no extra top/bottom padding ---- */
   .contact-presence{padding:0;}
   .locations-container{margin-top:20px;}
 
-  /* Every box in this section stays inside the viewport width, no overflow */
   .locations-container,
   .locations-left,
   .locations-right,
@@ -774,7 +756,6 @@
     box-sizing:border-box;
   }
 
-  /* States list: one bordered box, 3 states per row */
   .states-list{
     display:grid;
     grid-template-columns:repeat(3,1fr);
@@ -796,7 +777,7 @@
     font-size:.72rem;
     text-align:center;
   }
-  .state-item:hover{padding-left:6px;} /* cancel the desktop hover shift */
+  .state-item:hover{padding-left:6px;}
   .state-item.active{
     border-left:none;
     border:1px solid var(--brown);
@@ -805,9 +786,6 @@
   .state-arrow{display:none;}
   .state-indicator{display:none;}
 
-/* Office names: fixed-height scrollable area */
-/* Office names: sizes to content, scrolls only if a state ever has more offices than fit */
-/* Office names: same fixed size for every state, fits up to ~10 offices */
 .office-details-container{
   height:260px;
 }
@@ -837,7 +815,6 @@
   transform:none;
 }
 
-  /* Map: fills the viewport width, scales with it */
   .map-wrapper{
     padding:10px;
     justify-content:center;
