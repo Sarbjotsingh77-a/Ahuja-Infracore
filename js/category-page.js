@@ -102,6 +102,7 @@ function renderGrid(subcategories) {
           <img
             src="${subcat._thumbUrl}"
             alt="${escapeHTML(subcat.name)}"
+            loading="lazy"
             onerror="console.error('Image failed:', this.src); this.parentElement.innerHTML = '<div style=\\'font-size:10px;padding:8px;color:#b00;word-break:break-all;\\'>Missing: ' + this.src + '</div>'; this.onerror=null;"
           />
         </div>

@@ -786,6 +786,10 @@
 }
 
 @media (max-width: 767px) {
+  .hero-main {
+    align-items: flex-start;
+    padding-top: var(--nav-h);   /* was calc(var(--nav-h) + 20px) */
+  }
   .hero-content {
     padding: 0 24px;
   }
